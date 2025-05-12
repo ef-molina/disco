@@ -2,18 +2,21 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { normalizeImagePath } from '../utils/imageHelper';
 import { getAlbums } from '../api/albums';
+import AlbumCard from '../components/AlbumCard.jsx';
+import AlbumModal from '../components/AlbumModal.jsx';
 
 export default function Albums({ cart, setCart, searchTerm = '' }) {
     const [albums, setAlbums] = useState([]);
     const [loading, setLoading] = useState(true);
     const [justAddedId, setJustAddedId] = useState(null);
+    const [selectedAlbum, setSelectedAlbum] = useState(null);
     const navigate = useNavigate();
 
     useEffect(() => {
         setLoading(true);
         getAlbums()
             .then((data) => {
-                // Calculate price for each album similar to old logic
+                // Calculate price for each album
                 const processed = data.map((alb, idx) => {
                     const releaseYear = alb.release_date ? new Date(alb.release_date).getFullYear() : new Date().getFullYear();
                     const age = new Date().getFullYear() - releaseYear;
@@ -23,6 +26,7 @@ export default function Albums({ cart, setCart, searchTerm = '' }) {
                     else if (age < 10) basePrice = 14.99;
                     else if (age < 20) basePrice = 11.99;
                     else basePrice = 8.99;
+
                     // Random and edition factors
                     const randomFactor = Math.floor(Math.random() * 7) - 3;
                     const isSpecial = idx % 7 === 0;
@@ -86,29 +90,10 @@ export default function Albums({ cart, setCart, searchTerm = '' }) {
                 </p>
             </header>
 
-            <div className='max-w-screen-2xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-8'>
+            <div className='max-w-screen-lg mx-auto grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
                 {filtered.map((album) => (
-                    <div key={album.id} className='bg-white rounded-md shadow-lg p-6 flex flex-col h-full'>
-                        <div className='w-full h-52 overflow-hidden'>
-                            <img src={album.img} alt={album.title} className='w-full h-full object-cover object-center rounded-md mb-4' />
-                        </div>
-                        <div className='flex-1 flex flex-col'>
-                            <div className='flex justify-between items-start'>
-                                <h3 className='text-lg font-semibold mb-1 mt-2'>{album.title}</h3>
-                                <span className='text-green-600 font-bold'>${album.price}</span>
-                            </div>
-                            <p className='text-sky-500'>{album.artistName}</p>
-                            {album.release_date && <p className='text-gray-400 text-sm mb-2'>Released: {album.release_date}</p>}
-                            {album.trackCount > 0 && <p className='text-gray-500 text-sm mb-2'>{album.trackCount} tracks</p>}
-                            {album.isSpecialEdition && <div className='bg-yellow-100 text-yellow-800 text-xs font-medium px-2 py-1 rounded mb-3 inline-block'>Special Edition</div>}
-                            <div className='mt-auto pt-4'>
-                                <button
-                                    onClick={() => addToCart(album)}
-                                    className={`w-full px-4 py-2 rounded text-white transition duration-200 ${justAddedId === album.id ? 'bg-green-500' : 'bg-blue-500 hover:bg-blue-600'}`}>
-                                    {justAddedId === album.id ? '✅ Added!' : 'Add to Cart'}
-                                </button>
-                            </div>
-                        </div>
+                    <div key={album.id} onClick={() => setSelectedAlbum(album)}>
+                        <AlbumCard key={album.id} album={album} addToCart={addToCart} justAddedId={justAddedId} />
                     </div>
                 ))}
             </div>
@@ -118,6 +103,8 @@ export default function Albums({ cart, setCart, searchTerm = '' }) {
                     Go to Cart ({cart.length})
                 </button>
             </div>
+
+            <AlbumModal album={selectedAlbum} onClose={() => setSelectedAlbum(null)} />
         </div>
     );
 }

@@ -30,10 +30,11 @@ const Sidebar = ({ setUserLoggedIn }) => {
             <div className='flex flex-col space-y-4'>
                 {/* Navigation Side bar Top Section */}
                 <div className='space-y-1'>
-                    <NavLink to='/home' className={linkClasses}>
-                        <MdHome className='text-xl' />
-                        <span className='hidden sm:inline'>Home</span>
+                    <NavLink to='/genres' className={linkClasses}>
+                        <MdLibraryMusic className='text-xl' />
+                        <span className='hidden sm:inline'>Genres</span>
                     </NavLink>
+
                     <NavLink to='/albums' className={linkClasses}>
                         <MdAlbum className='text-xl' />
                         <span className='hidden sm:inline'>Albums</span>
@@ -41,10 +42,6 @@ const Sidebar = ({ setUserLoggedIn }) => {
                     <NavLink to='/artists' className={linkClasses}>
                         <MdPerson className='text-xl' />
                         <span className='hidden sm:inline'>Artists</span>
-                    </NavLink>
-                    <NavLink to='/genres' className={linkClasses}>
-                        <MdLibraryMusic className='text-xl' />
-                        <span className='hidden sm:inline'>Genres</span>
                     </NavLink>
                 </div>
             </div>
@@ -59,14 +56,7 @@ const Sidebar = ({ setUserLoggedIn }) => {
                     <FaReceipt className='text-xl' />
                     <span className='hidden sm:inline'>Orders</span>
                 </NavLink>
-                <NavLink to='/wishlist' className={linkClasses}>
-                    <FaHeart className='text-xl' />
-                    <span className='hidden sm:inline'>Wishlist</span>
-                </NavLink>
-                <NavLink to='/account' className={linkClasses}>
-                    <FaUser className='text-xl' />
-                    <span className='hidden sm:inline'>Account</span>
-                </NavLink>
+
                 <button onClick={handleLogout} className='w-full flex items-center gap-3 px-4 py-2 rounded-lg text-sm font-medium text-red-600 hover:bg-red-100'>
                     <MdLogout className='text-xl' />
                     <span className='hidden sm:inline'>Logout</span>

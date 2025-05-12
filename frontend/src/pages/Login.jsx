@@ -32,10 +32,11 @@ const Login = ({ setUserLoggedIn, setUser }) => {
             // we will store a flag to see if user is still logges in or not
             localStorage.setItem('userLoggedIn', true);
             setUserLoggedIn(true);
-            setUser({ username });
+            console.log('User logged in:', user);
+            setUser(user);
 
             // Redirect to home
-            navigate('/home');
+            navigate('/genres');
         } catch (err) {
             console.error(err);
             setError(err.message);

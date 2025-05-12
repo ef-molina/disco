@@ -16,14 +16,13 @@ const Navbar = ({ searchTerm, setSearchTerm, cart = [] }) => {
     const handleSearch = (e) => {
         e.preventDefault();
         console.log('Search term:', searchTerm);
-        // The searchTerm state is already being updated in onChange
     };
 
     return (
         <div className='w-full bg-gray-800 text-white py-4 px-4'>
             <div className='max-w-screen-2xl mx-auto flex sm:flex-row items-center justify-between gap-4'>
                 {/* Logo + App Name */}
-                <div className='flex items-center gap-2 cursor-pointer' onClick={() => navigate('/home')}>
+                <div className='flex items-center gap-2 cursor-pointer' onClick={() => navigate('/genres')}>
                     <img src={logo} alt='Logo' className='w-10 h-10' />
                     <span className='text-2xl font-bold hidden sm:inline'>Disco</span>
                 </div>

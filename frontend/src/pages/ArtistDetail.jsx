@@ -3,24 +3,25 @@ import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { normalizeImagePath } from '../utils/imageHelper';
 import { getArtistById } from '../api/artists';
+import AlbumCard from '../components/AlbumCard.jsx';
+import AlbumModal from '../components/AlbumModal.jsx';
 
 export default function ArtistDetail({ cart, setCart, searchTerm = '' }) {
-    const { artistId } = useParams(); // ← exactly ":artistId" from the route
+    const { artistId } = useParams();
     const navigate = useNavigate();
 
     const [artist, setArtist] = useState(null);
     const [albums, setAlbums] = useState([]);
     const [loading, setLoading] = useState(true);
     const [justAddedId, setJustAddedId] = useState(null);
+    const [selectedAlbum, setSelectedAlbum] = useState(null);
 
     useEffect(() => {
-        if (!artistId) return; // won't fetch until this is set
-        console.log('Fetching artist data for ID:', artistId);
+        if (!artistId) return;
         setLoading(true);
 
         getArtistById(artistId)
             .then((data) => {
-                console.log('Fetched artist data:', data);
                 setArtist({
                     ...data,
                     img: normalizeImagePath(data.img_url || data.img || ''),
@@ -47,6 +48,7 @@ export default function ArtistDetail({ cart, setCart, searchTerm = '' }) {
                         price: price.toFixed(2),
                         trackCount: alb.tracks?.length || 0,
                         isSpecialEdition,
+                        tracks: alb.tracks || [],
                     };
                 });
 
@@ -94,7 +96,7 @@ export default function ArtistDetail({ cart, setCart, searchTerm = '' }) {
                 <img src={artist.img} alt={artist.name} className='w-full md:w-1/3 rounded-lg shadow' />
                 <div className='flex-1'>
                     <h1 className='text-3xl font-bold mb-4'>{artist.name}</h1>
-                    {artist.bio && <p className='text-gray-700 mb-4'>{artist.bio}</p>}
+                    {artist.bio_summary && <p className='text-gray-700 mb-4'>{artist.bio_summary}</p>}
                     <div className='grid grid-cols-1 md:grid-cols-2 gap-4'>
                         {artist.bio_birthdate && (
                             <div className='bg-gray-50 p-3 rounded'>
@@ -113,25 +115,12 @@ export default function ArtistDetail({ cart, setCart, searchTerm = '' }) {
             {/* Albums Grid */}
             <h2 className='text-2xl font-bold mb-6'>Albums</h2>
             {filtered.length === 0 ? (
-                <p className='text-center text-gray-500'>No albums match “{searchTerm}.”</p>
+                <p className='text-center text-gray-500'>No albums match “{searchTerm}”.</p>
             ) : (
-                <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6'>
-                    {filtered.map((alb) => (
-                        <div key={alb.id} className='bg-white rounded-md shadow overflow-hidden flex flex-col'>
-                            <img src={alb.img} alt={alb.title} className='w-full h-48 object-cover' />
-                            <div className='p-4 flex-1 flex flex-col'>
-                                <div className='flex justify-between mb-2'>
-                                    <h3 className='font-semibold'>{alb.title}</h3>
-                                    <span className='text-green-600 font-bold'>${alb.price}</span>
-                                </div>
-                                <div className='mt-auto'>
-                                    <button
-                                        onClick={() => addToCart(alb)}
-                                        className={`w-full py-2 rounded text-white transition ${justAddedId === alb.id ? 'bg-green-500' : 'bg-blue-500 hover:bg-blue-600'}`}>
-                                        {justAddedId === alb.id ? '✅ Added!' : 'Add to Cart'}
-                                    </button>
-                                </div>
-                            </div>
+                <div className='max-w-screen-lg mx-auto grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
+                    {filtered.map((album) => (
+                        <div key={album.id} onClick={() => setSelectedAlbum(album)}>
+                            <AlbumCard key={album.id} album={album} addToCart={addToCart} justAddedId={justAddedId} />
                         </div>
                     ))}
                 </div>
@@ -142,6 +131,8 @@ export default function ArtistDetail({ cart, setCart, searchTerm = '' }) {
                     View Cart ({cart.length})
                 </button>
             </div>
+
+            <AlbumModal album={selectedAlbum} onClose={() => setSelectedAlbum(null)} />
         </div>
     );
 }
