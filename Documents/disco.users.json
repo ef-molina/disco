@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "681e6c51c55802e1945e36a7"
+  },
+  "username": "TestUser1",
+  "passwordHash": "$2b$10$0d7TDA1ZgiLnHv0sh5eRg.ePj3FW1y0b4bJrsDgT3NGoZotR/ITqi",
+  "createdAt": {
+    "$date": "2025-05-09T20:57:53.190Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e6cb2c55802e1945e36a8"
+  },
+  "username": "TestUser2",
+  "passwordHash": "$2b$10$mNpl7pvCNcEdjMD6P7f6d.1SaqANw46w0S5Xp0eZUY96NY2.Nj92u",
+  "createdAt": {
+    "$date": "2025-05-09T20:59:30.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "681e6cdfc55802e1945e36a9"
+  },
+  "username": "TestUser3",
+  "passwordHash": "$2b$10$njSUCzI1IEngNSELFNe8i.L9I1fBG6zMioiu0LoEoX3Y8CzxNU9vm",
+  "createdAt": {
+    "$date": "2025-05-09T21:00:15.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68210cf3a4360aa5ab0f5626"
+  },
+  "username": "TestUser22",
+  "passwordHash": "$2b$10$RWc265MJ1uZJdzxkNPA34uP6hLV7FCo6qZclNz/FYQ0rMB7GLAEwm",
+  "createdAt": {
+    "$date": "2025-05-11T20:47:47.563Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6822018264cc4bcc5f906440"
+  },
+  "username": "efmol",
+  "passwordHash": "$2b$10$B.wI2PdXcRQf21hJqnPG7.8RDSsYmvlxbc4KcmTacK7g/l5cNfdbG",
+  "createdAt": {
+    "$date": "2025-05-12T14:11:14.553Z"
+  }
+}]

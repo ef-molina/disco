@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "6821fab364cc4bcc5f90643d"
+  },
+  "userId": {
+    "$oid": "68210cf3a4360aa5ab0f5626"
+  },
+  "items": [
+    {
+      "albumId": "681e7a18e4b829c6cf3bdf51-2",
+      "title": "I Am...",
+      "artistName": null,
+      "price": 5.99,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e7a18e4b829c6cf3bdf51-1",
+      "title": "It Was Written",
+      "artistName": null,
+      "price": 7.99,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e7a18e4b829c6cf3bdf51-5",
+      "title": "God's Son",
+      "artistName": null,
+      "price": 11.98,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e78c7e4b829c6cf3bdf40-0",
+      "title": "Kind of Blue",
+      "artistName": "Miles Davis",
+      "price": 12.98,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e78c7e4b829c6cf3bdf40-1",
+      "title": "Bitches Brew",
+      "artistName": "Miles Davis",
+      "price": 8.99,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e78c7e4b829c6cf3bdf41-0",
+      "title": "A Love Supreme",
+      "artistName": "John Coltrane",
+      "price": 5.99,
+      "quantity": 1
+    }
+  ],
+  "total": 53.92,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-05-12T13:42:11.410Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821fc1964cc4bcc5f90643e"
+  },
+  "userId": {
+    "$oid": "68210cf3a4360aa5ab0f5626"
+  },
+  "items": [
+    {
+      "albumId": "681e78c7e4b829c6cf3bdf40-0",
+      "title": "Kind of Blue",
+      "artistName": "Miles Davis",
+      "price": 16.98,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e78c7e4b829c6cf3bdf40-1",
+      "title": "Bitches Brew",
+      "artistName": "Miles Davis",
+      "price": 9.99,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e79c9e4b829c6cf3bdf45-19",
+      "title": "The Loretta Lynn Country Christmas",
+      "artistName": "Loretta Lynn",
+      "price": 5.99,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e79c9e4b829c6cf3bdf46-0",
+      "title": null,
+      "artistName": "The Carter Family",
+      "price": 16.99,
+      "quantity": 1
+    }
+  ],
+  "total": 49.95,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-05-12T13:48:09.561Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6821fcd764cc4bcc5f90643f"
+  },
+  "userId": {
+    "$oid": "68210cf3a4360aa5ab0f5626"
+  },
+  "items": [
+    {
+      "albumId": "681e78c7e4b829c6cf3bdf40-0",
+      "title": "Kind of Blue",
+      "artistName": null,
+      "price": 12.98,
+      "quantity": 1
+    },
+    {
+      "albumId": "681e78c7e4b829c6cf3bdf40-1",
+      "title": "Bitches Brew",
+      "artistName": null,
+      "price": 8.99,
+      "quantity": 1
+    }
+  ],
+  "total": 21.97,
+  "status": "pending",
+  "createdAt": {
+    "$date": "2025-05-12T13:51:19.523Z"
+  }
+}]

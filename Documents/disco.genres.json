@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf34"
+  },
+  "name": "Hip Hop",
+  "color": "#1E3A8A",
+  "description": "A rhythmic music genre characterized by beats, rap, and DJing.",
+  "link": "hip-hop"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf35"
+  },
+  "name": "Rock",
+  "color": "#DC2626",
+  "description": "A genre known for electric guitars, strong beats, and rebellious themes.",
+  "link": "rock"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf36"
+  },
+  "name": "Country",
+  "color": "#10B981",
+  "description": "Music storytelling with folk instruments, twangy vocals, and heartfelt lyrics.",
+  "link": "country"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf37"
+  },
+  "name": "Reggae",
+  "color": "#059669",
+  "description": "A genre from Jamaica known for offbeat rhythms and messages of unity.",
+  "link": "reggae"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf38"
+  },
+  "name": "Jazz",
+  "color": "#9333EA",
+  "description": "A genre with improvisation, swing rhythms, and rich instrumental harmonies.",
+  "link": "jazz"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf39"
+  },
+  "name": "Metal",
+  "color": "#374151",
+  "description": "Heavy guitar riffs, aggressive vocals, and powerful drum beats define this genre.",
+  "link": "metal"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf3a"
+  },
+  "name": "Classical",
+  "color": "#FBBF24",
+  "description": "Orchestral and instrumental music rooted in traditional composition techniques.",
+  "link": "classical"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf3b"
+  },
+  "name": "Pop",
+  "color": "#D946EF",
+  "description": "Popular and mainstream music with catchy melodies and upbeat rhythms.",
+  "link": "pop"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf3c"
+  },
+  "name": "Blues",
+  "color": "#2563EB",
+  "description": "A soulful genre originating from African American traditions with deep emotions.",
+  "link": "blues"
+},
+{
+  "_id": {
+    "$oid": "681e77f0e4b829c6cf3bdf3d"
+  },
+  "name": "R&B",
+  "color": "#6D28D9",
+  "description": "Rhythm and blues with smooth vocals, strong beats, and soulful melodies.",
+  "link": "r&b"
+}]
