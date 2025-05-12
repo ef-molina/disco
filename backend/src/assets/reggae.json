@@ -1,0 +1,214 @@
+[
+    {
+        "name": "Bob Marley",
+        "bio_url": "https://en.wikipedia.org/wiki/Bob_Marley",
+        "bio_birthdate": "1945-02-06",
+        "bio_summary": "Bob Marley was a Jamaican singer, songwriter, and musician who became an international symbol of reggae music and Rastafarianism. With his band, The Wailers, he popularized reggae around the world. His songs, such as 'No Woman, No Cry,' 'Buffalo Soldier,' and 'One Love,' remain anthems of peace, unity, and freedom.",
+        "img_url": "/assets/reggae/bobmarley.jpg",
+        "location_city": "Nine Mile",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Catch a Fire",
+                "release_date": "1973-04-13",
+                "tracks": [
+                    { "title": "Concrete Jungle", "featured_artists": [] },
+                    { "title": "Slave Driver", "featured_artists": [] },
+                    { "title": "3000 Years", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Rastaman Vibration",
+                "release_date": "1976-04-30",
+                "tracks": [
+                    { "title": "Positive Vibration", "featured_artists": [] },
+                    { "title": "Roots, Rock, Reggae", "featured_artists": [] },
+                    { "title": "Johnny Was", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Exodus",
+                "release_date": "1977-06-03",
+                "tracks": [
+                    { "title": "One Love/People Get Ready", "featured_artists": [] },
+                    { "title": "Jamming", "featured_artists": [] },
+                    { "title": "Exodus", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Peter Tosh",
+        "bio_url": "https://en.wikipedia.org/wiki/Peter_Tosh",
+        "bio_birthdate": "1944-10-19",
+        "bio_summary": "Peter Tosh was a Jamaican musician and a founding member of The Wailers along with Bob Marley. As a solo artist, Tosh continued to spread messages of revolution, social justice, and Rastafarian beliefs through reggae. His most famous songs include 'Legalize It,' 'Maga Dog,' and 'Equal Rights.'",
+        "img_url": "/assets/reggae/petertosh.jpg",
+        "location_city": "Grange Hill",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Legalize It",
+                "release_date": "1976-04-20",
+                "tracks": [
+                    { "title": "Legalize It", "featured_artists": [] },
+                    { "title": "Maga Dog", "featured_artists": [] },
+                    { "title": "Igziabeher", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Equal Rights",
+                "release_date": "1977-03-30",
+                "tracks": [
+                    { "title": "Equal Rights", "featured_artists": [] },
+                    { "title": "Downpressor Man", "featured_artists": [] },
+                    { "title": "Steppin' Razor", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Jimmy Cliff",
+        "bio_url": "https://en.wikipedia.org/wiki/Jimmy_Cliff",
+        "bio_birthdate": "1948-04-30",
+        "bio_summary": "Jimmy Cliff is a Jamaican musician and actor, best known for his contribution to reggae music and his role in the 1972 film *The Harder They Come*. His songs like 'The Harder They Come,' 'You Can Get It If You Really Want,' and 'Many Rivers to Cross' have earned him global recognition as one of the genre's most influential artists.",
+        "img_url": "/assets/reggae/jimmycliff.jpg",
+        "location_city": "Somerton",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "The Harder They Come",
+                "release_date": "1972-06-10",
+                "tracks": [
+                    { "title": "You Can Get It If You Really Want", "featured_artists": [] },
+                    { "title": "The Harder They Come", "featured_artists": [] },
+                    { "title": "Many Rivers to Cross", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Wild World",
+                "release_date": "1970-01-01",
+                "tracks": [
+                    { "title": "Wild World", "featured_artists": [] },
+                    { "title": "Sitting Here in Limbo", "featured_artists": [] },
+                    { "title": "Struggling Man", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Burning Spear",
+        "bio_url": "https://en.wikipedia.org/wiki/Burning_Spear",
+        "bio_birthdate": "1945-03-01",
+        "bio_summary": "Burning Spear, born Winston Rodney, is a Jamaican reggae musician who is one of the genre's most well-known Rastafarian voices. His music emphasizes themes of African identity, spirituality, and social justice. His notable works include 'Marcus Garvey,' 'Jah Nuh Dead,' and 'Slavery Days.'",
+        "img_url": "/assets/reggae/burningspear.jpg",
+        "location_city": "Saint Ann",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Marcus Garvey",
+                "release_date": "1975-01-01",
+                "tracks": [
+                    { "title": "Marcus Garvey", "featured_artists": [] },
+                    { "title": "Columbus", "featured_artists": [] },
+                    { "title": "The Lion", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Jah Nuh Dead",
+                "release_date": "1979-01-01",
+                "tracks": [
+                    { "title": "Jah Nuh Dead", "featured_artists": [] },
+                    { "title": "Slavery Days", "featured_artists": [] },
+                    { "title": "Garvey's Ghost", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Toots Hibbert",
+        "bio_url": "https://en.wikipedia.org/wiki/Toots_Hibbert",
+        "bio_birthdate": "1942-12-08",
+        "bio_summary": "Toots Hibbert was a Jamaican musician and the lead vocalist of Toots and the Maytals, one of the most influential reggae bands in the world. His distinct voice helped shape the sound of reggae, with hits like 'Monkey Man,' 'Pressure Drop,' and '54-46 Was My Number.'",
+        "img_url": "/assets/reggae/tootshibbert.jpg",
+        "location_city": "May Pen",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Funky Kingston",
+                "release_date": "1973-01-01",
+                "tracks": [
+                    { "title": "Funky Kingston", "featured_artists": [] },
+                    { "title": "Monkey Man", "featured_artists": [] },
+                    { "title": "Pressure Drop", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Toots in Memphis",
+                "release_date": "1988-01-01",
+                "tracks": [
+                    { "title": "Time Tough", "featured_artists": [] },
+                    { "title": "54-46 Was My Number", "featured_artists": [] },
+                    { "title": "Pomps and Pride", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Black Uhuru",
+        "bio_url": "https://en.wikipedia.org/wiki/Black_Uhuru",
+        "bio_birthdate": "1972-01-01",
+        "bio_summary": "Black Uhuru is a Jamaican reggae group that was one of the most important in the genre during the 1980s. Known for their militant and spiritual lyrics, they produced classics like 'Guess Who's Coming to Dinner,' 'Sponji Reggae,' and 'Red.'",
+        "img_url": "/assets/reggae/blachuruhu.jpg",
+        "location_city": "Kingston",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Guess Who's Coming to Dinner",
+                "release_date": "1983-01-01",
+                "tracks": [
+                    { "title": "Sponji Reggae", "featured_artists": [] },
+                    { "title": "I See You", "featured_artists": [] },
+                    { "title": "You Make Me Feel", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Red",
+                "release_date": "1981-01-01",
+                "tracks": [
+                    { "title": "Guess Who's Coming to Dinner", "featured_artists": [] },
+                    { "title": "Sponji Reggae", "featured_artists": [] },
+                    { "title": "What is Life", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Gregory Isaacs",
+        "bio_url": "https://en.wikipedia.org/wiki/Gregory_Isaacs",
+        "bio_birthdate": "1951-07-15",
+        "bio_summary": "Gregory Isaacs was a Jamaican singer known for his smooth voice and romantic songs. He was an icon of reggae and lovers rock, and his hits like 'Night Nurse,' 'Rumours,' and 'Cool Down the Pace' remain popular worldwide.",
+        "img_url": "/assets/reggae/gregoryisaacs.jpg",
+        "location_city": "Kingston",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Night Nurse",
+                "release_date": "1982-01-01",
+                "tracks": [
+                    { "title": "Night Nurse", "featured_artists": [] },
+                    { "title": "Rumours", "featured_artists": [] },
+                    { "title": "Private Secretary", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Cool Down the Pace",
+                "release_date": "1980-01-01",
+                "tracks": [
+                    { "title": "Cool Down the Pace", "featured_artists": [] },
+                    { "title": "Rude Boy", "featured_artists": [] },
+                    { "title": "My Only Lover", "featured_artists": [] }
+                ]
+            }
+        ]
+    }
+]

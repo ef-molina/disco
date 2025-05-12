@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Hip Hop",
+        "color": "#1E3A8A",
+        "description": "A rhythmic music genre characterized by beats, rap, and DJing.",
+        "link": "./genre_1.html"
+    },
+    {
+        "name": "Rock",
+        "color": "#DC2626",
+        "description": "A genre known for electric guitars, strong beats, and rebellious themes.",
+        "link": "./genre_2.html"
+    },
+    {
+        "name": "Country",
+        "color": "#10B981",
+        "description": "Music storytelling with folk instruments, twangy vocals, and heartfelt lyrics.",
+        "link": "./genre_3.html"
+    },
+    {
+        "name": "Reggae",
+        "color": "#059669",
+        "description": "A genre from Jamaica known for offbeat rhythms and messages of unity.",
+        "link": "./genre_4.html"
+    },
+    {
+        "name": "Jazz",
+        "color": "#9333EA",
+        "description": "A genre with improvisation, swing rhythms, and rich instrumental harmonies.",
+        "link": "./genre_5.html"
+    },
+    {
+        "name": "Metal",
+        "color": "#374151",
+        "description": "Heavy guitar riffs, aggressive vocals, and powerful drum beats define this genre.",
+        "link": "./genre_6.html"
+    },
+    {
+        "name": "Classical",
+        "color": "#FBBF24",
+        "description": "Orchestral and instrumental music rooted in traditional composition techniques.",
+        "link": "./comingSoon.html"
+    },
+    {
+        "name": "Pop",
+        "color": "#D946EF",
+        "description": "Popular and mainstream music with catchy melodies and upbeat rhythms.",
+        "link": "./comingSoon.html"
+    },
+    {
+        "name": "Blues",
+        "color": "#2563EB",
+        "description": "A soulful genre originating from African American traditions with deep emotions.",
+        "link": "./comingSoon.html"
+    },
+    {
+        "name": "R&B",
+        "color": "#6D28D9",
+        "description": "Rhythm and blues with smooth vocals, strong beats, and soulful melodies.",
+        "link": "./comingSoon.html"
+    }
+]

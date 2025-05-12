@@ -1,0 +1,2333 @@
+[
+    {
+        "name": "Jay Z",
+        "bio_url": "https://en.wikipedia.org/wiki/Jay_Z",
+        "bio_birthdate": "1969-12-04",
+        "bio_summary": "Shawn Corey Carter (born December 4, 1969), best known as his stage name Jay Z, is an American rapper, businessman, and investor. Formerly known as Jay-Z, he is one of the best-selling musicians of all time, having sold more than 100 million records.",
+        "img_url": "/assets/Photos/Jay-Z.jpg",
+        "location_city": "Brooklyn",
+        "location_neighborhood": "Bedford-Stuyvesant",
+        "discography": [
+            {
+                "title": "Reasonable Doubt",
+                "release_date": "1996-06-25",
+                "img": "../assets/hip_hop/photos/Reasonable_Doubt_New.jpg",
+                "tracks": [
+                    { "title": "Can't Knock the Hustle", "featured_artists": ["Mary J. Blige"] },
+                    { "title": "Politics as Usual", "featured_artists": [] },
+                    { "title": "Brooklyn's Finest", "featured_artists": ["The Notorious B.I.G."] },
+                    { "title": "Dead Presidents II", "featured_artists": [] },
+                    { "title": "Feelin' It", "featured_artists": ["Mecca"] },
+                    { "title": "D'Evils", "featured_artists": [] },
+                    { "title": "22 Two's", "featured_artists": [] },
+                    { "title": "Can I Live", "featured_artists": [] },
+                    { "title": "Ain't No Nigga", "featured_artists": ["Foxy Brown"] },
+                    { "title": "Friend or Foe", "featured_artists": [] },
+                    { "title": "Coming of Age", "featured_artists": ["Memphis Bleek"] },
+                    { "title": "Cashmere Thoughts", "featured_artists": [] },
+                    { "title": "Bring It On", "featured_artists": ["Big Jaz", "Sauce Money"] },
+                    { "title": "Regrets", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "In My Lifetime, Vol. 1",
+                "release_date": "1997-11-04",
+                "img": "../assets/hip_hop/photos/In_My_Lifetime.jpg",
+                "tracks": [
+                    { "title": "Intro / A Million and One Questions / Rhyme No More", "featured_artists": [] },
+                    { "title": "The City Is Mine", "featured_artists": ["Blackstreet"] },
+                    { "title": "I Know What Girls Like", "featured_artists": ["Puff Daddy", "Lil' Kim"] },
+                    { "title": "Imaginary Player", "featured_artists": [] },
+                    { "title": "Streets Is Watching", "featured_artists": [] },
+                    { "title": "Friend or Foe '98", "featured_artists": [] },
+                    { "title": "Lucky Me", "featured_artists": [] },
+                    { "title": "(Always Be My) Sunshine", "featured_artists": ["Babyface", "Foxy Brown"] },
+                    { "title": "Who You Wit II", "featured_artists": [] },
+                    { "title": "Face Off", "featured_artists": ["Sauce Money"] },
+                    { "title": "Real Niggaz", "featured_artists": ["Too Short"] },
+                    { "title": "Rap Game / Crack Game", "featured_artists": [] },
+                    { "title": "Where I'm From", "featured_artists": [] },
+                    { "title": "You Must Love Me", "featured_artists": ["Kelly Price"] }
+                ]
+            },
+            {
+                "title": "Vol. 2... Hard Knock Life",
+                "release_date": "1998-09-29",
+                "img": "../assets/hip_hop/photos/Jay-z-vol-2-hard-knock-life.jpg",
+                "tracks": [
+                    { "title": "Intro - Hand It Down", "featured_artists": ["Memphis Bleek"] },
+                    { "title": "Hard Knock Life (Ghetto Anthem)", "featured_artists": [] },
+                    { "title": "If I Should Die", "featured_artists": ["Da Ranjahz"] },
+                    { "title": "Ride or Die", "featured_artists": [] },
+                    { "title": "Nigga What, Nigga Who (Originator 99)", "featured_artists": ["Big Jaz", "Amil"] },
+                    { "title": "Money, Cash, Hoes", "featured_artists": ["DMX"] },
+                    { "title": "A Week Ago", "featured_artists": ["Too Short"] },
+                    { "title": "Coming of Age (Da Sequel)", "featured_artists": ["Memphis Bleek"] },
+                    { "title": "Can I Get A...", "featured_artists": ["Ja Rule", "Amil"] },
+                    { "title": "Paper Chase", "featured_artists": ["Foxy Brown"] },
+                    { "title": "Reservoir Dogs", "featured_artists": ["The LOX", "Beanie Sigel", "Sauce Money"] },
+                    { "title": "It's Like That", "featured_artists": ["Kid Capri"] },
+                    { "title": "It's Alright", "featured_artists": ["Memphis Bleek"] },
+                    { "title": "Money Ain't a Thang", "featured_artists": ["Jermaine Dupri"] }
+                ]
+            },
+            {
+                "title": "Vol. 3... Life and Times of S. Carter",
+                "release_date": "1999-12-28",
+                "img": "../assets/hip_hop/photos/Jay-z-vol-3-life-and-times-s-carter.jpg",
+                "tracks": [
+                    { "title": "Hova Song (Intro)", "featured_artists": [] },
+                    { "title": "So Ghetto", "featured_artists": [] },
+                    { "title": "Do It Again (Put Ya Hands Up)", "featured_artists": ["Beanie Sigel", "Amil"] },
+                    { "title": "Dope Man", "featured_artists": ["Serena Altschul"] },
+                    { "title": "Things That U Do", "featured_artists": ["Mariah Carey"] },
+                    { "title": "It's Hot (Some Like It Hot)", "featured_artists": [] },
+                    { "title": "Snoopy Track", "featured_artists": ["Juvenile"] },
+                    { "title": "S. Carter", "featured_artists": ["Amil"] },
+                    { "title": "Pop 4 Roc", "featured_artists": ["Beanie Sigel", "Amil", "Memphis Bleek"] },
+                    { "title": "Watch Me", "featured_artists": ["Dr. Dre"] },
+                    { "title": "Big Pimpin'", "featured_artists": ["UGK"] },
+                    { "title": "There's Been a Murder", "featured_artists": [] },
+                    { "title": "Come and Get Me", "featured_artists": [] },
+                    { "title": "NYMP", "featured_artists": [] },
+                    { "title": "Hova Song (Outro)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Dynasty: Roc La Familia",
+                "release_date": "2000-10-31",
+                "img": "../assets/hip_hop/photos/Jay-z-dynasty-roc-la-familia-2000.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Change the Game", "featured_artists": ["Beanie Sigel", "Memphis Bleek"] },
+                    { "title": "I Just Wanna Love U (Give It 2 Me)", "featured_artists": ["Pharrell"] },
+                    { "title": "Streets Is Talking", "featured_artists": ["Beanie Sigel"] },
+                    { "title": "This Can't Be Life", "featured_artists": ["Beanie Sigel", "Scarface"] },
+                    { "title": "Get Your Mind Right Mami", "featured_artists": ["Snoop Dogg"] },
+                    { "title": "Stick 2 the Script", "featured_artists": ["Beanie Sigel"] },
+                    { "title": "You, Me, Him and Her", "featured_artists": ["Memphis Bleek", "Beanie Sigel", "Amil"] },
+                    { "title": "Guilty Until Proven Innocent", "featured_artists": ["R. Kelly"] },
+                    { "title": "Parking Lot Pimpin'", "featured_artists": ["Memphis Bleek", "Beanie Sigel"] },
+                    { "title": "Holla", "featured_artists": [] },
+                    { "title": "1-900-Hustler", "featured_artists": ["Beanie Sigel", "Freeway", "Memphis Bleek"] },
+                    { "title": "R.O.C.", "featured_artists": ["Beanie Sigel", "Memphis Bleek"] },
+                    { "title": "Soon You'll Understand", "featured_artists": [] },
+                    { "title": "Squeeze 1st", "featured_artists": [] },
+                    { "title": "Where Have You Been", "featured_artists": ["Beanie Sigel"] }
+                ]
+            },
+            {
+                "title": "The Blueprint",
+                "release_date": "2001-09-11",
+                "img": "../assets/hip_hop/photos/Jay-Z_-_The_Blueprint_3.jpg",
+                "tracks": [
+                    { "title": "The Ruler's Back", "featured_artists": [] },
+                    { "title": "Takeover", "featured_artists": [] },
+                    { "title": "Izzo (H.O.V.A.)", "featured_artists": [] },
+                    { "title": "Girls, Girls, Girls", "featured_artists": ["Biz Markie", "Slick Rick", "Q-Tip"] },
+                    { "title": "Jigga That Nigga", "featured_artists": [] },
+                    { "title": "U Don't Know", "featured_artists": [] },
+                    { "title": "Hola' Hovito", "featured_artists": [] },
+                    { "title": "Heart of the City (Ain't No Love)", "featured_artists": [] },
+                    { "title": "Never Change", "featured_artists": [] },
+                    { "title": "Song Cry", "featured_artists": [] },
+                    { "title": "All I Need", "featured_artists": [] },
+                    { "title": "Renegade", "featured_artists": ["Eminem"] },
+                    { "title": "Blueprint (Momma Loves Me)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Blueprint 2: The Gift & The Curse",
+                "release_date": "2002-11-12",
+                "img": "../assets/hip_hop/photos/Jay-z-blueprint-2-gift-curse.jpg",
+                "tracks": [
+                    { "title": "A Dream", "featured_artists": ["Faith Evans", "The Notorious B.I.G."] },
+                    { "title": "Hovi Baby", "featured_artists": [] },
+                    { "title": "The Watcher 2", "featured_artists": ["Dr. Dre", "Rakim", "Truth Hurts"] },
+                    { "title": "'03 Bonnie & Clyde", "featured_artists": ["Beyoncé"] },
+                    { "title": "Excuse Me Miss", "featured_artists": ["Pharrell"] },
+                    { "title": "What They Gonna Do", "featured_artists": ["Sean Paul"] },
+                    { "title": "All Around the World", "featured_artists": ["LaToiya Williams"] },
+                    { "title": "Poppin' Tags", "featured_artists": ["Big Boi", "Killer Mike", "Twista"] },
+                    { "title": "Fuck All Nite", "featured_artists": [] },
+                    { "title": "The Bounce", "featured_artists": ["Kanye West"] },
+                    { "title": "I Did It My Way", "featured_artists": [] },
+                    { "title": "Diamonds Is Forever", "featured_artists": [] },
+                    { "title": "Guns & Roses", "featured_artists": ["Lenny Kravitz"] },
+                    { "title": "U Don't Know (Remix)", "featured_artists": ["M.O.P."] },
+                    { "title": "Meet the Parents", "featured_artists": [] },
+                    { "title": "Some How Some Way", "featured_artists": ["Beanie Sigel", "Scarface"] },
+                    { "title": "Blueprint 2", "featured_artists": [] },
+                    { "title": "Nigga Please", "featured_artists": [] },
+                    { "title": "2 Many Hoes", "featured_artists": [] },
+                    { "title": "As One", "featured_artists": ["Rell", "Beanie Sigel", "Memphis Bleek", "Freeway", "Young Gunz"] },
+                    { "title": "A Ballad for the Fallen Soldier", "featured_artists": ["Mark Dorsey"] },
+                    { "title": "Show You How", "featured_artists": [] },
+                    { "title": "Bitches & Sisters", "featured_artists": [] },
+                    { "title": "What They Gonna Do Part II", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Black Album",
+                "release_date": "2003-11-14",
+                "img": "../assets/hip_hop/photos/Jay-Z_-_The_Black_Album.png",
+                "tracks": [
+                    { "title": "Interlude", "featured_artists": [] },
+                    { "title": "December 4th", "featured_artists": ["Gloria Carter"] },
+                    { "title": "What More Can I Say", "featured_artists": [] },
+                    { "title": "Encore", "featured_artists": [] },
+                    { "title": "Change Clothes", "featured_artists": ["Pharrell"] },
+                    { "title": "Dirt Off Your Shoulder", "featured_artists": [] },
+                    { "title": "Threat", "featured_artists": ["Cedric the Entertainer"] },
+                    { "title": "Moment of Clarity", "featured_artists": [] },
+                    { "title": "99 Problems", "featured_artists": [] },
+                    { "title": "Public Service Announcement (Interlude)", "featured_artists": [] },
+                    { "title": "Justify My Thug", "featured_artists": ["Madonna"] },
+                    { "title": "Lucifer", "featured_artists": [] },
+                    { "title": "Allure", "featured_artists": [] },
+                    { "title": "My 1st Song", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Kingdom Come",
+                "release_date": "2006-11-21",
+                "img": "../assets/hip_hop/photos/Jay-Z_-_Kingdom_Come.png",
+                "tracks": [
+                    { "title": "The Prelude", "featured_artists": [] },
+                    { "title": "Oh My God", "featured_artists": [] },
+                    { "title": "Kingdom Come", "featured_artists": [] },
+                    { "title": "Show Me What You Got", "featured_artists": [] },
+                    { "title": "Lost One", "featured_artists": ["Chrisette Michele"] },
+                    { "title": "Do U Wanna Ride", "featured_artists": ["John Legend"] },
+                    { "title": "30 Something", "featured_artists": [] },
+                    { "title": "I Made It", "featured_artists": [] },
+                    { "title": "Anything", "featured_artists": ["Usher", "Pharrell"] },
+                    { "title": "Hollywood", "featured_artists": ["Beyoncé"] },
+                    { "title": "Trouble", "featured_artists": [] },
+                    { "title": "Dig a Hole", "featured_artists": ["Sterling Simms"] },
+                    { "title": "Minority Report", "featured_artists": ["Ne-Yo"] },
+                    { "title": "Beach Chair", "featured_artists": ["Chris Martin"] }
+                ]
+            },
+            {
+                "title": "American Gangster",
+                "release_date": "2007-11-06",
+                "img": "../assets/hip_hop/photos/Jay-Z_-_American_Gangster.png",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Pray", "featured_artists": [] },
+                    { "title": "American Dreamin'", "featured_artists": [] },
+                    { "title": "Hello Brooklyn 2.0", "featured_artists": ["Lil Wayne"] },
+                    { "title": "No Hook", "featured_artists": [] },
+                    { "title": "Roc Boys (And the Winner Is)...", "featured_artists": [] },
+                    { "title": "Sweet", "featured_artists": [] },
+                    { "title": "I Know", "featured_artists": ["Pharrell"] },
+                    { "title": "Party Life", "featured_artists": [] },
+                    { "title": "Ignorant Shit", "featured_artists": ["Beanie Sigel"] },
+                    { "title": "Say Hello", "featured_artists": [] },
+                    { "title": "Success", "featured_artists": ["Nas"] },
+                    { "title": "Fallin'", "featured_artists": [] },
+                    { "title": "Blue Magic", "featured_artists": ["Pharrell"] },
+                    { "title": "American Gangster", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Blueprint 3",
+                "release_date": "2009-09-08",
+                "img": "../assets/hip_hop/photos/Jay-Z_-_The_Blueprint_3.jpg",
+                "tracks": [
+                    { "title": "What We Talkin' About", "featured_artists": ["Luke Steele"] },
+                    { "title": "Thank You", "featured_artists": [] },
+                    { "title": "D.O.A. (Death of Auto-Tune)", "featured_artists": [] },
+                    { "title": "Run This Town", "featured_artists": ["Rihanna", "Kanye West"] },
+                    { "title": "Empire State of Mind", "featured_artists": ["Alicia Keys"] },
+                    { "title": "Real As It Gets", "featured_artists": ["Young Jeezy"] },
+                    { "title": "On to the Next One", "featured_artists": ["Swizz Beatz"] },
+                    { "title": "Off That", "featured_artists": ["Drake"] },
+                    { "title": "A Star Is Born", "featured_artists": ["J. Cole"] },
+                    { "title": "Venus vs. Mars", "featured_artists": [] },
+                    { "title": "Already Home", "featured_artists": ["Kid Cudi"] },
+                    { "title": "Hate", "featured_artists": ["Kanye West"] },
+                    { "title": "Reminder", "featured_artists": [] },
+                    { "title": "So Ambitious", "featured_artists": ["Pharrell"] },
+                    { "title": "Young Forever", "featured_artists": ["Mr. Hudson"] }
+                ]
+            },
+            {
+                "title": "Magna Carta... Holy Grail",
+                "release_date": "2013-07-04",
+                "img": "../assets/hip_hop/photos/Magna_Carta_Holy_Grail_cover.png",
+                "tracks": [
+                    { "title": "Holy Grail", "featured_artists": ["Justin Timberlake"] },
+                    { "title": "Picasso Baby", "featured_artists": [] },
+                    { "title": "Tom Ford", "featured_artists": [] },
+                    { "title": "F***WithMeYouKnowIGotIt", "featured_artists": ["Rick Ross"] },
+                    { "title": "Oceans", "featured_artists": ["Frank Ocean"] },
+                    { "title": "F.U.T.W.", "featured_artists": [] },
+                    { "title": "Somewhereinamerica", "featured_artists": [] },
+                    { "title": "Crown", "featured_artists": [] },
+                    { "title": "Heaven", "featured_artists": [] },
+                    { "title": "Versus", "featured_artists": [] },
+                    { "title": "Part II (On the Run)", "featured_artists": ["Beyoncé"] },
+                    { "title": "Beach Is Better", "featured_artists": [] },
+                    { "title": "BBC", "featured_artists": ["Nas", "Beyoncé", "Justin Timberlake", "Swizz Beatz", "Pharrell", "Timbaland"] },
+                    { "title": "Jay Z Blue", "featured_artists": [] },
+                    { "title": "La Familia", "featured_artists": [] },
+                    { "title": "Nickels and Dimes", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "4:44",
+                "release_date": "2017-06-30",
+                "img": "../assets/hip_hop/photos/4-44_album_cover.svg",
+                "tracks": [
+                    { "title": "Kill Jay Z", "featured_artists": [] },
+                    { "title": "The Story of O.J.", "featured_artists": [] },
+                    { "title": "Smile", "featured_artists": ["Gloria Carter"] },
+                    { "title": "Caught Their Eyes", "featured_artists": ["Frank Ocean"] },
+                    { "title": "4:44", "featured_artists": [] },
+                    { "title": "Family Feud", "featured_artists": ["Beyoncé"] },
+                    { "title": "Bam", "featured_artists": ["Damian Marley"] },
+                    { "title": "Moonlight", "featured_artists": [] },
+                    { "title": "Marcy Me", "featured_artists": [] },
+                    { "title": "Legacy", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Everything Is Love",
+                "release_date": "2018-06-16",
+                "img": "../assets/hip_hop/photos/The_Carters_-_Everything_Is_Love_(Official_Album_Cover).png",
+                "artist": "The Carters",
+                "tracks": [
+                    { "title": "Summer", "featured_artists": [] },
+                    { "title": "Apeshit", "featured_artists": [] },
+                    { "title": "Boss", "featured_artists": [] },
+                    { "title": "Nice", "featured_artists": ["Pharrell"] },
+                    { "title": "713", "featured_artists": [] },
+                    { "title": "Friends", "featured_artists": [] },
+                    { "title": "Heard About Us", "featured_artists": [] },
+                    { "title": "Black Effect", "featured_artists": [] },
+                    { "title": "LoveHappy", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kendrick Lamar",
+        "bio_url": "https://en.wikipedia.org/wiki/Kendrick_Lamar",
+        "bio_birthdate": "1987-06-17",
+        "bio_summary": "Kendrick Lamar Duckworth (born June 17, 1987) is an American rapper and songwriter from Compton Los Angeles.",
+        "img_url": "/assets/Photos/Kendrick_Lamar_2018.jpg",
+        "location_city": "Los Angeles",
+        "location_neighborhood": "Compton",
+        "discography": [
+            {
+                "title": "Section.80",
+                "release_date": "2011-07-02",
+                "img": "../assets/hip_hop/photos/section80.jpg",
+                "tracks": [
+                    { "title": "Savagery", "featured_artists": [] },
+                    { "title": "Fuck Your Ethnicity", "featured_artists": [] },
+                    { "title": "The Spiteful Chant", "featured_artists": [] },
+                    { "title": "Keisha's Song (Her Pain)", "featured_artists": [] },
+                    { "title": "Blow My High (Members Only)", "featured_artists": [] },
+                    { "title": "High Power", "featured_artists": [] },
+                    { "title": "M.A.A.D City", "featured_artists": [] },
+                    { "title": "Keisha's Song (Her Pain) (Remix)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "good kid, m.A.A.d city",
+                "release_date": "2012-10-22",
+                "img": "../assets/hip_hop/photos/goodkidmadcity.jpg",
+                "tracks": [
+                    { "title": "Sherane a.k.a Master Splinter's Daughter", "featured_artists": [] },
+                    { "title": "Bitch, Don't Kill My Vibe", "featured_artists": [] },
+                    { "title": "Backseat Freestyle", "featured_artists": [] },
+                    { "title": "The Art of Peer Pressure", "featured_artists": [] },
+                    { "title": "Money Trees", "featured_artists": ["Jay Rock"] },
+                    { "title": "Poetic Justice", "featured_artists": ["Drake"] },
+                    { "title": "Good Kid", "featured_artists": [] },
+                    { "title": "M.A.A.D City", "featured_artists": [] },
+                    { "title": "Swimming Pools (Drank)", "featured_artists": [] },
+                    { "title": "Sing About Me, I'm Dying of Thirst", "featured_artists": [] },
+                    { "title": "Real", "featured_artists": [] },
+                    { "title": "Compton", "featured_artists": ["Dr. Dre"] }
+                ]
+            },
+            {
+                "title": "To Pimp a Butterfly",
+                "release_date": "2015-03-15",
+                "img": "../assets/hip_hop/photos/topimpabutterfly.png",
+                "tracks": [
+                    { "title": "Wesley's Theory", "featured_artists": ["George Clinton", "Thundercat"] },
+                    { "title": "For Free? (Interlude)", "featured_artists": [] },
+                    { "title": "King Kunta", "featured_artists": [] },
+                    { "title": "Institutionalized", "featured_artists": ["Lamar"] },
+                    { "title": "These Walls", "featured_artists": ["Bilal", "Thundercat", "Anna Wise"] },
+                    { "title": "u", "featured_artists": [] },
+                    { "title": "Alright", "featured_artists": [] },
+                    { "title": "For Sale? (Interlude)", "featured_artists": [] },
+                    { "title": "Momma", "featured_artists": [] },
+                    { "title": "Hood Politics", "featured_artists": [] },
+                    { "title": "How Much a Dollar Cost", "featured_artists": [] },
+                    { "title": "Complexion (A Zulu Love)", "featured_artists": ["Rapsody"] },
+                    { "title": "The Blacker the Berry", "featured_artists": [] },
+                    { "title": "You Ain't Gotta Lie (Momma Said)", "featured_artists": [] },
+                    { "title": "i", "featured_artists": [] },
+                    { "title": "Mortal Man", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "DAMN.",
+                "release_date": "2017-04-14",
+                "img": "../assets/hip_hop/photos/damn.png",
+                "tracks": [
+                    { "title": "BLOOD.", "featured_artists": [] },
+                    { "title": "DNA.", "featured_artists": [] },
+                    { "title": "YAH.", "featured_artists": [] },
+                    { "title": "ELEMENT.", "featured_artists": [] },
+                    { "title": "FEEL.", "featured_artists": [] },
+                    { "title": "LOYALTY.", "featured_artists": ["Rihanna"] },
+                    { "title": "PRIDE.", "featured_artists": [] },
+                    { "title": "HUMBLE.", "featured_artists": [] },
+                    { "title": "LUST.", "featured_artists": [] },
+                    { "title": "LOVE.", "featured_artists": ["Zacari"] },
+                    { "title": "XXX.", "featured_artists": ["U2"] },
+                    { "title": "FEAR.", "featured_artists": [] },
+                    { "title": "GOD.", "featured_artists": [] },
+                    { "title": "DUCKWORTH.", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Mr. Morale & The Big Steppers",
+                "release_date": "2022-05-13",
+                "img": "../assets/hip_hop/photos/mrmoraleandthebigsteppers.png",
+                "tracks": [
+                    { "title": "United In Grief", "featured_artists": [] },
+                    { "title": "N95", "featured_artists": [] },
+                    { "title": "Worldwide Steppers", "featured_artists": [] },
+                    { "title": "Die Hard", "featured_artists": ["Blxst", "Amanda Reifer"] },
+                    { "title": "Father Time", "featured_artists": ["Sampha"] },
+                    { "title": "Rich Spirit", "featured_artists": [] },
+                    { "title": "We Cry Together", "featured_artists": ["Taylor Paige"] },
+                    { "title": "Purple Hearts", "featured_artists": ["Summer Walker", "Ghostface Killah"] },
+                    { "title": "Count Me Out", "featured_artists": [] },
+                    { "title": "Save Your Tears", "featured_artists": [] },
+                    { "title": "Silent Hill", "featured_artists": ["Kodak Black"] },
+                    { "title": "Savior", "featured_artists": ["Baby Keem", "Sampha"] },
+                    { "title": "Auntie's Diaries", "featured_artists": [] },
+                    { "title": "Mirror", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "GNX",
+                "release_date": "2024-11-22",
+                "img": "../assets/hip_hop/photos/gnx.png",
+                "tracks": [
+                    { "title": "Wacced Out Murals", "featured_artists": [] },
+                    { "title": "Squabble Up", "featured_artists": [] },
+                    { "title": "Luther", "featured_artists": ["SZA"] },
+                    { "title": "Man at the Garden", "featured_artists": [] },
+                    { "title": "Hey Now", "featured_artists": ["Dody6"] },
+                    { "title": "Reincarnated", "featured_artists": [] },
+                    { "title": "TV Off", "featured_artists": ["Lefty Gunplay"] },
+                    { "title": "Dodger Blue", "featured_artists": ["Wallie the Sensei", "Siete7x", "Roddy Ricch"] },
+                    { "title": "Peekaboo", "featured_artists": ["AzChike"] },
+                    { "title": "Heart Pt. 6", "featured_artists": [] },
+                    { "title": "GNX", "featured_artists": ["Hitta J3", "YoungThreat", "Peysoh"] },
+                    { "title": "Gloria", "featured_artists": ["SZA"] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nas",
+        "bio_url": "https://en.wikipedia.org/wiki/Nas",
+        "bio_birthdate": null,
+        "bio_summary": "Nasir bin Olu Dara Jones (born September 14, 1973), better known by his stage name Nas /ˈnɑːz/, is an American hip hop recording artist, record producer, actor and entrepreneur.",
+        "img_url": "/assets/Photos/Nas-04.jpg",
+        "location_city": "Queens",
+        "location_neighborhood": "Queensbridge",
+        "discography": [
+            {
+                "title": "Illmatic",
+                "release_date": "1994-04-19",
+                "img": "../assets/hip_hop/photos/illmatic.jpg",
+                "tracks": [
+                    { "title": "The Genesis", "featured_artists": [] },
+                    { "title": "N.Y. State of Mind", "featured_artists": [] },
+                    { "title": "Life's a Bitch", "featured_artists": ["AZ"] },
+                    { "title": "The World Is Yours", "featured_artists": [] },
+                    { "title": "Halftime", "featured_artists": [] },
+                    { "title": "Memory Lane (Sittin' in da Park)", "featured_artists": [] },
+                    { "title": "One Love", "featured_artists": ["Q-Tip"] },
+                    { "title": "One Time 4 Your Mind", "featured_artists": [] },
+                    { "title": "Represent", "featured_artists": [] },
+                    { "title": "It Ain't Hard to Tell", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "It Was Written",
+                "release_date": "1996-07-02",
+                "img": "../assets/hip_hop/photos/itwaswritten.jpg",
+                "tracks": [
+                    { "title": "The Message", "featured_artists": [] },
+                    { "title": "Nas Is Coming", "featured_artists": ["Dr. Dre"] },
+                    { "title": "Street Dreams", "featured_artists": [] },
+                    { "title": "Black Girl Lost", "featured_artists": [] },
+                    { "title": "If I Ruled the World (Imagine That)", "featured_artists": ["Lauryn Hill"] },
+                    { "title": "Superthug", "featured_artists": ["Noreaga"] },
+                    { "title": "Nas & P. Diddy (Interlude)", "featured_artists": [] },
+                    { "title": "Ghetto Prisoners", "featured_artists": [] },
+                    { "title": "You Owe Me", "featured_artists": [] },
+                    { "title": "Affirmative Action", "featured_artists": ["The Firm"] },
+                    { "title": "Suspect", "featured_artists": [] },
+                    { "title": "Live Nigga Rap", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "I Am...",
+                "release_date": "1999-04-06",
+                "img": "../assets/hip_hop/photos/iam.jpg",
+                "tracks": [
+                    { "title": "Album Intro", "featured_artists": [] },
+                    { "title": "N.Y. State of Mind Pt. 2", "featured_artists": [] },
+                    { "title": "Hate Me Now", "featured_artists": ["P. Diddy"] },
+                    { "title": "Small World", "featured_artists": [] },
+                    { "title": "Fried Chicken", "featured_artists": ["GQ"] },
+                    { "title": "Get Down", "featured_artists": [] },
+                    { "title": "You Won't See Me Tonight", "featured_artists": ["Aaliyah"] },
+                    { "title": "We Will Survive", "featured_artists": [] },
+                    { "title": "Ghetto Prisoners", "featured_artists": [] },
+                    { "title": "K-I-SS-I-N-G", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Nastradamus",
+                "release_date": "1999-11-23",
+                "img": "../assets/hip_hop/photos/nastradamus.jpg",
+                "tracks": [
+                    { "title": "Nastradamus", "featured_artists": [] },
+                    { "title": "Some of Us Have Angels", "featured_artists": [] },
+                    { "title": "The Flyest", "featured_artists": ["Mobb Deep"] },
+                    { "title": "Project Windows", "featured_artists": [] },
+                    { "title": "Come Get Me", "featured_artists": [] },
+                    { "title": "Shoot 'Em Up", "featured_artists": [] },
+                    { "title": "Last Words", "featured_artists": [] },
+                    { "title": "Family", "featured_artists": [] },
+                    { "title": "Quiet Niggas", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Stillmatic",
+                "release_date": "2001-12-18",
+                "img": "../assets/hip_hop/photos/stillmatic.jpg",
+                "tracks": [
+                    { "title": "Stillmatic (The Intro)", "featured_artists": [] },
+                    { "title": "Ether", "featured_artists": [] },
+                    { "title": "Got Ur Self A...", "featured_artists": [] },
+                    { "title": "Rewind", "featured_artists": [] },
+                    { "title": "One Mic", "featured_artists": [] },
+                    { "title": "2nd Childhood", "featured_artists": [] },
+                    { "title": "Destroy & Rebuild", "featured_artists": [] },
+                    { "title": "The Flyest", "featured_artists": ["Mobb Deep"] },
+                    { "title": "Bridging the Gap", "featured_artists": ["Kelis"] }
+                ]
+            },
+            {
+                "title": "God's Son",
+                "release_date": "2002-12-13",
+                "img": "../assets/hip_hop/photos/godson.jpg",
+                "tracks": [
+                    { "title": "Get Down", "featured_artists": [] },
+                    { "title": "The Cross", "featured_artists": [] },
+                    { "title": "Made You Look", "featured_artists": [] },
+                    { "title": "Last Real Nigga Alive", "featured_artists": [] },
+                    { "title": "Zone Out", "featured_artists": [] },
+                    { "title": "Hey Nas", "featured_artists": [] },
+                    { "title": "I Can", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Street's Disciple",
+                "release_date": "2004-11-30",
+                "img": "../assets/hip_hop/photos/streetdeciple.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Thugz Mansion (Remix)", "featured_artists": ["2Pac"] },
+                    { "title": "Just a Moment", "featured_artists": ["Quan"] },
+                    { "title": "American Way", "featured_artists": [] },
+                    { "title": "Mastermind", "featured_artists": [] },
+                    { "title": "Street's Disciple", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Hip Hop Is Dead",
+                "release_date": "2006-12-19",
+                "img": "../assets/hip_hop/photos/hiphopisdead.jpg",
+                "tracks": [
+                    { "title": "Money Over Bullshit", "featured_artists": [] },
+                    { "title": "You Can't Kill Me", "featured_artists": [] },
+                    { "title": "Not Going Back", "featured_artists": [] },
+                    { "title": "Hustlers", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Untitled",
+                "release_date": "2008-07-15",
+                "img": "../assets/hip_hop/photos/untitled.jpg",
+                "tracks": [
+                    { "title": "Queens Get The Money", "featured_artists": [] },
+                    { "title": "You Can't Stop Us Now", "featured_artists": [] },
+                    { "title": "Sly Fox", "featured_artists": [] },
+                    { "title": "Fear of God", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Life Is Good",
+                "release_date": "2012-07-17",
+                "img": "../assets/hip_hop/photos/lifeisgood.jpg",
+                "tracks": [
+                    { "title": "No Introduction", "featured_artists": [] },
+                    { "title": "Loco-Motive", "featured_artists": [] },
+                    { "title": "The Don", "featured_artists": [] },
+                    { "title": "Stay", "featured_artists": [] },
+                    { "title": "Cherry Wine", "featured_artists": ["Amy Winehouse"] },
+                    { "title": "Bye Baby", "featured_artists": [] },
+                    { "title": "Accident Murderers", "featured_artists": ["Rick Ross"] },
+                    { "title": "World's An Addiction", "featured_artists": [] },
+                    { "title": "Clap for 'Em", "featured_artists": [] },
+                    { "title": "Roses", "featured_artists": [] },
+                    { "title": "Black Girl Lost", "featured_artists": [] },
+                    { "title": "The Bridges", "featured_artists": [] },
+                    { "title": "Everything", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Nasir",
+                "release_date": "2018-06-15",
+                "img": "../assets/hip_hop/photos/nasir.jpg",
+                "tracks": [
+                    { "title": "Everything", "featured_artists": [] },
+                    { "title": "Cops Shot the Kid", "featured_artists": ["Kanye West"] },
+                    { "title": "Not For Sale", "featured_artists": [] },
+                    { "title": "Adam and Eve", "featured_artists": ["The-Dream"] },
+                    { "title": "Simple Things", "featured_artists": [] },
+                    { "title": "Nasir", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "King's Disease III",
+                "release_date": "2022-11-11",
+                "img": "../assets/hip_hop/photos/kingsdisease.png",
+                "tracks": [
+                    { "title": "Ghetto Reporter", "featured_artists": [] },
+                    { "title": "Legends Never Die", "featured_artists": [] },
+                    { "title": "Thun", "featured_artists": [] },
+                    { "title": "Michael & Quincy", "featured_artists": [] },
+                    { "title": "30", "featured_artists": [] },
+                    { "title": "Hood2Hood", "featured_artists": ["Lil Wayne"] },
+                    { "title": "Recession Proof", "featured_artists": [] },
+                    { "title": "I’m on Fire", "featured_artists": [] },
+                    { "title": "Once a Man, Twice a Child", "featured_artists": [] },
+                    { "title": "Get Light", "featured_artists": [] },
+                    { "title": "First Time", "featured_artists": [] },
+                    { "title": "WTF", "featured_artists": [] },
+                    { "title": "Don’t Shoot", "featured_artists": [] },
+                    { "title": "King's Disease III (Outro)", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "2Pac",
+        "bio_url": "https://en.wikipedia.org/wiki/Tupac_Shakur",
+        "bio_birthdate": null,
+        "bio_summary": "Tupac Amaru Shakur born Lesane Parish Crooks; June 16, 1971 – September 13, 1996), also known by his stage names 2Pac and Makaveli, was an African-American rapper,.",
+        "img_url": "/assets/Photos/Tupac.jpg",
+        "location_city": "New York",
+        "location_neighborhood": "Harlem",
+        "discography": [
+            {
+                "title": "2Pacalypse Now",
+                "release_date": "1991-11-12",
+                "img": "../assets/hip_hop/photos/2pacalypsenow.jpg",
+                "tracks": [
+                    { "title": "Young Black Male", "featured_artists": [] },
+                    { "title": "Trapped", "featured_artists": [] },
+                    { "title": "Souljah's Revenge", "featured_artists": [] },
+                    { "title": "I Don't Give a Fuck", "featured_artists": [] },
+                    { "title": "Violent", "featured_artists": [] },
+                    { "title": "Panic", "featured_artists": [] },
+                    { "title": "Brenda's Got a Baby", "featured_artists": [] },
+                    { "title": "Dopefiend's Diner", "featured_artists": [] },
+                    { "title": "The Streets R Deathrow", "featured_artists": [] },
+                    { "title": "Same Song", "featured_artists": ["Digital Underground"] },
+                    { "title": "I Wonder If Heaven Got a Ghetto", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Strictly 4 My N.I.G.G.A.Z...",
+                "release_date": "1993-02-16",
+                "img": "../assets/hip_hop/photos/strictly4.jpg",
+                "tracks": [
+                    { "title": "Holler If Ya Hear Me", "featured_artists": [] },
+                    { "title": "Pac's Life", "featured_artists": [] },
+                    { "title": "The Case of the Misplaced Mic", "featured_artists": [] },
+                    { "title": "The Bomb", "featured_artists": [] },
+                    { "title": "Kiss My Ass", "featured_artists": [] },
+                    { "title": "Outro", "featured_artists": [] },
+                    { "title": "Got Your Mind Made Up", "featured_artists": [] },
+                    { "title": "When We Ride", "featured_artists": [] },
+                    { "title": "Foolish", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Me Against the World",
+                "release_date": "1995-03-14",
+                "img": "../assets/hip_hop/photos/meagainsttheworld.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "If I Die 2Nite", "featured_artists": [] },
+                    { "title": "Me Against the World", "featured_artists": [] },
+                    { "title": "So Many Tears", "featured_artists": [] },
+                    { "title": "I Believe in God", "featured_artists": [] },
+                    { "title": "Strugglin' Days", "featured_artists": [] },
+                    { "title": "Life Goes On", "featured_artists": [] },
+                    { "title": "All Eyez on Me", "featured_artists": [] },
+                    { "title": "Foolish Games", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "All Eyez on Me",
+                "release_date": "1996-02-13",
+                "img": "../assets/hip_hop/photos/alleyezonme.jpg",
+                "tracks": [
+                    { "title": "Ambitionz Az a Ridah", "featured_artists": [] },
+                    { "title": "All About U", "featured_artists": [] },
+                    { "title": "Skandalouz", "featured_artists": ["Nate Dogg"] },
+                    { "title": "Got My Mind Made Up", "featured_artists": ["Daz Dillinger", "Snoop Dogg", "Kurupt"] },
+                    { "title": "How Do U Want It", "featured_artists": ["K-Ci & JoJo"] },
+                    { "title": "2 of Amerikaz Most Wanted", "featured_artists": ["Snoop Dogg"] },
+                    { "title": "No More Pain", "featured_artists": [] },
+                    { "title": "I Ain't Mad at Cha", "featured_artists": ["Danny Boy"] },
+                    { "title": "Tradin' War Stories", "featured_artists": [] },
+                    { "title": "California Love", "featured_artists": ["Dr. Dre", "Roger Troutman"] }
+                ]
+            },
+            {
+                "title": "The Don Killuminati: The 7 Day Theory",
+                "release_date": "1996-11-05",
+                "img": "../assets/hip_hop/photos/thrdonkilluminati.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Hail Mary", "featured_artists": [] },
+                    { "title": "Toss It Up", "featured_artists": [] },
+                    { "title": "To Live & Die in L.A.", "featured_artists": [] },
+                    { "title": "Blasphemy", "featured_artists": [] },
+                    { "title": "Life of an Outlaw", "featured_artists": [] },
+                    { "title": "Krazy", "featured_artists": [] },
+                    { "title": "White Man'z World", "featured_artists": [] },
+                    { "title": "Me and My Girlfriend", "featured_artists": [] },
+                    { "title": "Against All Odds", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "R U Still Down? (Remember Me)",
+                "release_date": "1997-11-25",
+                "img": "../assets/hip_hop/photos/rustilldown.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "R U Still Down?", "featured_artists": [] },
+                    { "title": "When I Get Free", "featured_artists": [] },
+                    { "title": "Where U Been", "featured_artists": [] },
+                    { "title": "I Wonder If Heaven Got a Ghetto", "featured_artists": [] },
+                    { "title": "Do for Love", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Until the End of Time",
+                "release_date": "2001-03-27",
+                "img": "../assets/hip_hop/photos/untiltheend.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Until the End of Time", "featured_artists": [] },
+                    { "title": "Shit Don't Stop", "featured_artists": [] },
+                    { "title": "I'm Gettin' Money", "featured_artists": [] },
+                    { "title": "Never B Peace", "featured_artists": [] },
+                    { "title": "Ghetto Star", "featured_artists": [] },
+                    { "title": "Thug N U Thug N Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Better Dayz",
+                "release_date": "2002-11-26",
+                "img": "../assets/hip_hop/photos/betterdayz.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Keep Ya Head Up", "featured_artists": [] },
+                    { "title": "America's Most Wanted", "featured_artists": [] },
+                    { "title": "Letter 2 My Unborn", "featured_artists": [] },
+                    { "title": "Ghetto Gospel", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Pac's Life",
+                "release_date": "2006-11-21",
+                "img": "../assets/hip_hop/photos/pacslife.jpg",
+                "tracks": [
+                    { "title": "Pac's Life", "featured_artists": [] },
+                    { "title": "The Last Hit", "featured_artists": [] },
+                    { "title": "Holler If Ya Hear Me", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Eminem",
+        "bio_url": "https://en.wikipedia.org/wiki/Eminem",
+        "bio_birthdate": "1972-10-17",
+        "bio_summary": "Marshall Bruce Mathers III (born October 17, 1972),[1] known professionally as Eminem (often stylized as EMINƎM), is an American rapper, record producer, and actor.",
+        "img_url": "/assets/Photos/Eminem.jpg",
+        "location_city": "Detroit",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Infinite",
+                "release_date": "1996-11-12",
+                "img": "../assets/hip_hop/photos/infinite.png",
+                "tracks": [
+                    { "title": "Infinite", "featured_artists": [] },
+                    { "title": "Wicked Ways", "featured_artists": [] },
+                    { "title": "It's OK", "featured_artists": [] },
+                    { "title": "313", "featured_artists": [] },
+                    { "title": "Everything Is Ours", "featured_artists": [] },
+                    { "title": "Backstabber", "featured_artists": [] },
+                    { "title": "Jealousy Woes 2", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Slim Shady LP",
+                "release_date": "1999-02-23",
+                "img": "../assets/hip_hop/photos/slimshadylp.jpg",
+                "tracks": [
+                    { "title": "Public Service Announcement 00", "featured_artists": [] },
+                    { "title": "My Name Is", "featured_artists": [] },
+                    { "title": "Guilty Conscience", "featured_artists": ["Dr. Dre"] },
+                    { "title": "Brain Damage", "featured_artists": [] },
+                    { "title": "Paul", "featured_artists": [] },
+                    { "title": "If I Had", "featured_artists": [] },
+                    { "title": "97 Bonnie & Clyde", "featured_artists": [] },
+                    { "title": "Bitch Please II", "featured_artists": [] },
+                    { "title": "Role Model", "featured_artists": [] },
+                    { "title": "My Fault", "featured_artists": [] },
+                    { "title": "Ken Kaniff", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Marshall Mathers LP",
+                "release_date": "2000-05-23",
+                "img": "../assets/hip_hop/photos/themarshallmatherslp.jpg",
+                "tracks": [
+                    { "title": "Public Service Announcement 2000", "featured_artists": [] },
+                    { "title": "Kill You", "featured_artists": [] },
+                    { "title": "Stan", "featured_artists": ["Dido"] },
+                    { "title": "Paul (Skit)", "featured_artists": [] },
+                    { "title": "Who Knew", "featured_artists": [] },
+                    { "title": "Steve Berman", "featured_artists": [] },
+                    { "title": "The Way I Am", "featured_artists": [] },
+                    { "title": "The Real Slim Shady", "featured_artists": [] },
+                    { "title": "Remember Me?", "featured_artists": ["RBX", "Sticky Fingaz"] },
+                    { "title": "I'm Back", "featured_artists": [] },
+                    { "title": "Marshall Mathers", "featured_artists": [] },
+                    { "title": "Drug Ballad", "featured_artists": [] },
+                    { "title": "Amityville", "featured_artists": ["Busta Rhymes"] },
+                    { "title": "Bitch Please II", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Eminem Show",
+                "release_date": "2002-05-28",
+                "img": "../assets/hip_hop/photos/theeminemshow.jpg",
+                "tracks": [
+                    { "title": "Curtains Up", "featured_artists": [] },
+                    { "title": "White America", "featured_artists": [] },
+                    { "title": "Business", "featured_artists": [] },
+                    { "title": "Cleanin' Out My Closet", "featured_artists": [] },
+                    { "title": "Square Dance", "featured_artists": [] },
+                    { "title": "The Kiss", "featured_artists": [] },
+                    { "title": "Soldier", "featured_artists": [] },
+                    { "title": "Drips", "featured_artists": ["Obie Trice"] },
+                    { "title": "Without Me", "featured_artists": [] },
+                    { "title": "Sing for the Moment", "featured_artists": [] },
+                    { "title": "Superman", "featured_artists": [] },
+                    { "title": "Hailie's Song", "featured_artists": [] },
+                    { "title": "When the Music Stops", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Encore",
+                "release_date": "2004-11-12",
+                "img": "../assets/hip_hop/photos/encore.jpg",
+                "tracks": [
+                    { "title": "Curtains Up (Encore Version)", "featured_artists": [] },
+                    { "title": "Evil Deeds", "featured_artists": [] },
+                    { "title": "Never Enough", "featured_artists": ["50 Cent", "Lloyd Banks"] },
+                    { "title": "Yellow Brick Road", "featured_artists": [] },
+                    { "title": "Like Toy Soldiers", "featured_artists": [] },
+                    { "title": "Mosh", "featured_artists": [] },
+                    { "title": "Puke", "featured_artists": [] },
+                    { "title": "My 1st Single", "featured_artists": [] },
+                    { "title": "Paul (Skit)", "featured_artists": [] },
+                    { "title": "Ricky Ticky Toc", "featured_artists": [] },
+                    { "title": "Encore", "featured_artists": [] },
+                    { "title": "We As Americans", "featured_artists": [] },
+                    { "title": "Climbers", "featured_artists": [] },
+                    { "title": "Runnin'", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Relapse",
+                "release_date": "2009-05-15",
+                "img": "../assets/hip_hop/photos/relapse.jpg",
+                "tracks": [
+                    { "title": "Dr. West (Skit)", "featured_artists": [] },
+                    { "title": "3 a.m.", "featured_artists": [] },
+                    { "title": "My Mom", "featured_artists": [] },
+                    { "title": "Insomniac", "featured_artists": [] },
+                    { "title": "Bagpipes from Baghdad", "featured_artists": [] },
+                    { "title": "Hello", "featured_artists": [] },
+                    { "title": "Same Song & Dance", "featured_artists": [] },
+                    { "title": "We Made You", "featured_artists": [] },
+                    { "title": "Medicine Ball", "featured_artists": [] },
+                    { "title": "Paul (Skit)", "featured_artists": [] },
+                    { "title": "Stay Wide Awake", "featured_artists": [] },
+                    { "title": "Old Time's Sake", "featured_artists": ["Dr. Dre"] },
+                    { "title": "Must Be the Ganja", "featured_artists": [] },
+                    { "title": "Déjà Vu", "featured_artists": [] },
+                    { "title": "Beautiful", "featured_artists": [] },
+                    { "title": "Crack a Bottle", "featured_artists": ["Dr. Dre", "50 Cent"] },
+                    { "title": "Steve Berman (Skit)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Recovery",
+                "release_date": "2010-06-18",
+                "img": "../assets/hip_hop/photos/recovery.jpg",
+                "tracks": [
+                    { "title": "Cold Wind Blows", "featured_artists": [] },
+                    { "title": "Talkin' 2 Myself", "featured_artists": ["Kobe"] },
+                    { "title": "On Fire", "featured_artists": [] },
+                    { "title": "Won't Back Down", "featured_artists": ["P!nk"] },
+                    { "title": "Lose Yourself (Reprise)", "featured_artists": [] },
+                    { "title": "Not Afraid", "featured_artists": [] },
+                    { "title": "Seduction", "featured_artists": [] },
+                    { "title": "No Love", "featured_artists": ["Lil Wayne"] },
+                    { "title": "Space Bound", "featured_artists": [] },
+                    { "title": "Cinderella Man", "featured_artists": [] },
+                    { "title": "25 to Life", "featured_artists": [] },
+                    { "title": "So Bad", "featured_artists": [] },
+                    { "title": "Almost Famous", "featured_artists": [] },
+                    { "title": "Love the Way You Lie", "featured_artists": ["Rihanna"] },
+                    { "title": "You're Never Over", "featured_artists": [] },
+                    { "title": "Underdog", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Marshall Mathers LP 2",
+                "release_date": "2013-11-05",
+                "img": "../assets/hip_hop/photos/themarshallmatherslp2.png",
+                "tracks": [
+                    { "title": "Bad Guy", "featured_artists": [] },
+                    { "title": "Parking Lot (Skit)", "featured_artists": [] },
+                    { "title": "Rhyme or Reason", "featured_artists": [] },
+                    { "title": "So Much Better", "featured_artists": [] },
+                    { "title": "Survival", "featured_artists": [] },
+                    { "title": "Legacy", "featured_artists": [] },
+                    { "title": "Arose", "featured_artists": [] },
+                    { "title": "Fack", "featured_artists": [] },
+                    { "title": "Love Game", "featured_artists": ["Kendrick Lamar"] },
+                    { "title": "Headlights", "featured_artists": ["Nate Ruess"] },
+                    { "title": "Evil Twin", "featured_artists": [] },
+                    { "title": "So Far... (Skit)", "featured_artists": [] },
+                    { "title": "Rap God", "featured_artists": [] },
+                    { "title": "Brainless", "featured_artists": [] },
+                    { "title": "Stronger Than I Was", "featured_artists": [] },
+                    { "title": "The Monster", "featured_artists": ["Rihanna"] }
+                ]
+            },
+            {
+                "title": "Revival",
+                "release_date": "2017-12-15",
+                "img": "../assets/hip_hop/photos/revival.png",
+                "tracks": [
+                    { "title": "Walk on Water", "featured_artists": ["Beyoncé"] },
+                    { "title": "Believe", "featured_artists": [] },
+                    { "title": "Chloraseptic", "featured_artists": ["2 Chainz", "Phresher"] },
+                    { "title": "Untouchable", "featured_artists": [] },
+                    { "title": "Framed", "featured_artists": [] },
+                    { "title": "Nowhere Fast", "featured_artists": ["Kehlani"] },
+                    { "title": "Heat", "featured_artists": [] },
+                    { "title": "Offended", "featured_artists": [] },
+                    { "title": "Remind Me (Intro)", "featured_artists": [] },
+                    { "title": "Remind Me (Intro)", "featured_artists": [] },
+                    { "title": "River", "featured_artists": ["Ed Sheeran"] },
+                    { "title": "Fall", "featured_artists": [] },
+                    { "title": "Nowhere Fast", "featured_artists": ["Kehlani"] }
+                ]
+            },
+            {
+                "title": "Kamikaze",
+                "release_date": "2018-08-31",
+                "img": "../assets/hip_hop/photos/kamikaze.jpg",
+                "tracks": [
+                    { "title": "The Ringer", "featured_artists": [] },
+                    { "title": "Greatest", "featured_artists": [] },
+                    { "title": "Lucky You", "featured_artists": ["Joyner Lucas"] },
+                    { "title": "Normal", "featured_artists": [] },
+                    { "title": "Em Calls Paul", "featured_artists": [] },
+                    { "title": "Stepping Stone", "featured_artists": [] },
+                    { "title": "Not Alike", "featured_artists": ["Royce Da 5'9"] },
+                    { "title": "Venom", "featured_artists": [] },
+                    { "title": "Fall", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Music to Be Murdered By",
+                "release_date": "2020-01-17",
+                "img": "../assets/hip_hop/photos/musictobemurderedby.png",
+                "tracks": [
+                    { "title": "Premonition (Intro)", "featured_artists": [] },
+                    { "title": "Unaccommodating", "featured_artists": ["Young M.A"] },
+                    { "title": "You Gon' Learn", "featured_artists": ["Royce Da 5'9", "White Gold"] },
+                    { "title": "Alfred's Theme", "featured_artists": [] },
+                    { "title": "Those Kinda Nights", "featured_artists": ["Elton John"] },
+                    { "title": "In Too Deep", "featured_artists": [] },
+                    { "title": "Godzilla", "featured_artists": ["Juice WRLD"] },
+                    { "title": "Darkness", "featured_artists": [] },
+                    { "title": "Leaving Heaven", "featured_artists": ["Skylar Grey"] },
+                    { "title": "Higher", "featured_artists": [] },
+                    { "title": "Killer", "featured_artists": ["Jack Harlow", "Cordae"] },
+                    { "title": "She Loves Me", "featured_artists": [] },
+                    { "title": "Lock It Up", "featured_artists": ["Anderson .Paak"] },
+                    { "title": "Farewell", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Notorious B.I.G.",
+        "bio_url": "https://en.wikipedia.org/wiki/The_Notorious_B.I.G.",
+        "bio_birthdate": "1972-05-21",
+        "bio_summary": "Christopher George Latore Wallace (May 21, 1972 – March 9, 1997), better known by his stage names The Notorious B.I.G., Biggie, or Biggie Smalls, was an American rapper.",
+        "img_url": "/assets/Photos/Biggie_Smalls_1997.jpg",
+        "location_city": "Brooklyn",
+        "location_neighborhood": "Clinton Hill",
+        "discography": [
+            {
+                "title": "Ready to Die",
+                "release_date": "1994-09-13",
+                "img": "../assets/hip_hop/photos/readytodie.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Things Done Changed", "featured_artists": [] },
+                    { "title": "Gimme the Loot", "featured_artists": [] },
+                    { "title": "Machine Gun Funk", "featured_artists": [] },
+                    { "title": "Warning", "featured_artists": [] },
+                    { "title": "Ready to Die", "featured_artists": [] },
+                    { "title": "One More Chance", "featured_artists": [] },
+                    { "title": "F**k Me (You Know I Got It)", "featured_artists": [] },
+                    { "title": "The What", "featured_artists": ["Method Man"] },
+                    { "title": "Juicy", "featured_artists": [] },
+                    { "title": "Unbelievable", "featured_artists": [] },
+                    { "title": "Big Poppa", "featured_artists": [] },
+                    { "title": "Respect", "featured_artists": [] },
+                    { "title": "Friend of Mine", "featured_artists": [] },
+                    { "title": "Me & My Bitch", "featured_artists": [] },
+                    { "title": "Suicidal Thoughts", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Life After Death",
+                "release_date": "1997-03-25",
+                "img": "../assets/hip_hop/photos/lifeafterdeath.jpg",
+                "tracks": [
+                    { "title": "Life After Death Intro", "featured_artists": [] },
+                    { "title": "Somebody's Gotta Die", "featured_artists": [] },
+                    { "title": "Hypnotize", "featured_artists": [] },
+                    { "title": "Kick in the Door", "featured_artists": [] },
+                    { "title": "F**k You Tonight", "featured_artists": ["R. Kelly"] },
+                    { "title": "Last Day", "featured_artists": ["The LOX"] },
+                    { "title": "I Love the Dough", "featured_artists": ["Jay-Z", "Angela Winbush"] },
+                    { "title": "What's Beef", "featured_artists": [] },
+                    { "title": "B.I.G. Interlude", "featured_artists": [] },
+                    { "title": "Mo Money Mo Problems", "featured_artists": ["Puff Daddy", "Mase"] },
+                    { "title": "Niggas Bleed", "featured_artists": [] },
+                    { "title": "I Got a Story to Tell", "featured_artists": [] },
+                    { "title": "Notorious Thugs", "featured_artists": ["Bone Thugs-N-Harmony"] },
+                    { "title": "Miss U", "featured_artists": [] },
+                    { "title": "Another", "featured_artists": [] },
+                    { "title": "Going Back to Cali", "featured_artists": [] },
+                    { "title": "Ten Crack Commandments", "featured_artists": [] },
+                    { "title": "Playa Hater", "featured_artists": [] },
+                    { "title": "Nasty Boy", "featured_artists": [] },
+                    { "title": "Sky's the Limit", "featured_artists": [] },
+                    { "title": "The World Is Filled...", "featured_artists": [] },
+                    { "title": "My Downfall", "featured_artists": [] },
+                    { "title": "Long Kiss Goodnight", "featured_artists": [] },
+                    { "title": "You're Nobody (Til Somebody Kills You)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Born Again",
+                "release_date": "1999-12-07",
+                "img": "../assets/hip_hop/photos/bornagain.png",
+                "tracks": [
+                    { "title": "Notorious Thugs (Remix)", "featured_artists": ["Bone Thugs-N-Harmony"] },
+                    { "title": "Dead Wrong", "featured_artists": ["Eminem"] },
+                    { "title": "Biggie", "featured_artists": [] },
+                    { "title": "Nasty Boy (Remix)", "featured_artists": [] },
+                    { "title": "Hold Ya Head", "featured_artists": [] },
+                    { "title": "I Really Want to Show You", "featured_artists": [] },
+                    { "title": "Miss You", "featured_artists": [] },
+                    { "title": "We Gonna Party Tonight", "featured_artists": [] },
+                    { "title": "Somebody's Gotta Die", "featured_artists": [] },
+                    { "title": "We Gonna Party Tonight (Remix)", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Lil Wayne",
+        "bio_url": "https://en.wikipedia.org/wiki/Lil_Wayne",
+        "bio_birthdate": null,
+        "bio_summary": "Dwayne Michael Carter Jr. (born September 27, 1982), known professionally as Lil Wayne, is an American hip hop recording artist and author from New Orleans, Louisiana.",
+        "img_url": "/assets/Photos/Lil_Wayne.jpg",
+        "location_city": "New Orleans",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Tha Block Is Hot",
+                "release_date": "1999-11-02",
+                "img": "../assets/hip_hop/photos/theblockishot.jpg",
+                "tracks": [
+                    { "title": "Tha Block Is Hot", "featured_artists": [] },
+                    { "title": "Shine", "featured_artists": [] },
+                    { "title": "Back That Azz Up", "featured_artists": ["Juvenile", "Mannie Fresh"] },
+                    { "title": "Get Off the Corner", "featured_artists": [] },
+                    { "title": "Blow", "featured_artists": [] },
+                    { "title": "I Miss My Dawgs", "featured_artists": [] },
+                    { "title": "I'm a D-Boy", "featured_artists": [] },
+                    { "title": "Young Player", "featured_artists": [] },
+                    { "title": "Wobbledy Wobble", "featured_artists": [] },
+                    { "title": "F*** With Us", "featured_artists": [] },
+                    { "title": "Blood Pressure", "featured_artists": [] },
+                    { "title": "Tha Block Is Hot (Remix)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Lights Out",
+                "release_date": "2000-12-19",
+                "img": "../assets/hip_hop/photos/lightsout.jpg",
+                "tracks": [
+                    { "title": "Way of Life", "featured_artists": [] },
+                    { "title": "Shine (Remix)", "featured_artists": [] },
+                    { "title": "Get It How You Live", "featured_artists": [] },
+                    { "title": "F*** 'Em", "featured_artists": [] },
+                    { "title": "Shooting Star", "featured_artists": [] },
+                    { "title": "Bling Bling", "featured_artists": [] },
+                    { "title": "Get Your Shine On", "featured_artists": [] },
+                    { "title": "Let the Beat Build", "featured_artists": [] },
+                    { "title": "The Dream", "featured_artists": [] },
+                    { "title": "Soldier", "featured_artists": [] },
+                    { "title": "Trouble", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "500 Degreez",
+                "release_date": "2002-07-23",
+                "img": "../assets/hip_hop/photos/500degrees.jpg",
+                "tracks": [
+                    { "title": "Fireman", "featured_artists": [] },
+                    { "title": "Hustler Musik", "featured_artists": [] },
+                    { "title": "F*** 'Em", "featured_artists": [] },
+                    { "title": "Still Fly", "featured_artists": [] },
+                    { "title": "Baby", "featured_artists": ["Birdman"] },
+                    { "title": "How to Rock", "featured_artists": [] },
+                    { "title": "Shooter", "featured_artists": [] },
+                    { "title": "Young Money", "featured_artists": [] },
+                    { "title": "Pop Bottles", "featured_artists": [] },
+                    { "title": "Time Is Money", "featured_artists": [] },
+                    { "title": "Blunt Blowin'", "featured_artists": [] },
+                    { "title": "Wobbledy Wobble", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tha Carter",
+                "release_date": "2004-06-29",
+                "img": "../assets/hip_hop/photos/thecarter.jpg",
+                "tracks": [
+                    { "title": "Go DJ", "featured_artists": [] },
+                    { "title": "Tha Carter", "featured_artists": [] },
+                    { "title": "Bring It Back", "featured_artists": [] },
+                    { "title": "I Miss My Dawgs", "featured_artists": [] },
+                    { "title": "Bling Bling", "featured_artists": [] },
+                    { "title": "Feel Me", "featured_artists": [] },
+                    { "title": "Fireman", "featured_artists": [] },
+                    { "title": "Hustler Musik", "featured_artists": [] },
+                    { "title": "Young Money", "featured_artists": [] },
+                    { "title": "Shorty Wanna Ride", "featured_artists": [] },
+                    { "title": "F*** With Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tha Carter II",
+                "release_date": "2005-12-06",
+                "img": "../assets/hip_hop/photos/thecarter2.jpg",
+                "tracks": [
+                    { "title": "Fireman", "featured_artists": [] },
+                    { "title": "Hustler Musik", "featured_artists": [] },
+                    { "title": "Shooter", "featured_artists": ["Robin Thicke"] },
+                    { "title": "Money on My Mind", "featured_artists": [] },
+                    { "title": "Weezy Baby", "featured_artists": [] },
+                    { "title": "Best Rapper Alive", "featured_artists": [] },
+                    { "title": "Where You At", "featured_artists": [] },
+                    { "title": "My D*ck", "featured_artists": [] },
+                    { "title": "Georgia... Bush", "featured_artists": [] },
+                    { "title": "Leather So Soft", "featured_artists": [] },
+                    { "title": "They Still Like Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tha Carter III",
+                "release_date": "2008-06-10",
+                "img": "../assets/hip_hop/photos/carter3.jpg",
+                "tracks": [
+                    { "title": "3 Peat", "featured_artists": [] },
+                    { "title": "Mr. Carter", "featured_artists": ["Jay-Z"] },
+                    { "title": "A Milli", "featured_artists": [] },
+                    { "title": "Got Money", "featured_artists": ["T-Pain"] },
+                    { "title": "Comfortable", "featured_artists": ["Kanye West", "Babyface"] },
+                    { "title": "Dr. Carter", "featured_artists": [] },
+                    { "title": "Phone Home", "featured_artists": [] },
+                    { "title": "Tie My Hands", "featured_artists": ["Robin Thicke"] },
+                    { "title": "Mrs. Officer", "featured_artists": ["Bun B", "Lil Mama"] },
+                    { "title": "Let the Beat Build", "featured_artists": [] },
+                    { "title": "Shoot Me Down", "featured_artists": [] },
+                    { "title": "Lollipop", "featured_artists": ["Static Major"] },
+                    { "title": "La La", "featured_artists": ["Busta Rhymes", "Brisco"] },
+                    { "title": "Pussy Monster", "featured_artists": [] },
+                    { "title": "On Fire", "featured_artists": [] },
+                    { "title": "Tie My Hands (Remix)", "featured_artists": [] },
+                    { "title": "Pioneer", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Rebirth",
+                "release_date": "2010-02-02",
+                "img": "../assets/hip_hop/photos/rebirth.jpg",
+                "tracks": [
+                    { "title": "American Star", "featured_artists": [] },
+                    { "title": "I'm Not Human", "featured_artists": [] },
+                    { "title": "On Fire", "featured_artists": [] },
+                    { "title": "Prom Queen", "featured_artists": [] },
+                    { "title": "Da Da Da", "featured_artists": [] },
+                    { "title": "Runnin'", "featured_artists": [] },
+                    { "title": "Drop the World", "featured_artists": ["Eminem"] },
+                    { "title": "So Special", "featured_artists": ["Swizz Beatz"] },
+                    { "title": "Back From the Dead", "featured_artists": [] },
+                    { "title": "Paradice", "featured_artists": [] },
+                    { "title": "Get a Life", "featured_artists": [] },
+                    { "title": "Knockout", "featured_artists": ["Nicki Minaj"] },
+                    { "title": "One Way Trip", "featured_artists": [] },
+                    { "title": "The Price is Wrong", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "I Am Not a Human Being",
+                "release_date": "2010-09-27",
+                "img": "../assets/hip_hop/photos/iamnotahumanbeing.png",
+                "tracks": [
+                    { "title": "Gonorrhea", "featured_artists": ["Drake"] },
+                    { "title": "Hold Up", "featured_artists": ["T-Pain"] },
+                    { "title": "With You", "featured_artists": ["Shanell"] },
+                    { "title": "I Am Not a Human Being", "featured_artists": [] },
+                    { "title": "It's Good", "featured_artists": ["Drake", "Jadakiss"] },
+                    { "title": "Right Above It", "featured_artists": ["Drake"] },
+                    { "title": "Steady Mobbin'", "featured_artists": ["Gucci Mane"] },
+                    { "title": "No Love", "featured_artists": ["Lil Wayne"] },
+                    { "title": "The Intro", "featured_artists": [] },
+                    { "title": "After Life", "featured_artists": [] },
+                    { "title": "I Ain't Going Nowhere", "featured_artists": [] },
+                    { "title": "I Do It", "featured_artists": [] },
+                    { "title": "Darkness", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tha Carter IV",
+                "release_date": "2011-08-29",
+                "img": "../assets/hip_hop/photos/carter4.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "6 Foot 7 Foot", "featured_artists": ["Cory Gunz"] },
+                    { "title": "Nightmares of the Bottom", "featured_artists": [] },
+                    { "title": "She Will", "featured_artists": ["Drake"] },
+                    { "title": "How to Love", "featured_artists": [] },
+                    { "title": "A Milli (Remix)", "featured_artists": [] },
+                    { "title": "John", "featured_artists": ["Rick Ross"] },
+                    { "title": "Blunt Blowin", "featured_artists": [] },
+                    { "title": "Megaman", "featured_artists": [] },
+                    { "title": "Shooting Star", "featured_artists": [] },
+                    { "title": "I Like the View", "featured_artists": [] },
+                    { "title": "President Carter", "featured_artists": [] },
+                    { "title": "It's Good", "featured_artists": ["Drake", "Jadakiss"] },
+                    { "title": "So Special", "featured_artists": ["Swizz Beatz"] },
+                    { "title": "The Look of Love", "featured_artists": ["Shanell"] },
+                    { "title": "How to Love (Remix)", "featured_artists": ["Nicki Minaj"] },
+                    { "title": "Outro", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "I Am Not a Human Being II",
+                "release_date": "2013-03-26",
+                "img": "../assets/hip_hop/photos/iamnotahumanbeing2.jpg",
+                "tracks": [
+                    { "title": "IANAHB", "featured_artists": [] },
+                    { "title": "Bill Gates", "featured_artists": [] },
+                    { "title": "No Worries", "featured_artists": ["Detail"] },
+                    { "title": "Back To You", "featured_artists": ["Dwayne Carter"] },
+                    { "title": "Days And Days", "featured_artists": [] },
+                    { "title": "Rich As Fuck", "featured_artists": ["2 Chainz"] },
+                    { "title": "Trippy", "featured_artists": ["Future"] },
+                    { "title": "Life of Mr. Carter", "featured_artists": ["Lil Wayne"] },
+                    { "title": "Top of the World", "featured_artists": [] },
+                    { "title": "Ballin'", "featured_artists": [] },
+                    { "title": "Motive", "featured_artists": ["Wayne"] },
+                    { "title": "Wasting No Time", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Carter V",
+                "release_date": "2018-09-28",
+                "img": "../assets/hip_hop/photos/carter5.jpeg",
+                "tracks": [
+                    { "title": "I Love You Dwayne", "featured_artists": [] },
+                    { "title": "Don't Cry", "featured_artists": ["XXXTentacion"] },
+                    { "title": "Dedicate", "featured_artists": [] },
+                    { "title": "Uproar", "featured_artists": [] },
+                    { "title": "Let It Fly", "featured_artists": ["Travis Scott"] },
+                    { "title": "Can't Be Broken", "featured_artists": [] },
+                    { "title": "Dark Side of the Moon", "featured_artists": ["Nicki Minaj"] },
+                    { "title": "Mona Lisa", "featured_artists": ["Kendrick Lamar"] },
+                    { "title": "What About Me?", "featured_artists": [] },
+                    { "title": "Open Letter", "featured_artists": [] },
+                    { "title": "Famous", "featured_artists": [] },
+                    { "title": "Start This Shit Off Right", "featured_artists": ["Ashanti", "Mac Miller"] },
+                    { "title": "Problems", "featured_artists": [] },
+                    { "title": "Dope New Gospel", "featured_artists": [] },
+                    { "title": "Perfect Strangers", "featured_artists": ["Lil Twist"] },
+                    { "title": "Let Me Fly", "featured_artists": [] },
+                    { "title": "More Than Friends", "featured_artists": [] },
+                    { "title": "S.O.S.", "featured_artists": [] },
+                    { "title": "M.A.T.H.", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Funeral",
+                "release_date": "2020-02-07",
+                "img": "../assets/hip_hop/photos/funeral.jpg",
+                "tracks": [
+                    { "title": "Funeral", "featured_artists": [] },
+                    { "title": "Mahogany", "featured_artists": [] },
+                    { "title": "Mama Mia", "featured_artists": [] },
+                    { "title": "I Do It", "featured_artists": ["Big Sean", "Lil Baby"] },
+                    { "title": "Young Money", "featured_artists": [] },
+                    { "title": "La La La", "featured_artists": [] },
+                    { "title": "Get It Together", "featured_artists": [] },
+                    { "title": "Drip Too Hard", "featured_artists": [] },
+                    { "title": "Next Up", "featured_artists": [] },
+                    { "title": "Hoes", "featured_artists": [] },
+                    { "title": "Staring At The World", "featured_artists": [] },
+                    { "title": "Falling In Love", "featured_artists": [] },
+                    { "title": "Trust Issues", "featured_artists": [] },
+                    { "title": "Haters", "featured_artists": [] },
+                    { "title": "Soldier", "featured_artists": [] },
+                    { "title": "Rider", "featured_artists": [] },
+                    { "title": "High Off Life", "featured_artists": [] },
+                    { "title": "On Me", "featured_artists": [] },
+                    { "title": "Funeral Remix", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "No Ceilings 3",
+                "release_date": "2020-11-27",
+                "img": "../assets/hip_hop/photos/iamnotahumanbeing2.jpg",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Big Worm", "featured_artists": [] },
+                    { "title": "B.B. King Freestyle", "featured_artists": [] },
+                    { "title": "Money On My Mind", "featured_artists": [] },
+                    { "title": "Talk To Em", "featured_artists": [] },
+                    { "title": "Feeling Like Tunechi", "featured_artists": [] },
+                    { "title": "Cedar Block", "featured_artists": [] },
+                    { "title": "No Lookin Back", "featured_artists": [] },
+                    { "title": "Gotta Lotta", "featured_artists": [] },
+                    { "title": "Swear To God", "featured_artists": [] },
+                    { "title": "No Ceilings", "featured_artists": [] },
+                    { "title": "6 Foot 7 Foot Remix", "featured_artists": [] },
+                    { "title": "Wayne’s World", "featured_artists": [] },
+                    { "title": "Realer Than Real", "featured_artists": [] },
+                    { "title": "Made It", "featured_artists": [] },
+                    { "title": "Real Ones", "featured_artists": [] },
+                    { "title": "Kush Up", "featured_artists": [] },
+                    { "title": "Yoppa", "featured_artists": [] },
+                    { "title": "Like Me", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Drake",
+        "categories": ["rapper", "singer"],
+        "bio_url": "https://en.wikipedia.org/wiki/Drake_(musician)",
+        "bio_birthdate": null,
+        "bio_summary": "Aubrey Drake Graham (born October 24, 1986), known simply as Drake, is a Canadian rapper, singer, songwriter, record producer, and actor.",
+        "img_url": "/assets/Photos/Drake.jpg",
+        "location_city": "Toronto",
+        "location_neighborhood": "Forest Hill",
+        "discography": [
+            {
+                "title": "Thank Me Later",
+                "release_date": "2010-06-15",
+                "img": "../assets/hip_hop/photos/thankmelater.jpg",
+                "tracks": [
+                    { "title": "Fireworks", "featured_artists": ["Alicia Keys"] },
+                    { "title": "Karaoke", "featured_artists": [] },
+                    { "title": "The Resistance", "featured_artists": [] },
+                    { "title": "Over", "featured_artists": [] },
+                    { "title": "Show Me a Good Time", "featured_artists": [] },
+                    { "title": "Up All Night", "featured_artists": ["Nicki Minaj"] },
+                    { "title": "Fancy", "featured_artists": ["T.I.", "Swizz Beatz"] },
+                    { "title": "Shut It Down", "featured_artists": ["The-Dream"] },
+                    { "title": "Unforgettable", "featured_artists": ["Young Jeezy"] },
+                    { "title": "Light Up", "featured_artists": ["Jay-Z"] },
+                    { "title": "Miss Me", "featured_artists": ["Lil Wayne"] },
+                    { "title": "Cece’s Interlude", "featured_artists": [] },
+                    { "title": "Find Your Love", "featured_artists": [] },
+                    { "title": "Thank Me Now", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Take Care",
+                "release_date": "2011-11-15",
+                "img": "../assets/hip_hop/photos/takecare.jpg",
+                "tracks": [
+                    { "title": "Over My Dead Body", "featured_artists": [] },
+                    { "title": "Shot for Me", "featured_artists": [] },
+                    { "title": "Headlines", "featured_artists": [] },
+                    { "title": "Crew Love", "featured_artists": ["The Weeknd"] },
+                    { "title": "Take Care", "featured_artists": ["Rihanna"] },
+                    { "title": "Marvins Room", "featured_artists": [] },
+                    { "title": "Buried Alive Interlude", "featured_artists": ["Kendrick Lamar"] },
+                    { "title": "Under Ground Kings", "featured_artists": [] },
+                    { "title": "We’ll Be Fine", "featured_artists": ["Birdman"] },
+                    { "title": "Make Me Proud", "featured_artists": ["Nicki Minaj"] },
+                    { "title": "Lord Knows", "featured_artists": ["Rick Ross"] },
+                    { "title": "Cameras / Good Ones Go Interlude", "featured_artists": [] },
+                    { "title": "Doing It Wrong", "featured_artists": [] },
+                    { "title": "The Real Her", "featured_artists": ["Lil Wayne", "Andre 3000"] },
+                    { "title": "Look What You’ve Done", "featured_artists": [] },
+                    { "title": "HYFR (Hell Ya F**king Right)", "featured_artists": ["Lil Wayne"] },
+                    { "title": "Practice", "featured_artists": [] },
+                    { "title": "The Ride", "featured_artists": ["The Weeknd"] }
+                ]
+            },
+            {
+                "title": "Nothing Was the Same",
+                "release_date": "2013-09-24",
+                "img": "../assets/hip_hop/photos/nothingwasthesame.png",
+                "tracks": [
+                    { "title": "Tuscan Leather", "featured_artists": [] },
+                    { "title": "Furthest Thing", "featured_artists": [] },
+                    { "title": "Started from the Bottom", "featured_artists": [] },
+                    { "title": "Wu-Tang Forever", "featured_artists": [] },
+                    { "title": "Own It", "featured_artists": [] },
+                    { "title": "Worst Behavior", "featured_artists": [] },
+                    { "title": "From Time", "featured_artists": ["Jhené Aiko"] },
+                    { "title": "Hold On, We're Going Home", "featured_artists": ["Majid Jordan"] },
+                    { "title": "Connect", "featured_artists": [] },
+                    { "title": "The Language", "featured_artists": [] },
+                    { "title": "305 to My City", "featured_artists": ["Detail"] },
+                    { "title": "Too Much", "featured_artists": ["Sampha"] },
+                    { "title": "Pound Cake / Paris Morton Music 2", "featured_artists": ["JAY-Z"] }
+                ]
+            },
+            {
+                "title": "Views",
+                "release_date": "2016-04-29",
+                "img": "../assets/hip_hop/photos/views.jpg",
+                "tracks": [
+                    { "title": "Keep the Family Close", "featured_artists": [] },
+                    { "title": "9", "featured_artists": [] },
+                    { "title": "U with Me?", "featured_artists": [] },
+                    { "title": "Feel No Ways", "featured_artists": [] },
+                    { "title": "Hype", "featured_artists": [] },
+                    { "title": "Weston Road Flows", "featured_artists": [] },
+                    { "title": "Redemption", "featured_artists": [] },
+                    { "title": "With You", "featured_artists": ["PARTYNEXTDOOR"] },
+                    { "title": "Faithful", "featured_artists": ["Pimp C", "Dvsn"] },
+                    { "title": "Still Here", "featured_artists": [] },
+                    { "title": "Controlla", "featured_artists": [] },
+                    { "title": "One Dance", "featured_artists": ["Wizkid", "Kyla"] },
+                    { "title": "Grammys", "featured_artists": ["Future"] },
+                    { "title": "Childs Play", "featured_artists": [] },
+                    { "title": "Pop Style", "featured_artists": [] },
+                    { "title": "Too Good", "featured_artists": ["Rihanna"] },
+                    { "title": "Summers Over Interlude", "featured_artists": [] },
+                    { "title": "Fire & Desire", "featured_artists": [] },
+                    { "title": "Views", "featured_artists": [] },
+                    { "title": "Hotline Bling", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Scorpion",
+                "release_date": "2018-06-29",
+                "img": "../assets/hip_hop/photos/scorpion.jpg",
+                "tracks": [
+                    { "title": "Survival", "featured_artists": [] },
+                    { "title": "Nonstop", "featured_artists": [] },
+                    { "title": "Elevate", "featured_artists": [] },
+                    { "title": "Emotionless", "featured_artists": [] },
+                    { "title": "God’s Plan", "featured_artists": [] },
+                    { "title": "I’m Upset", "featured_artists": [] },
+                    { "title": "8 Out of 10", "featured_artists": [] },
+                    { "title": "Mob Ties", "featured_artists": [] },
+                    { "title": "Can’t Take a Joke", "featured_artists": [] },
+                    { "title": "Sandra’s Rose", "featured_artists": [] },
+                    { "title": "Talk Up", "featured_artists": ["Jay-Z"] },
+                    { "title": "Is There More", "featured_artists": [] },
+                    { "title": "Peak", "featured_artists": [] },
+                    { "title": "Summer Games", "featured_artists": [] },
+                    { "title": "Jaded", "featured_artists": [] },
+                    { "title": "Nice for What", "featured_artists": [] },
+                    { "title": "Finesse", "featured_artists": [] },
+                    { "title": "Ratchet Happy Birthday", "featured_artists": [] },
+                    { "title": "That’s How You Feel", "featured_artists": [] },
+                    { "title": "Blue Tint", "featured_artists": [] },
+                    { "title": "In My Feelings", "featured_artists": [] },
+                    { "title": "Don’t Matter to Me", "featured_artists": ["Michael Jackson"] },
+                    { "title": "After Dark", "featured_artists": ["Static Major", "Ty Dolla $ign"] },
+                    { "title": "Final Fantasy", "featured_artists": [] },
+                    { "title": "March 14", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Certified Lover Boy",
+                "release_date": "2021-09-03",
+                "img": "../assets/hip_hop/photos/certifiedloverboy.png",
+                "tracks": [
+                    { "title": "Champagne Poetry", "featured_artists": [] },
+                    { "title": "Papi’s Home", "featured_artists": [] },
+                    { "title": "Girls Want Girls", "featured_artists": ["Lil Baby"] },
+                    { "title": "In the Bible", "featured_artists": ["Lil Durk", "Givēon"] },
+                    { "title": "Love All", "featured_artists": ["Jay-Z"] },
+                    { "title": "Fair Trade", "featured_artists": ["Travis Scott"] },
+                    { "title": "Way 2 Sexy", "featured_artists": ["Future", "Young Thug"] },
+                    { "title": "TSU", "featured_artists": [] },
+                    { "title": "N 2 Deep", "featured_artists": ["Future"] },
+                    { "title": "Pipe Down", "featured_artists": [] },
+                    { "title": "Yebba’s Heartbreak", "featured_artists": ["Yebba"] },
+                    { "title": "No Friends in the Industry", "featured_artists": [] },
+                    { "title": "Knife Talk", "featured_artists": ["21 Savage", "Project Pat"] },
+                    { "title": "7AM on Bridle Path", "featured_artists": [] },
+                    { "title": "Race My Mind", "featured_artists": [] },
+                    { "title": "Fountains", "featured_artists": ["Tems"] },
+                    { "title": "Get Along Better", "featured_artists": ["Ty Dolla $ign"] },
+                    { "title": "You Only Live Twice", "featured_artists": ["Rick Ross", "Lil Wayne"] },
+                    { "title": "IMY2", "featured_artists": ["Kid Cudi"] },
+                    { "title": "F**king Fans", "featured_artists": [] },
+                    { "title": "The Remorse", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Honestly, Nevermind",
+                "release_date": "2022-06-17",
+                "img": "../assets/hip_hop/photos/honestlynevermind.png",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Falling Back", "featured_artists": [] },
+                    { "title": "Texts Go Green", "featured_artists": [] },
+                    { "title": "Currents", "featured_artists": [] },
+                    { "title": "A Keeper", "featured_artists": [] },
+                    { "title": "Calling My Name", "featured_artists": [] },
+                    { "title": "Sticky", "featured_artists": [] },
+                    { "title": "Massive", "featured_artists": [] },
+                    { "title": "Flight’s Booked", "featured_artists": [] },
+                    { "title": "Overdrive", "featured_artists": [] },
+                    { "title": "Down Hill", "featured_artists": [] },
+                    { "title": "Tie That Binds", "featured_artists": [] },
+                    { "title": "Liability", "featured_artists": [] },
+                    { "title": "Jimmy Cooks", "featured_artists": ["21 Savage"] }
+                ]
+            },
+            {
+                "title": "For All the Dogs",
+                "release_date": "2023-10-06",
+                "img": "../assets/hip_hop/photos/forallthedogs.png",
+                "tracks": [
+                    { "title": "Virginia Beach", "featured_artists": [] },
+                    { "title": "Amen", "featured_artists": ["Teezo Touchdown"] },
+                    { "title": "Calling for You", "featured_artists": ["21 Savage"] },
+                    { "title": "Fear of Heights", "featured_artists": [] },
+                    { "title": "Daylight", "featured_artists": ["Chief Keef"] },
+                    { "title": "First Person Shooter", "featured_artists": ["J. Cole"] },
+                    { "title": "IDGAF", "featured_artists": ["Yeat"] },
+                    { "title": "7969 Santa", "featured_artists": [] },
+                    { "title": "Slime You Out", "featured_artists": ["SZA"] },
+                    { "title": "Bahamas Promises", "featured_artists": [] },
+                    { "title": "Tried Our Best", "featured_artists": [] },
+                    { "title": "Screw the World", "featured_artists": [] },
+                    { "title": "Drew a Picasso", "featured_artists": [] },
+                    { "title": "Members Only", "featured_artists": ["PARTYNEXTDOOR"] },
+                    { "title": "What Would Pluto Do", "featured_artists": [] },
+                    { "title": "All the Parties", "featured_artists": ["Chief Keef"] },
+                    { "title": "8AM in Charlotte", "featured_artists": [] },
+                    { "title": "BBL Love", "featured_artists": [] },
+                    { "title": "Gently", "featured_artists": ["Bad Bunny"] },
+                    { "title": "Rich Baby Daddy", "featured_artists": ["Sexyy Red", "SZA"] },
+                    { "title": "Another Late Night", "featured_artists": ["Lil Yachty"] },
+                    { "title": "Away from Home", "featured_artists": [] },
+                    { "title": "Polar Opposites", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Her Loss",
+                "release_date": "2022-11-04",
+                "img": "../assets/hip_hop/photos/herloss.png",
+                "tracks": [
+                    { "title": "Rich Flex", "featured_artists": ["21 Savage"] },
+                    { "title": "Major Distribution", "featured_artists": ["21 Savage"] },
+                    { "title": "On BS", "featured_artists": ["21 Savage"] },
+                    { "title": "BackOutsideBoyz", "featured_artists": [] },
+                    { "title": "Privileged Rappers", "featured_artists": ["21 Savage"] },
+                    { "title": "Spin Bout U", "featured_artists": ["21 Savage"] },
+                    { "title": "Hours in Silence", "featured_artists": ["21 Savage"] },
+                    { "title": "Treacherous Twins", "featured_artists": ["21 Savage"] },
+                    { "title": "Circo Loco", "featured_artists": ["21 Savage"] },
+                    { "title": "Pussy & Millions", "featured_artists": ["Travis Scott", "21 Savage"] },
+                    { "title": "Broke Boys", "featured_artists": ["21 Savage"] },
+                    { "title": "Middle of the Ocean", "featured_artists": [] },
+                    { "title": "Jumbotron Shit Poppin", "featured_artists": [] },
+                    { "title": "More M’s", "featured_artists": ["21 Savage"] },
+                    { "title": "3AM on Glenwood", "featured_artists": ["21 Savage"] },
+                    { "title": "I Guess It’s Fuck Me", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Snoop Dogg",
+        "bio_url": "https://en.wikipedia.org/wiki/Snoop_Dogg",
+        "bio_birthdate": "1971-10-20",
+        "bio_summary": "Cordozar Calvin Broadus, Jr. (born October 20, 1971), known professionally as Snoop Dogg (formerly called Snoop Doggy Dogg and Snoop Lion), is an American rapper and actor from Long Beach, California.",
+        "img_url": "/assets/Photos/Snoop_Dogg.jpg",
+        "location_city": "Long beach",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Doggystyle",
+                "release_date": "1993-11-23",
+                "tracks": [
+                    { "title": "Bat Country", "featured_artists": [] },
+                    { "title": "G Funk Intro", "featured_artists": [] },
+                    { "title": "Gin and Juice", "featured_artists": ["Dr. Dre"] },
+                    { "title": "Nuthin' But a 'G' Thang", "featured_artists": ["Dr. Dre"] },
+                    { "title": "Lodi Dodi", "featured_artists": ["Snoop Dogg"] },
+                    { "title": "Who Am I? (What's My Name?)", "featured_artists": [] },
+                    { "title": "Doggy Dogg World", "featured_artists": ["Tha Dogg Pound", "Kurupt", "Daz Dillinger"] },
+                    { "title": "Serial Killa", "featured_artists": ["The Lady of Rage", "Kurupt", "Daz Dillinger"] },
+                    { "title": "Pump Pump", "featured_artists": [] },
+                    { "title": "Let’s Play House", "featured_artists": [] },
+                    { "title": "The Shiznit", "featured_artists": [] },
+                    { "title": "Murder Was the Case", "featured_artists": [] },
+                    { "title": "R U a Freak", "featured_artists": [] },
+                    { "title": "Ain't No Fun (If the Homies Can't Have None)", "featured_artists": ["Nate Dogg", "Warren G", "Kurupt", "Daz Dillinger"] },
+                    { "title": "G's and Hustlers", "featured_artists": ["Tha Dogg Pound"] },
+                    { "title": "For All My N****z & B****es", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tha Doggfather",
+                "release_date": "1996-11-12",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Doggfather", "featured_artists": [] },
+                    { "title": "Ride 4 Me", "featured_artists": [] },
+                    { "title": "Up Jump tha Boogie", "featured_artists": [] },
+                    { "title": "Freestyle Conversation", "featured_artists": [] },
+                    { "title": "When I Grow Up", "featured_artists": [] },
+                    { "title": "Snoop Bounce", "featured_artists": [] },
+                    { "title": "Gold Rush", "featured_artists": [] },
+                    { "title": "(Tear ‘Em Off) Me and My Doggz", "featured_artists": ["Daz Dillinger", "Kurupt"] },
+                    { "title": "You Thought", "featured_artists": [] },
+                    { "title": "Vapors", "featured_artists": [] },
+                    { "title": "Groupie", "featured_artists": [] },
+                    { "title": "2001", "featured_artists": [] },
+                    { "title": "Sixx Minutes", "featured_artists": [] },
+                    { "title": "(O.J.) Wake Up", "featured_artists": [] },
+                    { "title": "Snoop’s Upside Ya Head", "featured_artists": [] },
+                    { "title": "Blueberry", "featured_artists": [] },
+                    { "title": "Traffic Jam", "featured_artists": [] },
+                    { "title": "Doggyland", "featured_artists": [] },
+                    { "title": "Downtown Assassins", "featured_artists": [] },
+                    { "title": "Outro", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Da Game Is to Be Sold, Not to Be Told",
+                "release_date": "1998-08-04",
+                "tracks": [
+                    { "title": "Snoop World", "featured_artists": [] },
+                    { "title": "Slow Down", "featured_artists": [] },
+                    { "title": "Woof!", "featured_artists": [] },
+                    { "title": "Gin & Juice II", "featured_artists": [] },
+                    { "title": "Show Me Love", "featured_artists": [] },
+                    { "title": "Hustle & Ball", "featured_artists": [] },
+                    { "title": "Don’t Let Go", "featured_artists": [] },
+                    { "title": "Tru Tank Doggs", "featured_artists": [] },
+                    { "title": "Whatcha Gon Do?", "featured_artists": [] },
+                    { "title": "Still a G Thang", "featured_artists": ["Dr. Dre"] },
+                    { "title": "20 Dollars to My Name", "featured_artists": [] },
+                    { "title": "D.O.G.’s Get Lonely 2", "featured_artists": [] },
+                    { "title": "Ain’t Nut’in Personal", "featured_artists": [] },
+                    { "title": "DP Gangsta", "featured_artists": [] },
+                    { "title": "Game of Life", "featured_artists": [] },
+                    { "title": "See Ya When I Get There", "featured_artists": [] },
+                    { "title": "Pay for Pussy", "featured_artists": [] },
+                    { "title": "Picture This", "featured_artists": [] },
+                    { "title": "Doggz Gonna Get Ya", "featured_artists": [] },
+                    { "title": "Hoes, Money & Clout", "featured_artists": [] },
+                    { "title": "Get Bout It & Rowdy", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "No Limit Top Dogg",
+                "release_date": "1999-05-11",
+                "tracks": [
+                    { "title": "Dolomite Intro", "featured_artists": [] },
+                    { "title": "Buck ‘Em", "featured_artists": [] },
+                    { "title": "Trust Me", "featured_artists": [] },
+                    { "title": "My Heat Goes Boom", "featured_artists": [] },
+                    { "title": "Dolomite", "featured_artists": [] },
+                    { "title": "Snoopafella", "featured_artists": [] },
+                    { "title": "In Love With a Thug", "featured_artists": [] },
+                    { "title": "G Bedtime Stories", "featured_artists": [] },
+                    { "title": "Down 4 My N’s", "featured_artists": [] },
+                    { "title": "Betta Days", "featured_artists": [] },
+                    { "title": "Somethin Bout Yo Bidness", "featured_artists": [] },
+                    { "title": "Bitch Please", "featured_artists": ["Dr. Dre", "Xzibit"] },
+                    { "title": "Doin’ Too Much", "featured_artists": [] },
+                    { "title": "Gangsta Ride", "featured_artists": [] },
+                    { "title": "Ghetto Symphony", "featured_artists": ["Master P", "Silkk the Shocker"] },
+                    { "title": "Party With a D.P.G", "featured_artists": [] },
+                    { "title": "Buss’n Rocks", "featured_artists": [] },
+                    { "title": "Just Dippin", "featured_artists": [] },
+                    { "title": "Don’t Tell", "featured_artists": [] },
+                    { "title": "20 Minutes", "featured_artists": [] },
+                    { "title": "I Love My Momma", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tha Last Meal",
+                "release_date": "2000-12-19",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "Hennesey n Buddah", "featured_artists": [] },
+                    { "title": "Snoop Dogg (What’s My Name Pt. 2)", "featured_artists": [] },
+                    { "title": "True Lies", "featured_artists": [] },
+                    { "title": "Wrong Idea", "featured_artists": [] },
+                    { "title": "Go Away", "featured_artists": [] },
+                    { "title": "Set It Off", "featured_artists": [] },
+                    { "title": "Stacey Adams", "featured_artists": [] },
+                    { "title": "Lay Low", "featured_artists": ["Murder Inc.", "Nate Dogg"] },
+                    { "title": "Bring It On", "featured_artists": [] },
+                    { "title": "Game Court (skit)", "featured_artists": [] },
+                    { "title": "Issues", "featured_artists": [] },
+                    { "title": "Brake Fluid (Biiittch Pump Yo Brakes)", "featured_artists": [] },
+                    { "title": "Ready 2 Ryde", "featured_artists": [] },
+                    { "title": "Loosen’ Control", "featured_artists": [] },
+                    { "title": "I Can’t Swim", "featured_artists": [] },
+                    { "title": "Leave Me Alone", "featured_artists": [] },
+                    { "title": "Back Up Off Me", "featured_artists": [] },
+                    { "title": "Y’all Gone Miss Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Paid tha Cost to Be da Boss",
+                "release_date": "2002-11-26",
+                "tracks": [
+                    { "title": "Don Doggy", "featured_artists": [] },
+                    { "title": "Da Bo$$ Would Like to See You", "featured_artists": [] },
+                    { "title": "Stoplight", "featured_artists": [] },
+                    { "title": "From tha Chuuuch to da Palace", "featured_artists": [] },
+                    { "title": "I Believe in You", "featured_artists": [] },
+                    { "title": "Lollipop", "featured_artists": [] },
+                    { "title": "Ballin", "featured_artists": [] },
+                    { "title": "Beautiful", "featured_artists": ["Pharrell", "Charlie Wilson"] },
+                    { "title": "Paper’d Up", "featured_artists": [] },
+                    { "title": "Wasn’t Your Fault", "featured_artists": [] },
+                    { "title": "Bo$$ Playa", "featured_artists": [] },
+                    { "title": "Hourglass", "featured_artists": [] },
+                    { "title": "The One and Only", "featured_artists": [] },
+                    { "title": "I Miss That Bitch", "featured_artists": [] },
+                    { "title": "From Long Beach 2 Brick City", "featured_artists": [] },
+                    { "title": "Suited n Booted", "featured_artists": [] },
+                    { "title": "You Got What I Want", "featured_artists": [] },
+                    { "title": "Batman & Robin", "featured_artists": [] },
+                    { "title": "A Message 2 Fat Cuzz", "featured_artists": [] },
+                    { "title": "Pimp Slapp’d", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "R&G (Rhythm & Gangsta): The Masterpiece",
+                "release_date": "2004-11-16",
+                "tracks": [
+                    { "title": "(Intro) I Love to Give You Light", "featured_artists": [] },
+                    { "title": "Bang Out", "featured_artists": [] },
+                    { "title": "Drop It Like It’s Hot", "featured_artists": ["Pharrell"] },
+                    { "title": "Can I Get a Flicc Witchu", "featured_artists": [] },
+                    { "title": "Ups & Downs", "featured_artists": [] },
+                    { "title": "The Bidness", "featured_artists": [] },
+                    { "title": "Snoop D.O. Double G", "featured_artists": [] },
+                    { "title": "Let’s Get Blown", "featured_artists": ["Pharrell", "Charlie Wilson"] },
+                    { "title": "Step Yo Game Up", "featured_artists": [] },
+                    { "title": "Perfect", "featured_artists": [] },
+                    { "title": "WBALLZ (Interlude)", "featured_artists": [] },
+                    { "title": "Fresh Pair of Panties On", "featured_artists": [] },
+                    { "title": "Promise I", "featured_artists": [] },
+                    { "title": "Oh No", "featured_artists": [] },
+                    { "title": "Can U Control Yo Hoe", "featured_artists": [] },
+                    { "title": "Signs", "featured_artists": ["Charlie Wilson"] },
+                    { "title": "I’m Threw Witchu", "featured_artists": [] },
+                    { "title": "Pass It Pass It", "featured_artists": [] },
+                    { "title": "Girl Like U", "featured_artists": [] },
+                    { "title": "No Thang on Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tha Blue Carpet Treatment",
+                "release_date": "2006-11-21",
+                "tracks": [
+                    { "title": "Intrology", "featured_artists": [] },
+                    { "title": "Think About It", "featured_artists": [] },
+                    { "title": "Crazy", "featured_artists": [] },
+                    { "title": "Vato", "featured_artists": ["B-Real"] },
+                    { "title": "That’s That Shit", "featured_artists": [] },
+                    { "title": "Candy", "featured_artists": ["The Neptunes"] },
+                    { "title": "Get a Light", "featured_artists": [] },
+                    { "title": "Gangbangin’ 101", "featured_artists": ["The Game"] },
+                    { "title": "Boss’ Life", "featured_artists": ["Nate Dogg"] },
+                    { "title": "LAX", "featured_artists": [] },
+                    { "title": "10 Lil’ Crips", "featured_artists": [] },
+                    { "title": "Round Here", "featured_artists": [] },
+                    { "title": "A Bitch I Knew", "featured_artists": [] },
+                    { "title": "Like This", "featured_artists": [] },
+                    { "title": "Which One of You", "featured_artists": [] },
+                    { "title": "I Wanna Love You", "featured_artists": ["Akon"] },
+                    { "title": "Psst!", "featured_artists": [] },
+                    { "title": "Beat Up on Yo Pads", "featured_artists": [] },
+                    { "title": "Don’t Stop", "featured_artists": [] },
+                    { "title": "Imagine", "featured_artists": [] },
+                    { "title": "Conversations", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Ego Trippin’",
+                "release_date": "2008-03-11",
+                "tracks": [
+                    { "title": "A Word Witchya! (Intro)", "featured_artists": [] },
+                    { "title": "Press Play", "featured_artists": [] },
+                    { "title": "SD Is Out", "featured_artists": [] },
+                    { "title": "Gangsta Like Me", "featured_artists": [] },
+                    { "title": "Neva Have 2 Worry", "featured_artists": [] },
+                    { "title": "Sexual Eruption (Sensual Seduction)", "featured_artists": [] },
+                    { "title": "Life of da Party", "featured_artists": [] },
+                    { "title": "Waste of Time", "featured_artists": [] },
+                    { "title": "Cool", "featured_artists": [] },
+                    { "title": "Sets Up", "featured_artists": [] },
+                    { "title": "Deez Hollywood Nights", "featured_artists": [] },
+                    { "title": "Whateva U Do", "featured_artists": [] },
+                    { "title": "Staxxx in My Jeans", "featured_artists": [] },
+                    { "title": "Been Around tha World", "featured_artists": [] },
+                    { "title": "Let It Out", "featured_artists": [] },
+                    { "title": "My Medicine", "featured_artists": [] },
+                    { "title": "Ridin’ in My Chevy", "featured_artists": [] },
+                    { "title": "Those Gurlz", "featured_artists": [] },
+                    { "title": "One Chance (Make It Good)", "featured_artists": [] },
+                    { "title": "Why Did You Leave Me", "featured_artists": [] },
+                    { "title": "Can’t Say Goodbye", "featured_artists": [] },
+                    { "title": "Nobody Better", "featured_artists": [] },
+                    { "title": "Shootem Up", "featured_artists": [] },
+                    { "title": "Walk Away", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Malice n Wonderland",
+                "release_date": "2009-12-08",
+                "tracks": [
+                    { "title": "Intro", "featured_artists": [] },
+                    { "title": "I Wanna Rock", "featured_artists": ["R. Kelly"] },
+                    { "title": "2 Minute Warning", "featured_artists": ["Daz Dillinger", "Kurupt"] },
+                    { "title": "1800", "featured_artists": [] },
+                    { "title": "Different Languages", "featured_artists": [] },
+                    { "title": "Gangsta Luv", "featured_artists": ["The-Dream"] },
+                    { "title": "Pronto", "featured_artists": ["Lil' Jon"] },
+                    { "title": "That’s Tha Homie", "featured_artists": ["Mia X"] },
+                    { "title": "Upside Down", "featured_artists": ["Reel"] },
+                    { "title": "Secrets", "featured_artists": [] },
+                    { "title": "Pimpin Ain’t EZ", "featured_artists": [] },
+                    { "title": "Luv Drunk", "featured_artists": ["Brandy"] },
+                    { "title": "Special", "featured_artists": [] },
+                    { "title": "Outro", "featured_artists": [] },
+                    { "title": "Bootiez Automatic", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Doggumentary",
+                "release_date": "2011-03-29",
+                "tracks": [
+                    { "title": "Toyz N Da Hood", "featured_artists": [] },
+                    { "title": "The Way Life Used to Be", "featured_artists": [] },
+                    { "title": "My Own Way", "featured_artists": [] },
+                    { "title": "Wonder What It Do", "featured_artists": ["T-Pain"] },
+                    { "title": "My Fucn House", "featured_artists": [] },
+                    { "title": "Peer Pressure", "featured_artists": [] },
+                    { "title": "I Don’t Need No Bitch", "featured_artists": ["Lil' Jon"] },
+                    { "title": "Platinum", "featured_artists": [] },
+                    { "title": "Boom", "featured_artists": [] },
+                    { "title": "We Rest N Cali", "featured_artists": [] },
+                    { "title": "El Lay", "featured_artists": [] },
+                    { "title": "Gangbang Rookie", "featured_artists": [] },
+                    { "title": "This Weed Iz Mine", "featured_artists": [] },
+                    { "title": "Wet", "featured_artists": ["Snoop Dogg", "Mack 10"] },
+                    { "title": "Take U Home", "featured_artists": [] },
+                    { "title": "Sumthin Like This Night", "featured_artists": [] },
+                    { "title": "Superman", "featured_artists": [] },
+                    { "title": "Eyez Closed", "featured_artists": [] },
+                    { "title": "Raised in da Hood", "featured_artists": [] },
+                    { "title": "It’s D Only Thang", "featured_artists": [] },
+                    { "title": "Cold Game", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Reincarnated",
+                "release_date": "2013-04-23",
+                "tracks": [
+                    { "title": "Rebel Way", "featured_artists": [] },
+                    { "title": "Here Comes the King", "featured_artists": [] },
+                    { "title": "Lighters Up", "featured_artists": [] },
+                    { "title": "So Long", "featured_artists": ["Chris Brown"] },
+                    { "title": "Get Away", "featured_artists": [] },
+                    { "title": "No Guns Allowed", "featured_artists": ["Drake", "Cori B"] },
+                    { "title": "Fruit Juice", "featured_artists": [] },
+                    { "title": "Smoke the Weed", "featured_artists": [] },
+                    { "title": "Tired of Running", "featured_artists": [] },
+                    { "title": "The Good Good", "featured_artists": [] },
+                    { "title": "Torn Apart", "featured_artists": [] },
+                    { "title": "Ashtrays and Heartbreaks", "featured_artists": ["Miley Cyrus"] }
+                ]
+            },
+            {
+                "title": "Bush",
+                "release_date": "2015-05-12",
+                "tracks": [
+                    { "title": "California Roll", "featured_artists": ["Pharrell Williams"] },
+                    { "title": "This City", "featured_artists": [] },
+                    { "title": "R U A Freak", "featured_artists": [] },
+                    { "title": "Awake", "featured_artists": [] },
+                    { "title": "So Many Pros", "featured_artists": [] },
+                    { "title": "Peaches N Cream", "featured_artists": ["Charlie Wilson"] },
+                    { "title": "Edibles", "featured_artists": [] },
+                    { "title": "I Knew That", "featured_artists": [] },
+                    { "title": "Run Away", "featured_artists": [] },
+                    { "title": "I’m Ya Dogg", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Coolaid",
+                "release_date": "2016-07-01",
+                "tracks": [
+                    { "title": "Legend", "featured_artists": [] },
+                    { "title": "Ten Toes Down", "featured_artists": [] },
+                    { "title": "Don’t Stop", "featured_artists": ["Too Short"] },
+                    { "title": "Super Crip", "featured_artists": [] },
+                    { "title": "Coolaid Man", "featured_artists": [] },
+                    { "title": "Let Me See Em Up", "featured_artists": ["Swiss Beatz"] },
+                    { "title": "Point Seen Money Gone", "featured_artists": ["Jeremih"] },
+                    { "title": "Oh Na Na", "featured_artists": ["Wiz Khalifa"] },
+                    { "title": "My Carz", "featured_artists": [] },
+                    { "title": "Two Or More", "featured_artists": [] },
+                    { "title": "Affiliated", "featured_artists": [] },
+                    { "title": "Feel About Snoop", "featured_artists": [] },
+                    { "title": "Light It Up", "featured_artists": ["Swiss Beatz"] },
+                    { "title": "Side Piece", "featured_artists": [] },
+                    { "title": "Kush Ups", "featured_artists": ["Wiz Khalifa"] },
+                    { "title": "Double Tap", "featured_artists": ["E-40", "Jazze Pha"] },
+                    { "title": "Got Those", "featured_artists": [] },
+                    { "title": "Let The Beat Drop (Celebrate)", "featured_artists": ["Swiss Beatz"] },
+                    { "title": "What If", "featured_artists": ["Suga Free"] },
+                    { "title": "Revolution", "featured_artists": ["October London"] }
+                ]
+            },
+            {
+                "title": "Neva Left",
+                "release_date": "2017-05-19",
+                "tracks": [
+                    { "title": "Neva Left", "featured_artists": [] },
+                    { "title": "Moment I Feared", "featured_artists": [] },
+                    { "title": "Bacc in da Dayz", "featured_artists": [] },
+                    { "title": "Promise You This", "featured_artists": [] },
+                    { "title": "Trash Bags", "featured_artists": [] },
+                    { "title": "Swivel", "featured_artists": [] },
+                    { "title": "Go On", "featured_artists": [] },
+                    { "title": "Big Mouth", "featured_artists": [] },
+                    { "title": "Toss It", "featured_artists": [] },
+                    { "title": "420 (Blaze Up)", "featured_artists": [] },
+                    { "title": "Lavender (Nightfall Remix)", "featured_artists": ["Snoop Dogg", "BADBADNOTGOOD", "Kaytranada"] },
+                    { "title": "Let Us Begin", "featured_artists": [] },
+                    { "title": "Mount Kushmore", "featured_artists": ["Redman", "Method Man", "B-Real"] },
+                    { "title": "Vapors (DJ Battlecat Remix)", "featured_artists": [] },
+                    { "title": "Still Here", "featured_artists": [] },
+                    { "title": "Love Around the World", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Bible of Love",
+                "release_date": "2018-03-16",
+                "tracks": [
+                    { "title": "Thank You Lord (Intro)", "featured_artists": [] },
+                    { "title": "Love for God", "featured_artists": ["B. Slade"] },
+                    { "title": "Always Got Something to Say", "featured_artists": ["Rance Allen"] },
+                    { "title": "Defeated", "featured_artists": ["Rance Allen"] },
+                    { "title": "In the Name of Jesus", "featured_artists": ["TobyMac"] },
+                    { "title": "Going Home", "featured_artists": ["Rance Allen"] },
+                    { "title": "Saved", "featured_artists": ["Tasha Cobbs Leonard"] },
+                    { "title": "Sunshine Feel Good", "featured_artists": [] },
+                    { "title": "Sunrise", "featured_artists": [] },
+                    { "title": "Pure Gold", "featured_artists": [] },
+                    { "title": "Pain", "featured_artists": [] },
+                    { "title": "New Wave", "featured_artists": [] },
+                    { "title": "On Time", "featured_artists": [] },
+                    { "title": "You", "featured_artists": [] },
+                    { "title": "One More Day", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "I Wanna Thank Me",
+                "release_date": "2019-08-30",
+                "tracks": [
+                    { "title": "What U Talkin' Bout", "featured_artists": [] },
+                    { "title": "So Misinformed", "featured_artists": ["Slick Rick"] },
+                    { "title": "Let Bygones Be Bygones", "featured_artists": [] },
+                    { "title": "One Blood, One Cuzz", "featured_artists": ["DJ Battlecat"] },
+                    { "title": "Countdown", "featured_artists": ["Swizz Beatz"] },
+                    { "title": "I C Your Bullshit", "featured_artists": [] },
+                    { "title": "Turn Me On", "featured_artists": ["Chris Brown"] },
+                    { "title": "Blue Face Hunnids", "featured_artists": ["YG", "Mustard"] },
+                    { "title": "New Booty", "featured_artists": [] },
+                    { "title": "Take Me Away", "featured_artists": ["Russ", "Wiz Khalifa"] },
+                    { "title": "Do It When I'm in It", "featured_artists": ["Jermaine Dupri", "Ozuna", "Slim Jxmmi"] },
+                    { "title": "First Place", "featured_artists": ["Tdot Illdude"] },
+                    { "title": "Focused", "featured_artists": [] },
+                    { "title": "Rise to the Top", "featured_artists": ["Swizz Beatz", "Trey Songz"] },
+                    { "title": "Wintertime in June", "featured_artists": ["Nate Dogg", "Lacci"] },
+                    { "title": "Doo Wop Thank Me", "featured_artists": ["The HamilTones"] },
+                    { "title": "Main Phone", "featured_artists": ["Stressmatic", "Rick Rock"] },
+                    { "title": "Do You Like I Do", "featured_artists": ["Lil Duval"] },
+                    { "title": "I've Been Looking for You", "featured_artists": ["Eric Jaye"] },
+                    { "title": "Little Square UBitchU", "featured_artists": ["Anitta"] },
+                    { "title": "Ventalation", "featured_artists": ["Azjah", "RJ", "$tupid Young"] },
+                    { "title": "I Wanna Thank Me", "featured_artists": ["Marknoxx"] }
+                ]
+            },
+            {
+                "title": "From tha Streets 2 tha Suites",
+                "release_date": "2021-03-19",
+                "tracks": [
+                    { "title": "CEO", "featured_artists": [""] },
+                    { "title": "Roaches in My Ashtray", "featured_artists": ["ProHoeZak"] },
+                    { "title": "Gang Signs", "featured_artists": ["Mozzy"] },
+                    { "title": "Talk Dat Shit to Me", "featured_artists": ["Kokane"] },
+                    { "title": "Sittin’ on Blades", "featured_artists": [] },
+                    { "title": "Say It Witcha Booty", "featured_artists": ["ProHoeZak"] },
+                    { "title": "Get Yo Bread Up", "featured_artists": ["Larry June"] },
+                    { "title": "Fetty in the Bag", "featured_artists": ["Tha Eastsidaz"] },
+                    { "title": "Look Around", "featured_artists": ["J-Black"] },
+                    { "title": "Left My Weed", "featured_artists": ["Devin the Dude", "J-Black"] }
+                ]
+            },
+            {
+                "title": "BODR",
+                "release_date": "2022-02-11",
+                "tracks": [
+                    { "title": "Still Smokin", "featured_artists": [] },
+                    { "title": "Gun Smoke", "featured_artists": [] },
+                    { "title": "Coming Back", "featured_artists": ["October London", "Nefertitti Avani"] },
+                    { "title": "Sandwich Bag", "featured_artists": [] },
+                    { "title": "Conflicted", "featured_artists": ["Nas"] },
+                    { "title": "Daddy", "featured_artists": ["Emo Trap"] },
+                    { "title": "Doggystylin", "featured_artists": [] },
+                    { "title": "Crip Ya Enthusiasm", "featured_artists": [] },
+                    { "title": "Gotta Keep Pushing", "featured_artists": ["T.I.", "Sleepy Brown"] },
+                    { "title": "House I Built", "featured_artists": [] },
+                    { "title": "Outside the Box", "featured_artists": ["Nate Dogg"] },
+                    { "title": "Jerseys in the Rafters", "featured_artists": ["The Game"] },
+                    { "title": "Pop Pop", "featured_artists": ["DaBaby"] },
+                    { "title": "Catch a Vibe", "featured_artists": ["HeyDeon"] },
+                    { "title": "It's in the Air", "featured_artists": ["Uncle Murda", "Jane Handcock"] },
+                    { "title": "We Don't Gotta Worry No More", "featured_artists": ["Wiz Khalifa"] },
+                    { "title": "Get This Dick", "featured_artists": ["Lil Duval", "October London"] },
+                    { "title": "Snoopy Don't Go", "featured_artists": ["October London"] }
+                ]
+            },
+            {
+                "title": "Missionary",
+                "release_date": "2024-01-13",
+                "tracks": [
+                    { "title": "Fore Play", "featured_artists": ["BJ the Chicago Kid"] },
+                    { "title": "Shangri-La", "featured_artists": [] },
+                    { "title": "Outta da Blue", "featured_artists": ["Dr. Dre", "Alus"] },
+                    { "title": "Hard Knocks", "featured_artists": [] },
+                    { "title": "Gorgeous", "featured_artists": ["Jhené Aiko"] },
+                    { "title": "Last Dance with Mary Jane", "featured_artists": ["Tom Petty", "Jelly Roll"] },
+                    { "title": "Thank You [a]", "featured_artists": [] },
+                    { "title": "Pressure", "featured_artists": ["Dr. Dre", "K.A.A.N."] },
+                    { "title": "Another Part of Me", "featured_artists": ["Sting"] },
+                    { "title": "Skyscrapers", "featured_artists": ["Method Man", "Smitty"] },
+                    { "title": "Fire", "featured_artists": ["Cocoa Sarai"] },
+                    { "title": "Gunz n Smoke", "featured_artists": ["50 Cent", "Eminem"] },
+                    { "title": "Sticcy Situation", "featured_artists": ["K.A.A.N.", "Cocoa Sarai"] },
+                    { "title": "Now or Never", "featured_artists": ["Dr. Dre", "BJ the Chicago Kid"] },
+                    { "title": "Gangsta Pose", "featured_artists": ["Dem Jointz", "Stalone", "Fat Money"] },
+                    { "title": "The Negotiator", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Kanye West",
+        "categories": ["producer", "rapper"],
+        "bio_url": "https://en.wikipedia.org/wiki/Kanye_West",
+        "bio_birthdate": null,
+        "bio_summary": "Kanye Omari West (born June 8, 1977) is an American rapper, songwriter, record producer, fashion designer, and entrepreneur. Born in Atlanta and raised in Chicago.",
+        "img_url": "/assets/Photos/Kanye.jpg",
+        "location_city": "Chicago",
+        "location_neighborhood": "Oak Lawn",
+        "discography": [
+            {
+                "title": "The College Dropout",
+                "release_date": "2004-02-10",
+                "img": "../assets/hip_hop/photos/thecollegedropout.jpg",
+                "tracks": [
+                    { "title": "Intro (Skit)", "featured_artists": [] },
+                    { "title": "We Don't Care", "featured_artists": [] },
+                    { "title": "Graduation Day", "featured_artists": [] },
+                    { "title": "All Falls Down", "featured_artists": ["Syleena Johnson"] },
+                    { "title": "I'll Fly Away", "featured_artists": [] },
+                    { "title": "Spaceship", "featured_artists": ["GLC", "Consequence"] },
+                    { "title": "Jesus Walks", "featured_artists": [] },
+                    { "title": "Never Let Me Down", "featured_artists": ["Jay-Z", "J. Ivy"] },
+                    { "title": "Get Em High", "featured_artists": ["Talib Kweli", "Common"] },
+                    { "title": "Workout Plan (Skit)", "featured_artists": [] },
+                    { "title": "The New Workout Plan", "featured_artists": [] },
+                    { "title": "Slow Jamz", "featured_artists": ["Twista", "Jamie Foxx"] },
+                    { "title": "Breathe In Breathe Out", "featured_artists": ["Ludacris"] },
+                    { "title": "School Spirit (Skit 1)", "featured_artists": [] },
+                    { "title": "School Spirit", "featured_artists": [] },
+                    { "title": "School Spirit (Skit 2)", "featured_artists": [] },
+                    { "title": "Lil Jimmy (Skit)", "featured_artists": [] },
+                    { "title": "Two Words", "featured_artists": ["Mos Def", "Freeway", "The Boys Choir of Harlem"] },
+                    { "title": "Through the Wire", "featured_artists": [] },
+                    { "title": "Family Business", "featured_artists": [] },
+                    { "title": "Last Call", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Late Registration",
+                "release_date": "2005-08-30",
+                "img": "../assets/hip_hop/photos/lateregistration.jpg",
+                "tracks": [
+                    { "title": "Wake Up Mr. West", "featured_artists": [] },
+                    { "title": "Heard 'Em Say", "featured_artists": ["Adam Levine"] },
+                    { "title": "Touch the Sky", "featured_artists": ["Lupe Fiasco"] },
+                    { "title": "Gold Digger", "featured_artists": ["Jamie Foxx"] },
+                    { "title": "Skit No. 1", "featured_artists": [] },
+                    { "title": "Drive Slow", "featured_artists": ["Paul Wall", "GLC"] },
+                    { "title": "My Way Home", "featured_artists": ["Common"] },
+                    { "title": "Crack Music", "featured_artists": ["The Game"] },
+                    { "title": "Roses", "featured_artists": [] },
+                    { "title": "Bring Me Down", "featured_artists": ["Brandy"] },
+                    { "title": "Addiction", "featured_artists": [] },
+                    { "title": "Skit No. 2", "featured_artists": [] },
+                    { "title": "Diamonds from Sierra Leone (Remix)", "featured_artists": ["Jay-Z"] },
+                    { "title": "We Major", "featured_artists": ["Nas", "Really Doe"] },
+                    { "title": "Skit No. 3", "featured_artists": [] },
+                    { "title": "Hey Mama", "featured_artists": [] },
+                    { "title": "Celebration", "featured_artists": [] },
+                    { "title": "Skit No. 4", "featured_artists": [] },
+                    { "title": "Gone", "featured_artists": ["Consequence", "Cam'ron"] },
+                    { "title": "Diamonds from Sierra Leone", "featured_artists": [] },
+                    { "title": "Late", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Graduation",
+                "release_date": "2007-09-11",
+                "img": "../assets/hip_hop/photos/graduation.jpg",
+                "tracks": [
+                    { "title": "Good Morning", "featured_artists": [] },
+                    { "title": "Champion", "featured_artists": [] },
+                    { "title": "Stronger", "featured_artists": [] },
+                    { "title": "I Wonder", "featured_artists": [] },
+                    { "title": "Good Life", "featured_artists": ["T-Pain"] },
+                    { "title": "Can't Tell Me Nothing", "featured_artists": [] },
+                    { "title": "Barry Bonds", "featured_artists": ["Lil Wayne"] },
+                    { "title": "Drunk and Hot Girls", "featured_artists": ["Mos Def"] },
+                    { "title": "Flashing Lights", "featured_artists": ["Dwele"] },
+                    { "title": "Everything I Am", "featured_artists": [] },
+                    { "title": "The Glory", "featured_artists": [] },
+                    { "title": "Homecoming", "featured_artists": ["Chris Martin"] },
+                    { "title": "Big Brother", "featured_artists": [] },
+                    { "title": "Good Night", "featured_artists": ["Al Be Back", "Mos Def"], "bonus": ["iTunes", "Australia", "UK", "Japan"] },
+                    { "title": "Can't Tell Me Nothing (Remix)", "featured_artists": ["Young Jeezy"], "bonus": ["Alternative Business Partners"] },
+                    { "title": "Stronger (A-Trak Remix)", "featured_artists": [], "bonus": ["UK", "France", "Spotify"] },
+                    { "title": "Bittersweet Poetry", "featured_artists": ["John Mayer"], "bonus": ["Japan"] },
+                    { "title": "Stronger (AD Remix Main)", "featured_artists": [], "bonus": ["France", "Spotify"] }
+                ]
+            },
+            {
+                "title": "808s & Heartbreak",
+                "release_date": "2008-11-24",
+                "img": "../assets/hip_hop/photos/808sandheartbreaks.png",
+                "tracks": [
+                    { "title": "Say You Will", "featured_artists": [] },
+                    { "title": "Welcome to Heartbreak", "featured_artists": ["Kid Cudi"] },
+                    { "title": "Heartless", "featured_artists": [] },
+                    { "title": "Amazing", "featured_artists": ["Young Jeezy"] },
+                    { "title": "Love Lockdown", "featured_artists": [] },
+                    { "title": "Paranoid", "featured_artists": ["Mr Hudson"] },
+                    { "title": "RoboCop", "featured_artists": [] },
+                    { "title": "Street Lights", "featured_artists": [] },
+                    { "title": "Bad News", "featured_artists": [] },
+                    { "title": "See You in My Nightmares", "featured_artists": ["Lil Wayne"] },
+                    { "title": "Coldest Winter", "featured_artists": [] },
+                    { "title": "Pinocchio Story (Freestyle Live from Singapore)", "featured_artists": [], "bonus": ["hidden track"] }
+                ]
+            },
+            {
+                "title": "My Beautiful Dark Twisted Fantasy",
+                "release_date": "2010-11-22",
+                "img": "../assets/hip_hop/photos/mybeautifuldark.jpg",
+                "tracks": [
+                    { "title": "Dark Fantasy", "featured_artists": [] },
+                    { "title": "Gorgeous", "featured_artists": ["Kid Cudi", "Raekwon"] },
+                    { "title": "Power", "featured_artists": [] },
+                    { "title": "All of the Lights (Interlude)", "featured_artists": [] },
+                    { "title": "All of the Lights", "featured_artists": [] },
+                    { "title": "Monster", "featured_artists": ["Jay-Z", "Rick Ross", "Nicki Minaj", "Bon Iver"] },
+                    { "title": "So Appalled", "featured_artists": ["Swizz Beatz", "Jay-Z", "Pusha T", "Cyhi the Prynce", "RZA"] },
+                    { "title": "Devil in a New Dress", "featured_artists": ["Rick Ross"] },
+                    { "title": "Runaway", "featured_artists": ["Pusha T"] },
+                    { "title": "Hell of a Life", "featured_artists": [] },
+                    { "title": "Blame Game", "featured_artists": ["John Legend"] },
+                    { "title": "Lost in the World", "featured_artists": ["Bon Iver"] },
+                    { "title": "Who Will Survive in America", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Yeezus",
+                "release_date": "2013-06-18",
+                "img": "../assets/hip_hop/photos/yeezus.png",
+                "tracks": [
+                    { "title": "On Sight", "featured_artists": [] },
+                    { "title": "Black Skinhead", "featured_artists": [] },
+                    { "title": "I Am a God", "featured_artists": [] },
+                    { "title": "New Slaves", "featured_artists": [] },
+                    { "title": "Hold My Liquor", "featured_artists": ["Chief Keef", "Justin Vernon"] },
+                    { "title": "I'm in It", "featured_artists": [] },
+                    { "title": "Blood on the Leaves", "featured_artists": [] },
+                    { "title": "Guilt Trip", "featured_artists": ["Kid Cudi"] },
+                    { "title": "Send It Up", "featured_artists": ["King Louie"] },
+                    { "title": "Bound 2", "featured_artists": ["Charlie Wilson"] }
+                ]
+            },
+            {
+                "title": "Ye",
+                "release_date": "2018-06-01",
+                "img": "../assets/hip_hop/photos/ye.jpg",
+                "tracks": [
+                    { "title": "I Thought About Killing You", "featured_artists": [] },
+                    { "title": "Yikes", "featured_artists": [] },
+                    { "title": "All Mine", "featured_artists": [] },
+                    { "title": "Wouldn't Leave", "featured_artists": ["PartyNextDoor"] },
+                    { "title": "No Mistakes", "featured_artists": [] },
+                    { "title": "Ghost Town", "featured_artists": ["PartyNextDoor"] },
+                    { "title": "Violent Crimes", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Jesus Is King",
+                "release_date": "2019-10-25",
+                "img": "../assets/hip_hop/photos/jesusisking.png",
+                "tracks": [
+                    { "title": "Every Hour", "featured_artists": ["Sunday Service Choir"] },
+                    { "title": "Selah", "featured_artists": [] },
+                    { "title": "Follow God", "featured_artists": [] },
+                    { "title": "Closed on Sunday", "featured_artists": [] },
+                    { "title": "On God", "featured_artists": [] },
+                    { "title": "Everything We Need", "featured_artists": ["Ty Dolla Sign", "Ant Clemons"] },
+                    { "title": "Water", "featured_artists": ["Ant Clemons"] },
+                    { "title": "God Is", "featured_artists": [] },
+                    { "title": "Hands On", "featured_artists": ["Fred Hammond"] },
+                    { "title": "Use This Gospel", "featured_artists": ["Clipse", "Kenny G"] },
+                    { "title": "Jesus Is Lord", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Donda",
+                "release_date": "2021-08-29",
+                "img": "../assets/hip_hop/photos/donda.png",
+                "tracks": [
+                    { "title": "Donda Chant", "featured_artists": ["Syleena Johnson"] },
+                    { "title": "Jail", "featured_artists": ["Jay-Z"] },
+                    { "title": "God Breathed", "featured_artists": ["Vory"] },
+                    { "title": "Off the Grid", "featured_artists": ["Playboi Carti", "Fivio Foreign"] },
+                    { "title": "Hurricane", "featured_artists": ["The Weeknd", "Lil Baby"] },
+                    { "title": "Praise God", "featured_artists": ["Travis Scott", "Baby Keem"] },
+                    { "title": "Jonah", "featured_artists": ["Lil Durk", "Vory"] },
+                    { "title": "Ok Ok", "featured_artists": ["Lil Yachty", "Rooga"] },
+                    { "title": "Junya", "featured_artists": ["Playboi Carti"] },
+                    { "title": "Believe What I Say", "featured_artists": [] },
+                    { "title": "24", "featured_artists": ["Sunday Service Choir"] },
+                    { "title": "Remote Control", "featured_artists": ["Young Thug"] },
+                    { "title": "Moon", "featured_artists": ["Don Toliver", "Kid Cudi"] },
+                    { "title": "Heaven and Hell", "featured_artists": [] },
+                    { "title": "Donda", "featured_artists": ["Stalone", "Tony Williams"] },
+                    { "title": "Keep My Spirit Alive", "featured_artists": ["Westside Gunn", "Conway the Machine", "KayCyy"] },
+                    { "title": "Jesus Lord", "featured_artists": ["JAY Electronica"] },
+                    { "title": "New Again", "featured_artists": ["Chris Brown"] },
+                    { "title": "Tell the Vision", "featured_artists": ["Pop Smoke"] },
+                    { "title": "Lord I Need You", "featured_artists": [] },
+                    { "title": "Pure Souls", "featured_artists": ["Roddy Ricch", "Shenseea"] },
+                    { "title": "Come to Life", "featured_artists": [] },
+                    { "title": "No Child Left Behind", "featured_artists": ["Vory"] },
+                    { "title": "Jail pt 2", "featured_artists": ["DaBaby", "Marilyn Manson"] },
+                    { "title": "Ok Ok pt 2", "featured_artists": ["Shenseea"] },
+                    { "title": "Junya pt 2", "featured_artists": ["Playboi Carti", "Ty Dolla $ign"] },
+                    { "title": "Jesus Lord pt 2", "featured_artists": ["JAY Electronica", "The LOX"] }
+                ]
+            }
+        ]
+    }
+]

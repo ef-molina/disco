@@ -1,0 +1,2575 @@
+[
+    {
+        "name": "Led Zeppelin",
+        "bio_url": "https://en.wikipedia.org/wiki/Led_Zeppelin",
+        "bio_birthdate": "1968-01-01",
+        "bio_summary": "Led Zeppelin were an English rock band formed in London in 1968. The group consisted of Robert Plant (Vocal), Jimmy Page (Guitar), John Paul Jones (Bass, Keyboard) and John Bonham (Drums). The band's heavy, guitar-driven sound, rooted in blues and psychedelia on their early albums, has earned them recognition as one of the progenitors of heavy metal.",
+        "img_url": "/assets/photos/Led_Zeppelin.jpg",
+        "location_city": "London",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Led Zeppelin",
+                "release_date": "1969-01-12",
+                "tracks": [
+                    { "title": "Good Times Bad Times", "featured_artists": [] },
+                    { "title": "Babe I'm Gonna Leave You", "featured_artists": [] },
+                    { "title": "You Shook Me", "featured_artists": [] },
+                    { "title": "Dazed and Confused", "featured_artists": [] },
+                    { "title": "Your Time Is Gonna Come", "featured_artists": [] },
+                    { "title": "Black Mountain Side", "featured_artists": ["Viram Jasani"] },
+                    { "title": "Communication Breakdown", "featured_artists": [] },
+                    { "title": "I Can't Quit You Baby", "featured_artists": [] },
+                    { "title": "How Many More Times", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Led Zeppelin II",
+                "release_date": "1969-10-22",
+                "tracks": [
+                    { "title": "Whole Lotta Love", "featured_artists": [] },
+                    { "title": "What Is and What Should Never Be", "featured_artists": [] },
+                    { "title": "The Lemon Song", "featured_artists": [] },
+                    { "title": "Thank You", "featured_artists": [] },
+                    { "title": "Heartbreaker", "featured_artists": [] },
+                    { "title": "Living Loving Maid (She's Just a Woman)", "featured_artists": [] },
+                    { "title": "Ramble On", "featured_artists": [] },
+                    { "title": "Moby Dick", "featured_artists": [] },
+                    { "title": "Bring It On Home", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Led Zeppelin III",
+                "release_date": "1970-10-05",
+                "tracks": [
+                    { "title": "Immigrant Song", "featured_artists": [] },
+                    { "title": "Friends", "featured_artists": [] },
+                    { "title": "Celebration Day", "featured_artists": [] },
+                    { "title": "Since I've Been Loving You", "featured_artists": [] },
+                    { "title": "Out on the Tiles", "featured_artists": [] },
+                    { "title": "Gallows Pole", "featured_artists": [] },
+                    { "title": "Tangerine", "featured_artists": [] },
+                    { "title": "That's the Way", "featured_artists": [] },
+                    { "title": "Bron-Y-Aur Stomp", "featured_artists": [] },
+                    { "title": "Hats Off to (Roy) Harper", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Led Zeppelin IV",
+                "release_date": "1971-11-08",
+                "tracks": [
+                    { "title": "Black Dog", "featured_artists": [] },
+                    { "title": "Rock and Roll", "featured_artists": ["Ian Stewart"] },
+                    { "title": "The Battle of Evermore", "featured_artists": ["Sandy Denny"] },
+                    { "title": "Stairway to Heaven", "featured_artists": [] },
+                    { "title": "Misty Mountain Hop", "featured_artists": [] },
+                    { "title": "Four Sticks", "featured_artists": [] },
+                    { "title": "Going to California", "featured_artists": [] },
+                    { "title": "When the Levee Breaks", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Houses of the Holy",
+                "release_date": "1973-03-28",
+                "tracks": [
+                    { "title": "The Song Remains the Same", "featured_artists": [] },
+                    { "title": "The Rain Song", "featured_artists": [] },
+                    { "title": "Over the Hills and Far Away", "featured_artists": [] },
+                    { "title": "The Crunge", "featured_artists": [] },
+                    { "title": "Dancing Days", "featured_artists": [] },
+                    { "title": "D'yer Mak'er", "featured_artists": [] },
+                    { "title": "No Quarter", "featured_artists": [] },
+                    { "title": "The Ocean", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Physical Graffiti",
+                "release_date": "1975-02-24",
+                "tracks": [
+                    { "title": "Custard Pie", "featured_artists": [] },
+                    { "title": "The Rover", "featured_artists": [] },
+                    { "title": "In My Time of Dying", "featured_artists": [] },
+                    { "title": "Houses of the Holy", "featured_artists": [] },
+                    { "title": "Trampled Under Foot", "featured_artists": [] },
+                    { "title": "Kashmir", "featured_artists": [] },
+                    { "title": "In the Light", "featured_artists": [] },
+                    { "title": "Bron-Yr-Aur", "featured_artists": [] },
+                    { "title": "Down by the Seaside", "featured_artists": [] },
+                    { "title": "Ten Years Gone", "featured_artists": [] },
+                    { "title": "Night Flight", "featured_artists": [] },
+                    { "title": "The Wanton Song", "featured_artists": [] },
+                    { "title": "Boogie with Stu", "featured_artists": ["Ian Stewart"] },
+                    { "title": "Black Country Woman", "featured_artists": [] },
+                    { "title": "Sick Again", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Presence",
+                "release_date": "1976-03-31",
+                "tracks": [
+                    { "title": "Achilles Last Stand", "featured_artists": [] },
+                    { "title": "For Your Life", "featured_artists": [] },
+                    { "title": "Royal Orleans", "featured_artists": [] },
+                    { "title": "Nobody's Fault but Mine", "featured_artists": [] },
+                    { "title": "Candy Store Rock", "featured_artists": [] },
+                    { "title": "Hots On for Nowhere", "featured_artists": [] },
+                    { "title": "Tea for One", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Song Remains the Same",
+                "release_date": "1976-09-28",
+                "tracks": [
+                    { "title": "Rock and Roll", "featured_artists": [] },
+                    { "title": "Celebration Day", "featured_artists": [] },
+                    { "title": "The Song Remains the Same", "featured_artists": [] },
+                    { "title": "Rain Song", "featured_artists": [] },
+                    { "title": "Dazed and Confused", "featured_artists": [] },
+                    { "title": "No Quarter", "featured_artists": [] },
+                    { "title": "Stairway to Heaven", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "In Through the Out Door",
+                "release_date": "1979-08-15",
+                "tracks": [
+                    { "title": "In the Evening", "featured_artists": [] },
+                    { "title": "South Bound Saurez", "featured_artists": [] },
+                    { "title": "Fool in the Rain", "featured_artists": [] },
+                    { "title": "Hot Dog", "featured_artists": [] },
+                    { "title": "Carouselambra", "featured_artists": [] },
+                    { "title": "All My Love", "featured_artists": [] },
+                    { "title": "I'm Gonna Crawl", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Coda",
+                "release_date": "1982-11-19",
+                "tracks": [
+                    { "title": "We're Gonna Groove", "featured_artists": [] },
+                    { "title": "Poor Tom", "featured_artists": [] },
+                    { "title": "I Can't Quit You Baby", "featured_artists": [] },
+                    { "title": "Walter's Walk", "featured_artists": [] },
+                    { "title": "Ozone Baby", "featured_artists": [] },
+                    { "title": "Darlene", "featured_artists": [] },
+                    { "title": "Bonzo's Montreux", "featured_artists": [] },
+                    { "title": "Wearing and Tearing", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "BBC Sessions",
+                "release_date": "1997-11-11",
+                "tracks": [
+                    { "title": "You Shook Me", "featured_artists": [] },
+                    { "title": "I Can't Quit You Baby", "featured_artists": [] },
+                    { "title": "Communication Breakdown", "featured_artists": [] },
+                    { "title": "Dazed and Confused", "featured_artists": [] },
+                    { "title": "The Girl I Love She Got Long Black Wavy Hair", "featured_artists": [] },
+                    { "title": "What Is and What Should Never Be", "featured_artists": [] },
+                    { "title": "Communication Breakdown", "featured_artists": [] },
+                    { "title": "Travelling Riverside Blues", "featured_artists": [] },
+                    { "title": "Whole Lotta Love", "featured_artists": [] },
+                    { "title": "Somethin' Else", "featured_artists": [] },
+                    { "title": "Communication Breakdown", "featured_artists": [] },
+                    { "title": "I Can't Quit You Baby", "featured_artists": [] },
+                    { "title": "You Shook Me", "featured_artists": [] },
+                    { "title": "How Many More Times", "featured_artists": [] },
+                    { "title": "Immigrant Song", "featured_artists": [] },
+                    { "title": "Heartbreaker", "featured_artists": [] },
+                    { "title": "Since I've Been Loving You", "featured_artists": [] },
+                    { "title": "Black Dog", "featured_artists": [] },
+                    { "title": "Dazed and Confused", "featured_artists": [] },
+                    { "title": "Stairway to Heaven", "featured_artists": [] },
+                    { "title": "Going to California", "featured_artists": [] },
+                    { "title": "That's the Way", "featured_artists": [] },
+                    { "title": "Whole Lotta Love (Medley)", "featured_artists": [] },
+                    { "title": "Thank You", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "How the West Was Won",
+                "release_date": "2003-05-27",
+                "tracks": [
+                    { "title": "LA Drone", "featured_artists": [] },
+                    { "title": "Immigrant Song", "featured_artists": [] },
+                    { "title": "Heartbreaker", "featured_artists": [] },
+                    { "title": "Black Dog", "featured_artists": [] },
+                    { "title": "Over the Hills and Far Away", "featured_artists": [] },
+                    { "title": "Since I've Been Loving You", "featured_artists": [] },
+                    { "title": "Stairway to Heaven", "featured_artists": [] },
+                    { "title": "Going to California", "featured_artists": [] },
+                    { "title": "That's the Way", "featured_artists": [] },
+                    { "title": "Bron-Y-Aur Stomp", "featured_artists": [] },
+                    { "title": "Dazed and Confused", "featured_artists": [] },
+                    { "title": "What Is and What Should Never Be", "featured_artists": [] },
+                    { "title": "Dancing Days", "featured_artists": [] },
+                    { "title": "Moby Dick", "featured_artists": [] },
+                    { "title": "Whole Lotta Love (Medley)", "featured_artists": [] },
+                    { "title": "Rock and Roll", "featured_artists": [] },
+                    { "title": "The Ocean", "featured_artists": [] },
+                    { "title": "Bring It On Home", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Celebration Day",
+                "release_date": "2012-11-19",
+                "tracks": [
+                    { "title": "Good Times Bad Times", "featured_artists": [] },
+                    { "title": "Ramble On", "featured_artists": [] },
+                    { "title": "Black Dog", "featured_artists": [] },
+                    { "title": "In My Time of Dying", "featured_artists": [] },
+                    { "title": "For Your Life", "featured_artists": [] },
+                    { "title": "Trampled Under Foot", "featured_artists": [] },
+                    { "title": "Nobody's Fault but Mine", "featured_artists": [] },
+                    { "title": "No Quarter", "featured_artists": [] },
+                    { "title": "Since I've Been Loving You", "featured_artists": [] },
+                    { "title": "Dazed and Confused", "featured_artists": [] },
+                    { "title": "Stairway to Heaven", "featured_artists": [] },
+                    { "title": "The Song Remains the Same", "featured_artists": [] },
+                    { "title": "Misty Mountain Hop", "featured_artists": [] },
+                    { "title": "Kashmir", "featured_artists": [] },
+                    { "title": "Whole Lotta Love", "featured_artists": [] },
+                    { "title": "Rock and Roll", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+
+    {
+        "name": "The Beatles",
+        "bio_url": "https://en.wikipedia.org/wiki/The_Beatles",
+        "bio_birthdate": "1960-01-01",
+        "bio_summary": "The Beatles were an English rock band formed in Liverpool in 1960. The members consisted of John Lennon, Paul McCartney, George Harrison, and Ringo Starr. They were soon known as the foremost and most influential act of the rock era.",
+        "img_url": "/assets/Photos/The_Beatles.jpg",
+        "location_city": "Liverpool",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Please Please Me",
+                "release_date": "1963-03-22",
+                "tracks": [
+                    { "title": "I Saw Her Standing There", "featured_artists": [] },
+                    { "title": "Misery", "featured_artists": [] },
+                    { "title": "Anna (Go to Him)", "featured_artists": [] },
+                    { "title": "Chains", "featured_artists": [] },
+                    { "title": "Boys", "featured_artists": [] },
+                    { "title": "Ask Me Why", "featured_artists": [] },
+                    { "title": "Please Please Me", "featured_artists": [] },
+                    { "title": "Love Me Do", "featured_artists": [] },
+                    { "title": "P.S. I Love You", "featured_artists": [] },
+                    { "title": "Baby It's You", "featured_artists": [] },
+                    { "title": "Do You Want to Know a Secret", "featured_artists": [] },
+                    { "title": "A Taste of Honey", "featured_artists": [] },
+                    { "title": "There's a Place", "featured_artists": [] },
+                    { "title": "Twist and Shout", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "With the Beatles",
+                "release_date": "1963-11-22",
+                "tracks": [
+                    { "title": "It Won't Be Long", "featured_artists": [] },
+                    { "title": "All I've Got to Do", "featured_artists": [] },
+                    { "title": "All My Loving", "featured_artists": [] },
+                    { "title": "Don't Bother Me", "featured_artists": [] },
+                    { "title": "Little Child", "featured_artists": [] },
+                    { "title": "Till There Was You", "featured_artists": [] },
+                    { "title": "Please Mister Postman", "featured_artists": [] },
+                    { "title": "Roll Over Beethoven", "featured_artists": [] },
+                    { "title": "Hold Me Tight", "featured_artists": [] },
+                    { "title": "You Really Got a Hold on Me", "featured_artists": [] },
+                    { "title": "I Wanna Be Your Man", "featured_artists": [] },
+                    { "title": "Devil in Her Heart", "featured_artists": [] },
+                    { "title": "Not a Second Time", "featured_artists": [] },
+                    { "title": "Money (That's What I Want)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "A Hard Day's Night",
+                "release_date": "1964-07-10",
+                "tracks": [
+                    { "title": "A Hard Day's Night", "featured_artists": [] },
+                    { "title": "I Should Have Known Better", "featured_artists": [] },
+                    { "title": "If I Fell", "featured_artists": [] },
+                    { "title": "I'm Happy Just to Dance with You", "featured_artists": [] },
+                    { "title": "And I Love Her", "featured_artists": [] },
+                    { "title": "Tell Me Why", "featured_artists": [] },
+                    { "title": "Can't Buy Me Love", "featured_artists": [] },
+                    { "title": "Any Time at All", "featured_artists": [] },
+                    { "title": "I'll Cry Instead", "featured_artists": [] },
+                    { "title": "Things We Said Today", "featured_artists": [] },
+                    { "title": "When I Get Home", "featured_artists": [] },
+                    { "title": "You Can't Do That", "featured_artists": [] },
+                    { "title": "I'll Be Back", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Beatles for Sale",
+                "release_date": "1964-12-04",
+                "tracks": [
+                    { "title": "No Reply", "featured_artists": [] },
+                    { "title": "I'm a Loser", "featured_artists": [] },
+                    { "title": "Baby's in Black", "featured_artists": [] },
+                    { "title": "Rock and Roll Music", "featured_artists": [] },
+                    { "title": "I'll Follow the Sun", "featured_artists": [] },
+                    { "title": "Mr. Moonlight", "featured_artists": [] },
+                    { "title": "Kansas City/Hey-Hey-Hey-Hey!", "featured_artists": [] },
+                    { "title": "Eight Days a Week", "featured_artists": [] },
+                    { "title": "Words of Love", "featured_artists": [] },
+                    { "title": "Honey Don't", "featured_artists": [] },
+                    { "title": "Every Little Thing", "featured_artists": [] },
+                    { "title": "I Don't Want to Spoil the Party", "featured_artists": [] },
+                    { "title": "What You're Doing", "featured_artists": [] },
+                    { "title": "Everybody's Trying to Be My Baby", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Rubber Soul",
+                "release_date": "1965-12-03",
+                "tracks": [
+                    { "title": "Drive My Car", "featured_artists": [] },
+                    { "title": "Norwegian Wood (This Bird Has Flown)", "featured_artists": [] },
+                    { "title": "You Won't See Me", "featured_artists": [] },
+                    { "title": "Nowhere Man", "featured_artists": [] },
+                    { "title": "Think for Yourself", "featured_artists": [] },
+                    { "title": "The Word", "featured_artists": [] },
+                    { "title": "Michelle", "featured_artists": [] },
+                    { "title": "What Goes On", "featured_artists": [] },
+                    { "title": "Girl", "featured_artists": [] },
+                    { "title": "I'm Looking Through You", "featured_artists": [] },
+                    { "title": "In My Life", "featured_artists": [] },
+                    { "title": "Wait", "featured_artists": [] },
+                    { "title": "If I Needed Someone", "featured_artists": [] },
+                    { "title": "Run for Your Life", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Revolver",
+                "release_date": "1966-08-05",
+                "tracks": [
+                    { "title": "Taxman", "featured_artists": [] },
+                    { "title": "Eleanor Rigby", "featured_artists": [] },
+                    { "title": "I'm Only Sleeping", "featured_artists": [] },
+                    { "title": "Love You To", "featured_artists": [] },
+                    { "title": "Here, There and Everywhere", "featured_artists": [] },
+                    { "title": "Yellow Submarine", "featured_artists": [] },
+                    { "title": "She Said She Said", "featured_artists": [] },
+                    { "title": "Good Day Sunshine", "featured_artists": [] },
+                    { "title": "And Your Bird Can Sing", "featured_artists": [] },
+                    { "title": "For No One", "featured_artists": [] },
+                    { "title": "Doctor Robert", "featured_artists": [] },
+                    { "title": "I Want to Tell You", "featured_artists": [] },
+                    { "title": "Got to Get You into My Life", "featured_artists": [] },
+                    { "title": "Tomorrow Never Knows", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Sgt. Pepper's Lonely Hearts Club Band",
+                "release_date": "1967-05-26",
+                "tracks": [
+                    { "title": "Sgt. Pepper's Lonely Hearts Club Band", "featured_artists": [] },
+                    { "title": "With a Little Help from My Friends", "featured_artists": [] },
+                    { "title": "Lucy in the Sky with Diamonds", "featured_artists": [] },
+                    { "title": "Getting Better", "featured_artists": [] },
+                    { "title": "Fixing a Hole", "featured_artists": [] },
+                    { "title": "She's Leaving Home", "featured_artists": [] },
+                    { "title": "Being for the Benefit of Mr. Kite!", "featured_artists": [] },
+                    { "title": "Within You Without You", "featured_artists": [] },
+                    { "title": "When I'm Sixty-Four", "featured_artists": [] },
+                    { "title": "Lovely Rita", "featured_artists": [] },
+                    { "title": "Good Morning Good Morning", "featured_artists": [] },
+                    { "title": "Sgt. Pepper's Lonely Hearts Club Band (Reprise)", "featured_artists": [] },
+                    { "title": "A Day in the Life", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Magical Mystery Tour",
+                "release_date": "1967-11-27",
+                "tracks": [
+                    { "title": "Magical Mystery Tour", "featured_artists": [] },
+                    { "title": "The Fool on the Hill", "featured_artists": [] },
+                    { "title": "Flying", "featured_artists": [] },
+                    { "title": "Blue Jay Way", "featured_artists": [] },
+                    { "title": "Your Mother Should Know", "featured_artists": [] },
+                    { "title": "I Am the Walrus", "featured_artists": [] },
+                    { "title": "Hello, Goodbye", "featured_artists": [] },
+                    { "title": "Strawberry Fields Forever", "featured_artists": [] },
+                    { "title": "Penny Lane", "featured_artists": [] },
+                    { "title": "Baby, You're a Rich Man", "featured_artists": [] },
+                    { "title": "All You Need Is Love", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Beatles (The White Album)",
+                "release_date": "1968-11-22",
+                "tracks": [
+                    { "title": "Back in the U.S.S.R.", "featured_artists": [] },
+                    { "title": "Dear Prudence", "featured_artists": [] },
+                    { "title": "Glass Onion", "featured_artists": [] },
+                    { "title": "Ob-La-Di, Ob-La-Da", "featured_artists": [] },
+                    { "title": "Wild Honey Pie", "featured_artists": [] },
+                    { "title": "The Continuing Story of Bungalow Bill", "featured_artists": [] },
+                    { "title": "While My Guitar Gently Weeps", "featured_artists": [] },
+                    { "title": "Happiness Is a Warm Gun", "featured_artists": [] },
+                    { "title": "Martha My Dear", "featured_artists": [] },
+                    { "title": "I'm So Tired", "featured_artists": [] },
+                    { "title": "Blackbird", "featured_artists": [] },
+                    { "title": "Piggies", "featured_artists": [] },
+                    { "title": "Rocky Raccoon", "featured_artists": [] },
+                    { "title": "Don't Pass Me By", "featured_artists": [] },
+                    { "title": "Why Don't We Do It in the Road?", "featured_artists": [] },
+                    { "title": "I Will", "featured_artists": [] },
+                    { "title": "Julia", "featured_artists": [] },
+                    { "title": "Birthday", "featured_artists": [] },
+                    { "title": "Yer Blues", "featured_artists": [] },
+                    { "title": "Mother Nature's Son", "featured_artists": [] },
+                    { "title": "Everybody's Got Something to Hide Except Me and My Monkey", "featured_artists": [] },
+                    { "title": "Sexy Sadie", "featured_artists": [] },
+                    { "title": "Helter Skelter", "featured_artists": [] },
+                    { "title": "Long, Long, Long", "featured_artists": [] },
+                    { "title": "Revolution 1", "featured_artists": [] },
+                    { "title": "Honey Pie", "featured_artists": [] },
+                    { "title": "Savoy Truffle", "featured_artists": [] },
+                    { "title": "Cry Baby Cry", "featured_artists": [] },
+                    { "title": "Revolution 9", "featured_artists": [] },
+                    { "title": "Good Night", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Yellow Submarine",
+                "release_date": "1969-01-17",
+                "tracks": [
+                    { "title": "Yellow Submarine", "featured_artists": [] },
+                    { "title": "Only a Northern Song", "featured_artists": [] },
+                    { "title": "All Together Now", "featured_artists": [] },
+                    { "title": "Hey Bulldog", "featured_artists": [] },
+                    { "title": "It's All Too Much", "featured_artists": [] },
+                    { "title": "All You Need Is Love", "featured_artists": [] },
+                    { "title": "Pepperland", "featured_artists": [] },
+                    { "title": "Sea of Time", "featured_artists": [] },
+                    { "title": "Sea of Holes", "featured_artists": [] },
+                    { "title": "Sea of Monsters", "featured_artists": [] },
+                    { "title": "March of the Meanies", "featured_artists": [] },
+                    { "title": "Pepperland Laid Waste", "featured_artists": [] },
+                    { "title": "Yellow Submarine in Pepperland", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Abbey Road",
+                "release_date": "1969-09-26",
+                "tracks": [
+                    { "title": "Come Together", "featured_artists": [] },
+                    { "title": "Something", "featured_artists": [] },
+                    { "title": "Maxwell's Silver Hammer", "featured_artists": [] },
+                    { "title": "Oh! Darling", "featured_artists": [] },
+                    { "title": "Octopus's Garden", "featured_artists": [] },
+                    { "title": "I Want You (She's So Heavy)", "featured_artists": [] },
+                    { "title": "Here Comes the Sun", "featured_artists": [] },
+                    { "title": "Because", "featured_artists": [] },
+                    { "title": "You Never Give Me Your Money", "featured_artists": [] },
+                    { "title": "Sun King", "featured_artists": [] },
+                    { "title": "Mean Mr. Mustard", "featured_artists": [] },
+                    { "title": "Polythene Pam", "featured_artists": [] },
+                    { "title": "She Came In Through the Bathroom Window", "featured_artists": [] },
+                    { "title": "Golden Slumbers", "featured_artists": [] },
+                    { "title": "Carry That Weight", "featured_artists": [] },
+                    { "title": "The End", "featured_artists": [] },
+                    { "title": "Her Majesty", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Let It Be",
+                "release_date": "1970-05-08",
+                "tracks": [
+                    { "title": "Two of Us", "featured_artists": [] },
+                    { "title": "Dig a Pony", "featured_artists": [] },
+                    { "title": "Across the Universe", "featured_artists": [] },
+                    { "title": "I Me Mine", "featured_artists": [] },
+                    { "title": "Dig It", "featured_artists": [] },
+                    { "title": "Let It Be", "featured_artists": [] },
+                    { "title": "Maggie Mae", "featured_artists": [] },
+                    { "title": "I've Got a Feeling", "featured_artists": [] },
+                    { "title": "One After 909", "featured_artists": [] },
+                    { "title": "The Long and Winding Road", "featured_artists": [] },
+                    { "title": "For You Blue", "featured_artists": [] },
+                    { "title": "Get Back", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Pink Floyd",
+        "bio_url": "https://en.wikipedia.org/wiki/Pink_Floyd",
+        "bio_birthdate": "1965-01-01",
+        "bio_summary": "Pink Floyd were an English rock band formed in London. They achieved international acclaim with their progressive and psychedelic music. Their critically and commercially successful albums are The Dark Side of the Moon, Wish You Were Here, Animals, The Wall, and The Final Cut.",
+        "img_url": "/assets/Photos/Pink_Floyd.jpg",
+        "location_city": "London",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "The Piper at the Gates of Dawn",
+                "release_date": "1967-08-05",
+                "tracks": [
+                    { "title": "Astronomy Domine", "featured_artists": [] },
+                    { "title": "Lucifer Sam", "featured_artists": [] },
+                    { "title": "Matilda Mother", "featured_artists": [] },
+                    { "title": "Flaming", "featured_artists": [] },
+                    { "title": "Pow R. Toc H.", "featured_artists": [] },
+                    { "title": "Take Up Thy Stethoscope and Walk", "featured_artists": [] },
+                    { "title": "Interstellar Overdrive", "featured_artists": [] },
+                    { "title": "The Gnome", "featured_artists": [] },
+                    { "title": "Chapter 24", "featured_artists": [] },
+                    { "title": "The Scarecrow", "featured_artists": [] },
+                    { "title": "Bike", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "A Saucerful of Secrets",
+                "release_date": "1968-06-28",
+                "tracks": [
+                    { "title": "Let There Be More Light", "featured_artists": [] },
+                    { "title": "Remember a Day", "featured_artists": [] },
+                    { "title": "Set the Controls for the Heart of the Sun", "featured_artists": [] },
+                    { "title": "Corporal Clegg", "featured_artists": [] },
+                    { "title": "A Saucerful of Secrets", "featured_artists": [] },
+                    { "title": "See-Saw", "featured_artists": [] },
+                    { "title": "Jugband Blues", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "More",
+                "release_date": "1969-06-13",
+                "tracks": [
+                    { "title": "Cirrus Minor", "featured_artists": [] },
+                    { "title": "The Nile Song", "featured_artists": [] },
+                    { "title": "Crying Song", "featured_artists": [] },
+                    { "title": "Up the Khyber", "featured_artists": [] },
+                    { "title": "Green Is the Colour", "featured_artists": [] },
+                    { "title": "Cymbaline", "featured_artists": [] },
+                    { "title": "Party Sequence", "featured_artists": [] },
+                    { "title": "Main Theme", "featured_artists": [] },
+                    { "title": "Ibiza Bar", "featured_artists": [] },
+                    { "title": "More Blues", "featured_artists": [] },
+                    { "title": "Quicksilver", "featured_artists": [] },
+                    { "title": "A Spanish Piece", "featured_artists": [] },
+                    { "title": "Dramatic Theme", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Ummagumma",
+                "release_date": "1969-10-25",
+                "tracks": [
+                    { "title": "Astronomy Domine (Live)", "featured_artists": [] },
+                    { "title": "Careful with That Axe, Eugene (Live)", "featured_artists": [] },
+                    { "title": "Set the Controls for the Heart of the Sun (Live)", "featured_artists": [] },
+                    { "title": "A Saucerful of Secrets (Live)", "featured_artists": [] },
+                    { "title": "Sysyphus, Part 1", "featured_artists": [] },
+                    { "title": "Sysyphus, Part 2", "featured_artists": [] },
+                    { "title": "Sysyphus, Part 3", "featured_artists": [] },
+                    { "title": "Sysyphus, Part 4", "featured_artists": [] },
+                    { "title": "Grantchester Meadows", "featured_artists": [] },
+                    { "title": "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict", "featured_artists": [] },
+                    { "title": "The Narrow Way, Part 1", "featured_artists": [] },
+                    { "title": "The Narrow Way, Part 2", "featured_artists": [] },
+                    { "title": "The Narrow Way, Part 3", "featured_artists": [] },
+                    { "title": "The Grand Vizier's Garden Party, Part 1: Entrance", "featured_artists": [] },
+                    { "title": "The Grand Vizier's Garden Party, Part 2: Entertainment", "featured_artists": [] },
+                    { "title": "The Grand Vizier's Garden Party, Part 3: Exit", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Atom Heart Mother",
+                "release_date": "1970-10-10",
+                "tracks": [
+                    { "title": "Atom Heart Mother", "featured_artists": ["The Philip Jones Brass Ensemble"] },
+                    { "title": "If", "featured_artists": [] },
+                    { "title": "Summer '68", "featured_artists": [] },
+                    { "title": "Fat Old Sun", "featured_artists": [] },
+                    { "title": "Alan's Psychedelic Breakfast", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Meddle",
+                "release_date": "1971-10-31",
+                "tracks": [
+                    { "title": "One of These Days", "featured_artists": [] },
+                    { "title": "A Pillow of Winds", "featured_artists": [] },
+                    { "title": "Fearless", "featured_artists": [] },
+                    { "title": "San Tropez", "featured_artists": [] },
+                    { "title": "Seamus", "featured_artists": [] },
+                    { "title": "Echoes", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Obscured by Clouds",
+                "release_date": "1972-06-02",
+                "tracks": [
+                    { "title": "Obscured by Clouds", "featured_artists": [] },
+                    { "title": "When You're In", "featured_artists": [] },
+                    { "title": "Burning Bridges", "featured_artists": [] },
+                    { "title": "The Gold It's in the...", "featured_artists": [] },
+                    { "title": "Wot's... Uh the Deal", "featured_artists": [] },
+                    { "title": "Mudmen", "featured_artists": [] },
+                    { "title": "Childhood's End", "featured_artists": [] },
+                    { "title": "Free Four", "featured_artists": [] },
+                    { "title": "Stay", "featured_artists": [] },
+                    { "title": "Absolutely Curtains", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Dark Side of the Moon",
+                "release_date": "1973-03-01",
+                "tracks": [
+                    { "title": "Speak to Me", "featured_artists": [] },
+                    { "title": "Breathe", "featured_artists": [] },
+                    { "title": "On the Run", "featured_artists": [] },
+                    { "title": "Time", "featured_artists": [] },
+                    { "title": "The Great Gig in the Sky", "featured_artists": [] },
+                    { "title": "Money", "featured_artists": [] },
+                    { "title": "Us and Them", "featured_artists": [] },
+                    { "title": "Any Colour You Like", "featured_artists": [] },
+                    { "title": "Brain Damage", "featured_artists": [] },
+                    { "title": "Eclipse", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Wish You Were Here",
+                "release_date": "1975-09-12",
+                "tracks": [
+                    { "title": "Shine On You Crazy Diamond (Parts I-V)", "featured_artists": [] },
+                    { "title": "Welcome to the Machine", "featured_artists": [] },
+                    { "title": "Have a Cigar", "featured_artists": ["Roy Harper"] },
+                    { "title": "Wish You Were Here", "featured_artists": [] },
+                    { "title": "Shine On You Crazy Diamond (Parts VI-IX)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Animals",
+                "release_date": "1977-01-23",
+                "tracks": [
+                    { "title": "Pigs on the Wing 1", "featured_artists": [] },
+                    { "title": "Dogs", "featured_artists": [] },
+                    { "title": "Pigs (Three Different Ones)", "featured_artists": [] },
+                    { "title": "Sheep", "featured_artists": [] },
+                    { "title": "Pigs on the Wing 2", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Wall",
+                "release_date": "1979-11-30",
+                "tracks": [
+                    { "title": "In the Flesh?", "featured_artists": [] },
+                    { "title": "The Thin Ice", "featured_artists": [] },
+                    { "title": "Another Brick in the Wall, Part 1", "featured_artists": [] },
+                    { "title": "The Happiest Days of Our Lives", "featured_artists": [] },
+                    { "title": "Another Brick in the Wall, Part 2", "featured_artists": [] },
+                    { "title": "Mother", "featured_artists": [] },
+                    { "title": "Goodbye Blue Sky", "featured_artists": [] },
+                    { "title": "Empty Spaces", "featured_artists": [] },
+                    { "title": "Young Lust", "featured_artists": ["David Gilmour"] },
+                    { "title": "One of My Turns", "featured_artists": [] },
+                    { "title": "Don't Leave Me Now", "featured_artists": [] },
+                    { "title": "Another Brick in the Wall, Part 3", "featured_artists": [] },
+                    { "title": "Goodbye Cruel World", "featured_artists": [] },
+                    { "title": "Hey You", "featured_artists": [] },
+                    { "title": "Is There Anybody Out There?", "featured_artists": [] },
+                    { "title": "Nobody Home", "featured_artists": [] },
+                    { "title": "Vera", "featured_artists": [] },
+                    { "title": "Bring the Boys Back Home", "featured_artists": [] },
+                    { "title": "Comfortably Numb", "featured_artists": ["David Gilmour"] },
+                    { "title": "The Show Must Go On", "featured_artists": [] },
+                    { "title": "In the Flesh", "featured_artists": [] },
+                    { "title": "Run Like Hell", "featured_artists": ["David Gilmour"] },
+                    { "title": "Waiting for the Worms", "featured_artists": [] },
+                    { "title": "Stop", "featured_artists": [] },
+                    { "title": "The Trial", "featured_artists": [] },
+                    { "title": "Outside the Wall", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Final Cut",
+                "release_date": "1983-03-21",
+                "tracks": [
+                    { "title": "The Post War Dream", "featured_artists": [] },
+                    { "title": "Your Possible Pasts", "featured_artists": [] },
+                    { "title": "One of the Few", "featured_artists": [] },
+                    { "title": "The Hero's Return", "featured_artists": [] },
+                    { "title": "The Gunner's Dream", "featured_artists": [] },
+                    { "title": "Paranoid Eyes", "featured_artists": [] },
+                    { "title": "Get Your Filthy Hands Off My Desert", "featured_artists": [] },
+                    { "title": "The Fletcher Memorial Home", "featured_artists": [] },
+                    { "title": "Southampton Dock", "featured_artists": [] },
+                    { "title": "The Final Cut", "featured_artists": [] },
+                    { "title": "Not Now John", "featured_artists": ["David Gilmour"] },
+                    { "title": "Two Suns in the Sunset", "featured_artists": [] }
+                ]
+            },
+
+            {
+                "title": "A Momentary Lapse of Reason",
+                "release_date": "1987-09-07",
+                "tracks": [
+                    { "title": "Signs of Life", "featured_artists": [] },
+                    { "title": "Learning to Fly", "featured_artists": [] },
+                    { "title": "The Dogs of War", "featured_artists": [] },
+                    { "title": "One Slip", "featured_artists": [] },
+                    { "title": "On the Turning Away", "featured_artists": [] },
+                    { "title": "Yet Another Movie", "featured_artists": [] },
+                    { "title": "Round and Around", "featured_artists": [] },
+                    { "title": "A New Machine, Part 1", "featured_artists": [] },
+                    { "title": "Terminal Frost", "featured_artists": [] },
+                    { "title": "A New Machine, Part 2", "featured_artists": [] },
+                    { "title": "Sorrow", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Division Bell",
+                "release_date": "1994-03-28",
+                "tracks": [
+                    { "title": "Cluster One", "featured_artists": [] },
+                    { "title": "What Do You Want from Me", "featured_artists": [] },
+                    { "title": "Poles Apart", "featured_artists": [] },
+                    { "title": "Marooned", "featured_artists": [] },
+                    { "title": "A Great Day for Freedom", "featured_artists": [] },
+                    { "title": "Wearing the Inside Out", "featured_artists": ["Richard Wright"] },
+                    { "title": "Take It Back", "featured_artists": [] },
+                    { "title": "Coming Back to Life", "featured_artists": [] },
+                    { "title": "Keep Talking", "featured_artists": [] },
+                    { "title": "Lost for Words", "featured_artists": [] },
+                    { "title": "High Hopes", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Endless River",
+                "release_date": "2014-11-07",
+                "tracks": [
+                    { "title": "Things Left Unsaid", "featured_artists": [] },
+                    { "title": "It's What We Do", "featured_artists": [] },
+                    { "title": "Ebb and Flow", "featured_artists": [] },
+                    { "title": "Sum", "featured_artists": [] },
+                    { "title": "Skins", "featured_artists": [] },
+                    { "title": "Unsung", "featured_artists": [] },
+                    { "title": "Anisina", "featured_artists": [] },
+                    { "title": "The Lost Art of Conversation", "featured_artists": [] },
+                    { "title": "On Noodle Street", "featured_artists": [] },
+                    { "title": "Night Light", "featured_artists": [] },
+                    { "title": "Allons-y (1)", "featured_artists": [] },
+                    { "title": "Autumn '68", "featured_artists": ["Richard Wright"] },
+                    { "title": "Allons-y (2)", "featured_artists": [] },
+                    { "title": "Talkin' Hawkin'", "featured_artists": ["Stephen Hawking"] },
+                    { "title": "Calling", "featured_artists": [] },
+                    { "title": "Eyes to Pearls", "featured_artists": [] },
+                    { "title": "Surfacing", "featured_artists": [] },
+                    { "title": "Louder than Words", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Queen",
+        "bio_url": "https://en.wikipedia.org/wiki/Queen_(band)",
+        "bio_birthdate": "1970-01-01",
+        "bio_summary": "Queen are a British rock group formed in 1970. Members were Freddie Mercury (Vocals and Piano), Brian May (Guitar, Vocals), Roger Taylor (Drums, Vocals), and John Deacon (Bass Guitar, Vocals).",
+        "img_url": "/assets/Photos/Queen.jpg",
+        "location_city": "London",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Queen",
+                "release_date": "1973-07-13",
+                "tracks": [
+                    { "title": "Keep Yourself Alive", "featured_artists": [] },
+                    { "title": "Doing All Right", "featured_artists": [] },
+                    { "title": "Great King Rat", "featured_artists": [] },
+                    { "title": "My Fairy King", "featured_artists": [] },
+                    { "title": "Liar", "featured_artists": [] },
+                    { "title": "The Night Comes Down", "featured_artists": [] },
+                    { "title": "Modern Times Rock 'n' Roll", "featured_artists": [] },
+                    { "title": "Son and Daughter", "featured_artists": [] },
+                    { "title": "Jesus", "featured_artists": [] },
+                    { "title": "Seven Seas of Rhye (Instrumental)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Queen II",
+                "release_date": "1974-03-08",
+                "tracks": [
+                    { "title": "Procession", "featured_artists": [] },
+                    { "title": "Father to Son", "featured_artists": [] },
+                    { "title": "White Queen (As It Began)", "featured_artists": [] },
+                    { "title": "Some Day One Day", "featured_artists": [] },
+                    { "title": "The Loser in the End", "featured_artists": [] },
+                    { "title": "Ogre Battle", "featured_artists": [] },
+                    { "title": "The Fairy Feller’s Master-Stroke", "featured_artists": [] },
+                    { "title": "Nevermore", "featured_artists": [] },
+                    { "title": "The March of the Black Queen", "featured_artists": [] },
+                    { "title": "Funny How Love Is", "featured_artists": [] },
+                    { "title": "Seven Seas of Rhye", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Sheer Heart Attack",
+                "release_date": "1974-11-08",
+                "tracks": [
+                    { "title": "Brighton Rock", "featured_artists": [] },
+                    { "title": "Killer Queen", "featured_artists": [] },
+                    { "title": "Tenement Funster", "featured_artists": [] },
+                    { "title": "Flick of the Wrist", "featured_artists": [] },
+                    { "title": "Lily of the Valley", "featured_artists": [] },
+                    { "title": "Now I'm Here", "featured_artists": [] },
+                    { "title": "In the Lap of the Gods", "featured_artists": [] },
+                    { "title": "Stone Cold Crazy", "featured_artists": [] },
+                    { "title": "Dear Friends", "featured_artists": [] },
+                    { "title": "Misfire", "featured_artists": [] },
+                    { "title": "Bring Back That Leroy Brown", "featured_artists": [] },
+                    { "title": "She Makes Me (Stormtrooper in Stilettoes)", "featured_artists": [] },
+                    { "title": "In the Lap of the Gods... Revisited", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "A Night at the Opera",
+                "release_date": "1975-11-21",
+                "tracks": [
+                    { "title": "Death on Two Legs (Dedicated to...)", "featured_artists": [] },
+                    { "title": "Lazing on a Sunday Afternoon", "featured_artists": [] },
+                    { "title": "I'm in Love with My Car", "featured_artists": [] },
+                    { "title": "You're My Best Friend", "featured_artists": [] },
+                    { "title": "'39", "featured_artists": [] },
+                    { "title": "Sweet Lady", "featured_artists": [] },
+                    { "title": "Seaside Rendezvous", "featured_artists": [] },
+                    { "title": "The Prophet's Song", "featured_artists": [] },
+                    { "title": "Love of My Life", "featured_artists": [] },
+                    { "title": "Good Company", "featured_artists": [] },
+                    { "title": "Bohemian Rhapsody", "featured_artists": [] },
+                    { "title": "God Save the Queen", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "A Day at the Races",
+                "release_date": "1976-12-10",
+                "tracks": [
+                    { "title": "Tie Your Mother Down", "featured_artists": [] },
+                    { "title": "You Take My Breath Away", "featured_artists": [] },
+                    { "title": "Long Away", "featured_artists": [] },
+                    { "title": "The Millionaire Waltz", "featured_artists": [] },
+                    { "title": "You and I", "featured_artists": [] },
+                    { "title": "Somebody to Love", "featured_artists": [] },
+                    { "title": "White Man", "featured_artists": [] },
+                    { "title": "Good Old-Fashioned Lover Boy", "featured_artists": [] },
+                    { "title": "Drowse", "featured_artists": [] },
+                    { "title": "Teo Torriatte (Let Us Cling Together)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "News of the World",
+                "release_date": "1977-10-28",
+                "tracks": [
+                    { "title": "We Will Rock You", "featured_artists": [] },
+                    { "title": "We Are the Champions", "featured_artists": [] },
+                    { "title": "Sheer Heart Attack", "featured_artists": [] },
+                    { "title": "All Dead, All Dead", "featured_artists": [] },
+                    { "title": "Spread Your Wings", "featured_artists": [] },
+                    { "title": "Fight from the Inside", "featured_artists": [] },
+                    { "title": "Get Down, Make Love", "featured_artists": [] },
+                    { "title": "Sleeping on the Sidewalk", "featured_artists": [] },
+                    { "title": "Who Needs You", "featured_artists": [] },
+                    { "title": "'39", "featured_artists": [] },
+                    { "title": "It's Late", "featured_artists": [] },
+                    { "title": " My Melancholy Blues", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Jazz",
+                "release_date": "1978-11-10",
+                "tracks": [
+                    { "title": "Mustapha", "featured_artists": [] },
+                    { "title": "Fat Bottomed Girls", "featured_artists": [] },
+                    { "title": "Jealousy", "featured_artists": [] },
+                    { "title": "Bicycle Race", "featured_artists": [] },
+                    { "title": "If You Can't Beat Them", "featured_artists": [] },
+                    { "title": "Let Me Entertain You", "featured_artists": [] },
+                    { "title": "Dead on Time", "featured_artists": [] },
+                    { "title": "In Only Seven Days", "featured_artists": [] },
+                    { "title": "Dreamer's Ball", "featured_artists": [] },
+                    { "title": "Fun It", "featured_artists": [] },
+                    { "title": "Leaving Home Ain't Easy", "featured_artists": [] },
+                    { "title": "Don't Stop Me Now", "featured_artists": [] },
+                    { "title": "More of That Jazz", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Game",
+                "release_date": "1980-06-30",
+                "tracks": [
+                    { "title": "Play the Game", "featured_artists": [] },
+                    { "title": "Dragon Attack", "featured_artists": [] },
+                    { "title": "Another One Bites the Dust", "featured_artists": [] },
+                    { "title": "Need Your Loving Tonight", "featured_artists": [] },
+                    { "title": "Crazy Little Thing Called Love", "featured_artists": [] },
+                    { "title": "Rock It (Prime Jive)", "featured_artists": [] },
+                    { "title": "Don't Try Suicide", "featured_artists": [] },
+                    { "title": "Sail Away Sweet Sister", "featured_artists": [] },
+                    { "title": "Coming Soon", "featured_artists": [] },
+                    { "title": "Save Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Flash Gordon",
+                "release_date": "1980-12-08",
+                "tracks": [
+                    { "title": "Flash's Theme", "featured_artists": [] },
+                    { "title": "In the Space Capsule (The Love Theme)", "featured_artists": [] },
+                    { "title": "Ming's Theme (In the Court of Ming the Merciless)", "featured_artists": [] },
+                    { "title": "The Ring (Hypnotic Seduction of Dale)", "featured_artists": [] },
+                    { "title": "Football Fight", "featured_artists": [] },
+                    { "title": "In the Death Cell (Love Theme Reprise)", "featured_artists": [] },
+                    { "title": "Execution of Flash", "featured_artists": [] },
+                    { "title": "The Kiss (Aura Resurrects Flash)", "featured_artists": [] },
+                    { "title": "Arboria (Planet of the Tree Men)", "featured_artists": [] },
+                    { "title": "Escape from the Swamp", "featured_artists": [] },
+                    { "title": "Flash to the Rescue", "featured_artists": [] },
+                    { "title": "Vultan's Theme (Attack of the Hawk Men)", "featured_artists": [] },
+                    { "title": "Battle Theme", "featured_artists": [] },
+                    { "title": "The Wedding March", "featured_artists": [] },
+                    { "title": "Marriage of Dale and Ming (And Flash Approaching)", "featured_artists": [] },
+                    { "title": "Crash Dive on Mingo City", "featured_artists": [] },
+                    { "title": "Flash's Theme Reprise (Victory Celebrations)", "featured_artists": [] },
+                    { "title": "The Hero", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Hot Space",
+                "release_date": "1982-05-21",
+                "tracks": [
+                    { "title": "Staying Power", "featured_artists": [] },
+                    { "title": "Dancer", "featured_artists": [] },
+                    { "title": "Back Chat", "featured_artists": [] },
+                    { "title": "Body Language", "featured_artists": [] },
+                    { "title": "Action This Day", "featured_artists": [] },
+                    { "title": "Put Out the Fire", "featured_artists": [] },
+                    { "title": "Life Is Real (Song for Lennon)", "featured_artists": [] },
+                    { "title": "Calling All Girls", "featured_artists": [] },
+                    { "title": "Las Palabras de Amor (The Words of Love)", "featured_artists": [] },
+                    { "title": "Cool Cat", "featured_artists": [] },
+                    { "title": "Under Pressure", "featured_artists": ["David Bowie"] }
+                ]
+            },
+            {
+                "title": "The Works",
+                "release_date": "1984-02-27",
+                "tracks": [
+                    { "title": "Radio Ga Ga", "featured_artists": [] },
+                    { "title": "Tear It Up", "featured_artists": [] },
+                    { "title": "It's a Hard Life", "featured_artists": [] },
+                    { "title": "Man on the Prowl", "featured_artists": [] },
+                    { "title": "Machines (Or 'Back to Humans')", "featured_artists": [] },
+                    { "title": "I Want to Break Free", "featured_artists": [] },
+                    { "title": "Keep Passing the Open Windows", "featured_artists": [] },
+                    { "title": "Hammer to Fall", "featured_artists": [] },
+                    { "title": "Is This the World We Created...?", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "A Kind of Magic",
+                "release_date": "1986-06-02",
+                "tracks": [
+                    { "title": "One Vision", "featured_artists": [] },
+                    { "title": "A Kind of Magic", "featured_artists": [] },
+                    { "title": "One Year of Love", "featured_artists": [] },
+                    { "title": "Pain Is So Close to Pleasure", "featured_artists": [] },
+                    { "title": "Friends Will Be Friends", "featured_artists": [] },
+                    { "title": "Who Wants to Live Forever", "featured_artists": ["Michael Kamen", "National Philharmonic Orchestra"] },
+                    { "title": "Gimme the Prize (Kurgan's Theme)", "featured_artists": [] },
+                    { "title": "Don't Lose Your Head", "featured_artists": ["Joan Armatrading"] },
+                    { "title": "Princes of the Universe", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Miracle",
+                "release_date": "1989-05-22",
+                "tracks": [
+                    { "title": "Party", "featured_artists": [] },
+                    { "title": "Khashoggi's Ship", "featured_artists": [] },
+                    { "title": "The Miracle", "featured_artists": [] },
+                    { "title": "I Want It All", "featured_artists": [] },
+                    { "title": "The Invisible Man", "featured_artists": [] },
+                    { "title": "Breakthru", "featured_artists": [] },
+                    { "title": "Rain Must Fall", "featured_artists": [] },
+                    { "title": "Scandal", "featured_artists": [] },
+                    { "title": "My Baby Does Me", "featured_artists": [] },
+                    { "title": "Was It All Worth It", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Innuendo",
+                "release_date": "1991-02-04",
+                "tracks": [
+                    { "title": "Innuendo", "featured_artists": ["Steve Howe"] },
+                    { "title": "I'm Going Slightly Mad", "featured_artists": [] },
+                    { "title": "Headlong", "featured_artists": [] },
+                    { "title": "I Can't Live with You", "featured_artists": [] },
+                    { "title": "Don't Try So Hard", "featured_artists": [] },
+                    { "title": "Ride the Wild Wind", "featured_artists": [] },
+                    { "title": "All God's People", "featured_artists": [] },
+                    { "title": "These Are the Days of Our Lives", "featured_artists": [] },
+                    { "title": "Delilah", "featured_artists": [] },
+                    { "title": "The Hitman", "featured_artists": [] },
+                    { "title": "Bijou", "featured_artists": [] },
+                    { "title": "The Show Must Go On", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Made in Heaven",
+                "release_date": "1995-11-06",
+                "tracks": [
+                    { "title": "It's a Beautiful Day", "featured_artists": [] },
+                    { "title": "Made in Heaven", "featured_artists": [] },
+                    { "title": "Let Me Live", "featured_artists": ["Rebecca Leigh-White", "Gary Martin", "Catherine Porter"] },
+                    { "title": "Mother Love", "featured_artists": [] },
+                    { "title": "My Life Has Been Saved", "featured_artists": [] },
+                    { "title": "I Was Born to Love You", "featured_artists": [] },
+                    { "title": "Heaven for Everyone", "featured_artists": [] },
+                    { "title": "Too Much Love Will Kill You", "featured_artists": [] },
+                    { "title": "You Don't Fool Me", "featured_artists": [] },
+                    { "title": "A Winter's Tale", "featured_artists": [] },
+                    { "title": "It's a Beautiful Day (Reprise)", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Metallica",
+        "bio_url": "https://en.wikipedia.org/wiki/Metallica",
+        "bio_birthdate": "1981-01-01",
+        "bio_summary": "Metallica is an American Heavy Metal band formed in 1981. The original lineup was James Hetfield (Vocalist and Rhythm guitarist) Dave Mustaine (Lead Guitar) Lars Ulrich (Drums) Ron McGovney (Bassist).",
+        "img_url": "/assets/Photos/Metallica.jpg",
+        "location_city": "Los Angeles",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Kill 'Em All",
+                "release_date": "1983-07-25",
+                "tracks": [
+                    { "title": "Hit the Lights", "featured_artists": [] },
+                    { "title": "The Four Horsemen", "featured_artists": [] },
+                    { "title": "Motorbreath", "featured_artists": [] },
+                    { "title": "Jump in the Fire", "featured_artists": [] },
+                    { "title": "(Anesthesia) Pulling Teeth", "featured_artists": [] },
+                    { "title": "Whiplash", "featured_artists": [] },
+                    { "title": "Phantom Lord", "featured_artists": [] },
+                    { "title": "No Remorse", "featured_artists": [] },
+                    { "title": "Seek & Destroy", "featured_artists": [] },
+                    { "title": "Metal Militia", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Ride the Lightning",
+                "release_date": "1984-07-27",
+                "tracks": [
+                    { "title": "Fight Fire with Fire", "featured_artists": [] },
+                    { "title": "Ride the Lightning", "featured_artists": [] },
+                    { "title": "For Whom the Bell Tolls", "featured_artists": [] },
+                    { "title": "Fade to Black", "featured_artists": [] },
+                    { "title": "Trapped Under Ice", "featured_artists": [] },
+                    { "title": "Escape", "featured_artists": [] },
+                    { "title": "Creeping Death", "featured_artists": [] },
+                    { "title": "The Call of Ktulu", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Master of Puppets",
+                "release_date": "1986-03-03",
+                "tracks": [
+                    { "title": "Battery", "featured_artists": [] },
+                    { "title": "Master of Puppets", "featured_artists": [] },
+                    { "title": "The Thing That Should Not Be", "featured_artists": [] },
+                    { "title": "Welcome Home (Sanitarium)", "featured_artists": [] },
+                    { "title": "Disposable Heroes", "featured_artists": [] },
+                    { "title": "Leper Messiah", "featured_artists": [] },
+                    { "title": "Orion", "featured_artists": [] },
+                    { "title": "Damage, Inc.", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "And Justice for All",
+                "release_date": "1988-09-07",
+                "tracks": [
+                    { "title": "Blackened", "featured_artists": [] },
+                    { "title": "...And Justice for All", "featured_artists": [] },
+                    { "title": "Eye of the Beholder", "featured_artists": [] },
+                    { "title": "One", "featured_artists": [] },
+                    { "title": "The Shortest Straw", "featured_artists": [] },
+                    { "title": "Harvester of Sorrow", "featured_artists": [] },
+                    { "title": "The Frayed Ends of Sanity", "featured_artists": [] },
+                    { "title": "To Live is to Die", "featured_artists": [] },
+                    { "title": "Dyer's Eve", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Metallica (The Black Album)",
+                "release_date": "1991-08-12",
+                "tracks": [
+                    { "title": "Enter Sandman", "featured_artists": [] },
+                    { "title": "Sad But True", "featured_artists": [] },
+                    { "title": "Holier Than Thou", "featured_artists": [] },
+                    { "title": "The Unforgiven", "featured_artists": [] },
+                    { "title": "Wherever I May Roam", "featured_artists": [] },
+                    { "title": "Don't Tread on Me", "featured_artists": [] },
+                    { "title": "Through the Never", "featured_artists": [] },
+                    { "title": "Nothing Else Matters", "featured_artists": [] },
+                    { "title": "Of Wolf and Man", "featured_artists": [] },
+                    { "title": "The God That Failed", "featured_artists": [] },
+                    { "title": "My Friend of Misery", "featured_artists": [] },
+                    { "title": "The Struggle Within", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Load",
+                "release_date": "1996-06-04",
+                "tracks": [
+                    { "title": "Ain't My Bitch", "featured_artists": [] },
+                    { "title": "2 X 4", "featured_artists": [] },
+                    { "title": "The House Jack Built", "featured_artists": [] },
+                    { "title": "Until It Sleeps", "featured_artists": [] },
+                    { "title": "King Nothing", "featured_artists": [] },
+                    { "title": "Hero of the Day", "featured_artists": [] },
+                    { "title": "Bleeding Me", "featured_artists": [] },
+                    { "title": "The Outlaw Torn", "featured_artists": [] },
+                    { "title": "Poor Twisted Me", "featured_artists": [] },
+                    { "title": "Wasting My Hate", "featured_artists": [] },
+                    { "title": "Mama Said", "featured_artists": [] },
+                    { "title": "Ronnie", "featured_artists": [] },
+                    { "title": "The Eye of the Beholder", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Reload",
+                "release_date": "1997-11-18",
+                "tracks": [
+                    { "title": "Fuel", "featured_artists": [] },
+                    { "title": "The Memory Remains", "featured_artists": [] },
+                    { "title": "Devil's Dance", "featured_artists": [] },
+                    { "title": "The Unforgiven II", "featured_artists": [] },
+                    { "title": "Better than You", "featured_artists": [] },
+                    { "title": "Slither", "featured_artists": [] },
+                    { "title": "Carpe Diem Baby", "featured_artists": [] },
+                    { "title": "Bad Seed", "featured_artists": [] },
+                    { "title": "Where the Wild Things Are", "featured_artists": [] },
+                    { "title": "Prince Charming", "featured_artists": [] },
+                    { "title": "Low Man's Lyric", "featured_artists": [] },
+                    { "title": "Attitude", "featured_artists": [] },
+                    { "title": "Fixxxer", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "St. Anger",
+                "release_date": "2003-06-05",
+                "tracks": [
+                    { "title": "Frantic", "featured_artists": [] },
+                    { "title": "St. Anger", "featured_artists": [] },
+                    { "title": "Some Kind of Monster", "featured_artists": [] },
+                    { "title": "Dirty Window", "featured_artists": [] },
+                    { "title": "The Unnamed Feeling", "featured_artists": [] },
+                    { "title": "Purify", "featured_artists": [] },
+                    { "title": "Invisible Kid", "featured_artists": [] },
+                    { "title": "My World", "featured_artists": [] },
+                    { "title": "Shoot Me Again", "featured_artists": [] },
+                    { "title": "Sweet Amber", "featured_artists": [] },
+                    { "title": "The Unforgiven III", "featured_artists": [] },
+                    { "title": "All Within My Hands", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Death Magnetic",
+                "release_date": "2008-09-12",
+                "tracks": [
+                    { "title": "That Was Just Your Life", "featured_artists": [] },
+                    { "title": "The End of the Line", "featured_artists": [] },
+                    { "title": "The Day That Never Comes", "featured_artists": [] },
+                    { "title": "All Nightmare Long", "featured_artists": [] },
+                    { "title": "Cyanide", "featured_artists": [] },
+                    { "title": "The Unforgiven III", "featured_artists": [] },
+                    { "title": "The Judas Kiss", "featured_artists": [] },
+                    { "title": "Suicide & Redemption", "featured_artists": [] },
+                    { "title": "My Apocalypse", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Hardwired... to Self-Destruct",
+                "release_date": "2016-11-18",
+                "tracks": [
+                    { "title": "Hardwired", "featured_artists": [] },
+                    { "title": "Atlas, Rise!", "featured_artists": [] },
+                    { "title": "Now That We're Dead", "featured_artists": [] },
+                    { "title": "Moth Into Flame", "featured_artists": [] },
+                    { "title": "Am I Savage?", "featured_artists": [] },
+                    { "title": "Halo on Fire", "featured_artists": [] },
+                    { "title": "Confusion", "featured_artists": [] },
+                    { "title": "ManUNkind", "featured_artists": [] },
+                    { "title": "Here Comes Revenge", "featured_artists": [] },
+                    { "title": "Murder One", "featured_artists": [] },
+                    { "title": "Spit Out the Bone", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "72 Seasons",
+                "release_date": "2023-04-14",
+                "tracks": [
+                    { "title": "72 Seasons", "featured_artists": [] },
+                    { "title": "Shadows Follow", "featured_artists": [] },
+                    { "title": "Screaming Suicide", "featured_artists": [] },
+                    { "title": "Sleepwalk My Life Away", "featured_artists": [] },
+                    { "title": "You Must Burn!", "featured_artists": [] },
+                    { "title": "Lux Æterna", "featured_artists": [] },
+                    { "title": "Crown of Barbed Wire", "featured_artists": [] },
+                    { "title": "Chasing Light", "featured_artists": [] },
+                    { "title": "If Darkness Had a Son", "featured_artists": [] },
+                    { "title": "Too Far Gone?", "featured_artists": [] },
+                    { "title": "Room of Mirrors", "featured_artists": [] },
+                    { "title": "Inamorata", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "AC/DC",
+        "bio_url": "https://en.wikipedia.org/wiki/AC/DC",
+        "bio_birthdate": "1973-01-01",
+        "bio_summary": "AC/DC are an Australian hard rock band, formed in November 1973 by brothers Malcolm and Angus Young, who continued as members until Malcolm's illness and departure in 2014.",
+        "img_url": "/assets/Photos/ACDC.jpg",
+        "location_city": "Sydney",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "High Voltage",
+                "release_date": "1976-02-17",
+                "tracks": [
+                    { "title": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)", "featured_artists": [] },
+                    { "title": "The Jack", "featured_artists": [] },
+                    { "title": "Live Wire", "featured_artists": [] },
+                    { "title": "T.N.T.", "featured_artists": [] },
+                    { "title": "Little Lover", "featured_artists": [] },
+                    { "title": "She's Got Balls", "featured_artists": [] },
+                    { "title": "Soul Stripper", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "T.N.T.",
+                "release_date": "1976-12-01",
+                "tracks": [
+                    { "title": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)", "featured_artists": [] },
+                    { "title": "The Jack", "featured_artists": [] },
+                    { "title": "Live Wire", "featured_artists": [] },
+                    { "title": "T.N.T.", "featured_artists": [] },
+                    { "title": "Little Lover", "featured_artists": [] },
+                    { "title": "She's Got Balls", "featured_artists": [] },
+                    { "title": "Soul Stripper", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Dirty Deeds Done Dirt Cheap",
+                "release_date": "1976-12-20",
+                "tracks": [
+                    { "title": "Dirty Deeds Done Dirt Cheap", "featured_artists": [] },
+                    { "title": "Love at First Feel", "featured_artists": [] },
+                    { "title": "Big Balls", "featured_artists": [] },
+                    { "title": "Rocker", "featured_artists": [] },
+                    { "title": "Problem Child", "featured_artists": [] },
+                    { "title": "Squealer", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Let There Be Rock",
+                "release_date": "1977-03-21",
+                "tracks": [
+                    { "title": "Go Down", "featured_artists": [] },
+                    { "title": "Dog Eat Dog", "featured_artists": [] },
+                    { "title": "Let There Be Rock", "featured_artists": [] },
+                    { "title": "Bad Boy Boogie", "featured_artists": [] },
+                    { "title": "Problem Child", "featured_artists": [] },
+                    { "title": "Overdose", "featured_artists": [] },
+                    { "title": "Hell Ain't a Bad Place to Be", "featured_artists": [] },
+                    { "title": "Whole Lotta Rosie", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Powerage",
+                "release_date": "1978-05-05",
+                "tracks": [
+                    { "title": "Rock 'n' Roll Damnation", "featured_artists": [] },
+                    { "title": "Down Payment Blues", "featured_artists": [] },
+                    { "title": "Gimme a Bullet", "featured_artists": [] },
+                    { "title": "Riff Raff", "featured_artists": [] },
+                    { "title": "Sin City", "featured_artists": [] },
+                    { "title": "What's Next to the Moon", "featured_artists": [] },
+                    { "title": "Cold Hearted Man", "featured_artists": [] },
+                    { "title": "Kicked in the Teeth", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "If You Want Blood You've Got It",
+                "release_date": "1978-10-03",
+                "tracks": [
+                    { "title": "Riff Raff", "featured_artists": [] },
+                    { "title": "Hell Ain't a Bad Place to Be", "featured_artists": [] },
+                    { "title": "Bad Boy Boogie", "featured_artists": [] },
+                    { "title": "The Jack", "featured_artists": [] },
+                    { "title": "Problem Child", "featured_artists": [] },
+                    { "title": "Whole Lotta Rosie", "featured_artists": [] },
+                    { "title": "Rock 'n' Roll Damnation", "featured_artists": [] },
+                    { "title": "High Voltage", "featured_artists": [] },
+                    { "title": "Let There Be Rock", "featured_artists": [] },
+                    { "title": "Soul Stripper", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Highway to Hell",
+                "release_date": "1979-07-27",
+                "tracks": [
+                    { "title": "Highway to Hell", "featured_artists": [] },
+                    { "title": "Girls Got Rhythm", "featured_artists": [] },
+                    { "title": "Walk All Over You", "featured_artists": [] },
+                    { "title": "Touch Too Much", "featured_artists": [] },
+                    { "title": "Beating Around the Bush", "featured_artists": [] },
+                    { "title": "Shot Down in Flames", "featured_artists": [] },
+                    { "title": "Get It Hot", "featured_artists": [] },
+                    { "title": "If You Want Blood (You've Got It)", "featured_artists": [] },
+                    { "title": "Love Hungry Man", "featured_artists": [] },
+                    { "title": "Night Prowler", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Back in Black",
+                "release_date": "1980-07-25",
+                "tracks": [
+                    { "title": "Hells Bells", "featured_artists": [] },
+                    { "title": "Shoot to Thrill", "featured_artists": [] },
+                    { "title": "What Do You Do for Money Honey", "featured_artists": [] },
+                    { "title": "Givin' the Dog a Bone", "featured_artists": [] },
+                    { "title": "Let Me Put My Love into You", "featured_artists": [] },
+                    { "title": "Back in Black", "featured_artists": [] },
+                    { "title": "You Shook Me All Night Long", "featured_artists": [] },
+                    { "title": "Have a Drink on Me", "featured_artists": [] },
+                    { "title": "Shake a Leg", "featured_artists": [] },
+                    { "title": "Rock and Roll Ain't Noise Pollution", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "For Those About to Rock (We Salute You)",
+                "release_date": "1981-11-23",
+                "tracks": [
+                    { "title": "For Those About to Rock (We Salute You)", "featured_artists": [] },
+                    { "title": "Put the Finger on You", "featured_artists": [] },
+                    { "title": "Let's Get It Up", "featured_artists": [] },
+                    { "title": "Inject the Venom", "featured_artists": [] },
+                    { "title": "Snowballed", "featured_artists": [] },
+                    { "title": "Evil Walks", "featured_artists": [] },
+                    { "title": "C.O.D.", "featured_artists": [] },
+                    { "title": "Breaking the Rules", "featured_artists": [] },
+                    { "title": "Night of the Long Knives", "featured_artists": [] },
+                    { "title": "Spellbound", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Flick of the Switch",
+                "release_date": "1983-08-15",
+                "tracks": [
+                    { "title": "Rising Power", "featured_artists": [] },
+                    { "title": "This House Is on Fire", "featured_artists": [] },
+                    { "title": "Flick of the Switch", "featured_artists": [] },
+                    { "title": "Nervous Shakedown", "featured_artists": [] },
+                    { "title": "Landslide", "featured_artists": [] },
+                    { "title": "Guns for Hire", "featured_artists": [] },
+                    { "title": "Deep in the Hole", "featured_artists": [] },
+                    { "title": "Badlands", "featured_artists": [] },
+                    { "title": "Brain Shake", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Fly on the Wall",
+                "release_date": "1985-06-28",
+                "tracks": [
+                    { "title": "Fly on the Wall", "featured_artists": [] },
+                    { "title": "Shake Your Foundations", "featured_artists": [] },
+                    { "title": "First Blood", "featured_artists": [] },
+                    { "title": "Danger", "featured_artists": [] },
+                    { "title": "Sink the Pink", "featured_artists": [] },
+                    { "title": "Playing with Girls", "featured_artists": [] },
+                    { "title": "Stand Up", "featured_artists": [] },
+                    { "title": "Hell or High Water", "featured_artists": [] },
+                    { "title": "Back in Business", "featured_artists": [] },
+                    { "title": "Send for the Man", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Blow Up Your Video",
+                "release_date": "1988-01-18",
+                "tracks": [
+                    { "title": "Heatseeker", "featured_artists": [] },
+                    { "title": "That's the Way I Wanna Rock 'n' Roll", "featured_artists": [] },
+                    { "title": "Meanstreak", "featured_artists": [] },
+                    { "title": "Go Zone", "featured_artists": [] },
+                    { "title": "Kissin' Dynamite", "featured_artists": [] },
+                    { "title": "Nick of Time", "featured_artists": [] },
+                    { "title": "Some Sin for Nuthin'", "featured_artists": [] },
+                    { "title": "Ruff Stuff", "featured_artists": [] },
+                    { "title": "Two's Up", "featured_artists": [] },
+                    { "title": "This Means War", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Razors Edge",
+                "release_date": "1990-09-24",
+                "tracks": [
+                    { "title": "Thunderstruck", "featured_artists": [] },
+                    { "title": "Fire Your Guns", "featured_artists": [] },
+                    { "title": "Moneytalks", "featured_artists": [] },
+                    { "title": "The Razors Edge", "featured_artists": [] },
+                    { "title": "Mistress for Christmas", "featured_artists": [] },
+                    { "title": "Rock Your Heart Out", "featured_artists": [] },
+                    { "title": "The Furor", "featured_artists": [] },
+                    { "title": "Boogie Man", "featured_artists": [] },
+                    { "title": "Spin Out", "featured_artists": [] },
+                    { "title": "Goodbye & Good Riddance to Bad Luck", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Stiff Upper Lip",
+                "release_date": "2000-02-28",
+                "tracks": [
+                    { "title": "Stiff Upper Lip", "featured_artists": [] },
+                    { "title": "Meltdown", "featured_artists": [] },
+                    { "title": "House of Jazz", "featured_artists": [] },
+                    { "title": "Hold Me Back", "featured_artists": [] },
+                    { "title": "Safe in New York City", "featured_artists": [] },
+                    { "title": "Can't Stand Still", "featured_artists": [] },
+                    { "title": "Damned", "featured_artists": [] },
+                    { "title": "Come and Get It", "featured_artists": [] },
+                    { "title": "All Screwed Up", "featured_artists": [] },
+                    { "title": "Give It Up", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Black Ice",
+                "release_date": "2008-10-20",
+                "tracks": [
+                    { "title": "Rock 'n' Roll Train", "featured_artists": [] },
+                    { "title": "Skies on Fire", "featured_artists": [] },
+                    { "title": "Big Jack", "featured_artists": [] },
+                    { "title": "Anything Goes", "featured_artists": [] },
+                    { "title": "War Machine", "featured_artists": [] },
+                    { "title": "Smash 'n' Grab", "featured_artists": [] },
+                    { "title": "Spoilin' for a Fight", "featured_artists": [] },
+                    { "title": "Wheels", "featured_artists": [] },
+                    { "title": "Decibel", "featured_artists": [] },
+                    { "title": "Stormy May Day", "featured_artists": [] },
+                    { "title": "She Likes Rock 'n' Roll", "featured_artists": [] },
+                    { "title": "Money Made", "featured_artists": [] },
+                    { "title": "Rock 'n' Roll Dream", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Iron Man 2",
+                "release_date": "2010-04-19",
+                "tracks": [
+                    { "title": "Shoot to Thrill", "featured_artists": [] },
+                    { "title": "Rock 'n' Roll Damnation", "featured_artists": [] },
+                    { "title": "Ghost of Christmas Past", "featured_artists": [] },
+                    { "title": "High Voltage", "featured_artists": [] },
+                    { "title": "For Those About to Rock (We Salute You)", "featured_artists": [] },
+                    { "title": "Back in Black", "featured_artists": [] },
+                    { "title": "Thunderstruck", "featured_artists": [] },
+                    { "title": "You Shook Me All Night Long", "featured_artists": [] },
+                    { "title": "Let There Be Rock", "featured_artists": [] },
+                    { "title": "T.N.T.", "featured_artists": [] },
+                    { "title": "Dirty Deeds Done Dirt Cheap", "featured_artists": [] },
+                    { "title": "Highway to Hell", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Rock or Bust",
+                "release_date": "2014-11-28",
+                "tracks": [
+                    { "title": "Play Ball", "featured_artists": [] },
+                    { "title": "Rock or Bust", "featured_artists": [] },
+                    { "title": "Deep Inside", "featured_artists": [] },
+                    { "title": "Still Got a Lotta Rock", "featured_artists": [] },
+                    { "title": "Money Made", "featured_artists": [] },
+                    { "title": "Let It Go", "featured_artists": [] },
+                    { "title": "Dirty Deeds", "featured_artists": [] },
+                    { "title": "Up All Night", "featured_artists": [] },
+                    { "title": "The Other Side", "featured_artists": [] },
+                    { "title": "Ain't No Way", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Power Up",
+                "release_date": "2020-11-13",
+                "tracks": [
+                    { "title": "Realize", "featured_artists": [] },
+                    { "title": "Rejection", "featured_artists": [] },
+                    { "title": "Angels", "featured_artists": [] },
+                    { "title": "Fire and Smoke", "featured_artists": [] },
+                    { "title": "Stay in the Game", "featured_artists": [] },
+                    { "title": "Thundershock", "featured_artists": [] },
+                    { "title": "War Machine", "featured_artists": [] },
+                    { "title": "No Mercy", "featured_artists": [] },
+                    { "title": "Power Up", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Rolling Stones",
+        "bio_url": "https://en.wikipedia.org/wiki/The_Rolling_Stones",
+        "bio_birthdate": "1962-01-01",
+        "bio_summary": "The Rolling Stones are an English rock band formed in London in 1962. Their best works include songs like Paint it Black, Sympathy for the Devil, and Satisfaction.",
+        "img_url": "/assets/Photos/Rolling_Stones.jpg",
+        "location_city": "London",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "The Rolling Stones",
+                "release_date": "1964-04-16",
+                "tracks": [
+                    { "title": "Route 66", "featured_artists": [] },
+                    { "title": "I Just Want to Make Love to You", "featured_artists": [] },
+                    { "title": "Honest I Do", "featured_artists": [] },
+                    { "title": "Mona (I Need You Baby)", "featured_artists": [] },
+                    { "title": "Now I've Got a Witness", "featured_artists": [] },
+                    { "title": "Little by Little", "featured_artists": [] },
+                    { "title": "I'm a King Bee", "featured_artists": [] },
+                    { "title": "Empty Heart", "featured_artists": [] },
+                    { "title": "Confessin' the Blues", "featured_artists": [] },
+                    { "title": "As Tears Go By", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "12 X 5",
+                "release_date": "1964-10-17",
+                "tracks": [
+                    { "title": "Around and Around", "featured_artists": [] },
+                    { "title": "Confessin' the Blues", "featured_artists": [] },
+                    { "title": "Empty Heart", "featured_artists": [] },
+                    { "title": "Time Is on My Side", "featured_artists": [] },
+                    { "title": "Good Times, Bad Times", "featured_artists": [] },
+                    { "title": "It's All Over Now", "featured_artists": [] },
+                    { "title": "2120 South Michigan Avenue", "featured_artists": [] },
+                    { "title": "Under the Boardwalk", "featured_artists": [] },
+                    { "title": "As Tears Go By", "featured_artists": [] },
+                    { "title": "Congratulations", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Out of Our Heads",
+                "release_date": "1965-07-30",
+                "tracks": [
+                    { "title": "(I Can't Get No) Satisfaction", "featured_artists": [] },
+                    { "title": "The Last Time", "featured_artists": [] },
+                    { "title": "Play with Fire", "featured_artists": [] },
+                    { "title": "As Tears Go By", "featured_artists": [] },
+                    { "title": "I Am Waiting", "featured_artists": [] },
+                    { "title": "Time Is on My Side", "featured_artists": [] },
+                    { "title": "Little Red Rooster", "featured_artists": [] },
+                    { "title": "Heart of Stone", "featured_artists": [] },
+                    { "title": "Under My Thumb", "featured_artists": [] },
+                    { "title": "Out of Time", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Aftermath",
+                "release_date": "1966-04-15",
+                "tracks": [
+                    { "title": "Mother's Little Helper", "featured_artists": [] },
+                    { "title": "Stupid Girl", "featured_artists": [] },
+                    { "title": "Under My Thumb", "featured_artists": [] },
+                    { "title": "Doncha Bother Me", "featured_artists": [] },
+                    { "title": "Goin' Home", "featured_artists": [] },
+                    { "title": "Flight 505", "featured_artists": [] },
+                    { "title": "High and Dry", "featured_artists": [] },
+                    { "title": "It's Not Easy", "featured_artists": [] },
+                    { "title": "I Am Waiting", "featured_artists": [] },
+                    { "title": "Out of Time", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Between the Buttons",
+                "release_date": "1967-01-20",
+                "tracks": [
+                    { "title": "Let's Spend the Night Together", "featured_artists": [] },
+                    { "title": "Yesterday's Papers", "featured_artists": [] },
+                    { "title": "Ruby Tuesday", "featured_artists": [] },
+                    { "title": "Connection", "featured_artists": [] },
+                    { "title": "She Smiled Sweetly", "featured_artists": [] },
+                    { "title": "Cool, Calm & Collected", "featured_artists": [] },
+                    { "title": "All Sold Out", "featured_artists": [] },
+                    { "title": "My Obsession", "featured_artists": [] },
+                    { "title": "Who's Been Sleeping Here?", "featured_artists": [] },
+                    { "title": "Complicated", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Their Satanic Majesties Request",
+                "release_date": "1967-12-08",
+                "tracks": [
+                    { "title": "Sing This All Together", "featured_artists": [] },
+                    { "title": "Citadel", "featured_artists": [] },
+                    { "title": "In Another Land", "featured_artists": [] },
+                    { "title": "2000 Light Years from Home", "featured_artists": [] },
+                    { "title": "Gomper", "featured_artists": [] },
+                    { "title": "2000 Light Years from Home", "featured_artists": [] },
+                    { "title": "On with the Show", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Beggars Banquet",
+                "release_date": "1968-12-06",
+                "tracks": [
+                    { "title": "Sympathy for the Devil", "featured_artists": [] },
+                    { "title": "No Expectations", "featured_artists": [] },
+                    { "title": "Dear Doctor", "featured_artists": [] },
+                    { "title": "Parachute Woman", "featured_artists": [] },
+                    { "title": "Jigsaw Puzzle", "featured_artists": [] },
+                    { "title": "Street Fighting Man", "featured_artists": [] },
+                    { "title": "Factory Girl", "featured_artists": [] },
+                    { "title": "Salt of the Earth", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Let It Bleed",
+                "release_date": "1969-12-05",
+                "tracks": [
+                    { "title": "Gimme Shelter", "featured_artists": [] },
+                    { "title": "Love in Vain", "featured_artists": [] },
+                    { "title": "Country Honk", "featured_artists": [] },
+                    { "title": "Live with Me", "featured_artists": [] },
+                    { "title": "Let It Bleed", "featured_artists": [] },
+                    { "title": "Midnight Rambler", "featured_artists": [] },
+                    { "title": "You Can't Always Get What You Want", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Sticky Fingers",
+                "release_date": "1971-04-23",
+                "tracks": [
+                    { "title": "Brown Sugar", "featured_artists": [] },
+                    { "title": "Sway", "featured_artists": [] },
+                    { "title": "Wild Horses", "featured_artists": [] },
+                    { "title": "Can't You Hear Me Knocking", "featured_artists": [] },
+                    { "title": "You Gotta Move", "featured_artists": [] },
+                    { "title": "Bitch", "featured_artists": [] },
+                    { "title": "I Got the Blues", "featured_artists": [] },
+                    { "title": "Sister Morphine", "featured_artists": [] },
+                    { "title": "Dead Flowers", "featured_artists": [] },
+                    { "title": "Moonlight Mile", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Exile on Main St.",
+                "release_date": "1972-05-12",
+                "tracks": [
+                    { "title": "Rocks Off", "featured_artists": [] },
+                    { "title": "Rip This Joint", "featured_artists": [] },
+                    { "title": "Shake Your Hips", "featured_artists": [] },
+                    { "title": "Casino Boogie", "featured_artists": [] },
+                    { "title": "Tumbling Dice", "featured_artists": [] },
+                    { "title": "Sweet Virginia", "featured_artists": [] },
+                    { "title": "Happy", "featured_artists": [] },
+                    { "title": "Torn and Frayed", "featured_artists": [] },
+                    { "title": "Sweet Black Angel", "featured_artists": [] },
+                    { "title": "Loving Cup", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Goats Head Soup",
+                "release_date": "1973-08-31",
+                "tracks": [
+                    { "title": "Dancing with Mr. D", "featured_artists": [] },
+                    { "title": "100 Years Ago", "featured_artists": [] },
+                    { "title": "Coming Down Again", "featured_artists": [] },
+                    { "title": "Doo Doo Doo Doo Doo (Heartbreaker)", "featured_artists": [] },
+                    { "title": "Angie", "featured_artists": [] },
+                    { "title": "Silver Train", "featured_artists": [] },
+                    { "title": "Hide Your Love", "featured_artists": [] },
+                    { "title": "Winter", "featured_artists": [] },
+                    { "title": "Can You Hear the Music", "featured_artists": [] },
+                    { "title": "Star Star", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "It's Only Rock 'n Roll",
+                "release_date": "1974-10-18",
+                "tracks": [
+                    { "title": "If You Can't Rock Me", "featured_artists": [] },
+                    { "title": "Ain't Too Proud to Beg", "featured_artists": [] },
+                    { "title": "It's Only Rock 'n Roll (But I Like It)", "featured_artists": [] },
+                    { "title": "Till the Next Goodbye", "featured_artists": [] },
+                    { "title": "Time Waits for No One", "featured_artists": [] },
+                    { "title": "Luxury", "featured_artists": [] },
+                    { "title": "Dance Little Sister", "featured_artists": [] },
+                    { "title": "If You Really Want to Be My Friend", "featured_artists": [] },
+                    { "title": "Short and Curlies", "featured_artists": [] },
+                    { "title": "Fingerprint File", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Black and Blue",
+                "release_date": "1976-04-23",
+                "tracks": [
+                    { "title": "Hot Stuff", "featured_artists": [] },
+                    { "title": "Hand of Fate", "featured_artists": [] },
+                    { "title": "Cherry Oh Baby", "featured_artists": [] },
+                    { "title": "Memory Motel", "featured_artists": [] },
+                    { "title": "Hey Negrita", "featured_artists": [] },
+                    { "title": "Crazy Mama", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Some Girls",
+                "release_date": "1978-06-09",
+                "tracks": [
+                    { "title": "Miss You", "featured_artists": [] },
+                    { "title": "When the Whip Comes Down", "featured_artists": [] },
+                    { "title": "Imagination", "featured_artists": [] },
+                    { "title": "Some Girls", "featured_artists": [] },
+                    { "title": "Lies", "featured_artists": [] },
+                    { "title": "Far Away Eyes", "featured_artists": [] },
+                    { "title": "Respectable", "featured_artists": [] },
+                    { "title": "Before They Make Me Run", "featured_artists": [] },
+                    { "title": "Beast of Burden", "featured_artists": [] },
+                    { "title": "Shattered", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Emotional Rescue",
+                "release_date": "1980-06-20",
+                "tracks": [
+                    { "title": "Dance, Pt. 1", "featured_artists": [] },
+                    { "title": "Summer Romance", "featured_artists": [] },
+                    { "title": "Send It to Me", "featured_artists": [] },
+                    { "title": "Let Me Go", "featured_artists": [] },
+                    { "title": "Indian Girl", "featured_artists": [] },
+                    { "title": "Where the Boys Go", "featured_artists": [] },
+                    { "title": "Down in the Hole", "featured_artists": [] },
+                    { "title": "Emotional Rescue", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tattoo You",
+                "release_date": "1981-08-24",
+                "tracks": [
+                    { "title": "Start Me Up", "featured_artists": [] },
+                    { "title": "Hang Fire", "featured_artists": [] },
+                    { "title": "Slave", "featured_artists": [] },
+                    { "title": "Little T&A", "featured_artists": [] },
+                    { "title": "Black Limousine", "featured_artists": [] },
+                    { "title": "Neighbours", "featured_artists": [] },
+                    { "title": "Worried About You", "featured_artists": [] },
+                    { "title": "Tops", "featured_artists": [] },
+                    { "title": "Heaven", "featured_artists": [] },
+                    { "title": "No Use in Crying", "featured_artists": [] },
+                    { "title": "Waiting on a Friend", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Undercover",
+                "release_date": "1983-11-07",
+                "tracks": [
+                    { "title": "Undercover of the Night", "featured_artists": [] },
+                    { "title": "She Was Hot", "featured_artists": [] },
+                    { "title": "Tie You Up (The Pain of Love)", "featured_artists": [] },
+                    { "title": "Wanna Hold You", "featured_artists": [] },
+                    { "title": "Feel On Baby", "featured_artists": [] },
+                    { "title": "Too Much Blood", "featured_artists": [] },
+                    { "title": "Pretty Beat Up", "featured_artists": [] },
+                    { "title": "Too Tough", "featured_artists": [] },
+                    { "title": "All the Way Down", "featured_artists": [] },
+                    { "title": "It Must Be Hell", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Dirty Work",
+                "release_date": "1986-03-24",
+                "tracks": [
+                    { "title": "One Hit (To the Body)", "featured_artists": [] },
+                    { "title": "Fight", "featured_artists": [] },
+                    { "title": "Harlem Shuffle", "featured_artists": [] },
+                    { "title": "Hold Back", "featured_artists": [] },
+                    { "title": "Sleep Tonight", "featured_artists": [] },
+                    { "title": "Fancy Man Blues", "featured_artists": [] },
+                    { "title": "Too Rude", "featured_artists": [] },
+                    { "title": "Winning Ugly", "featured_artists": [] },
+                    { "title": "Back to Zero", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Steel Wheels",
+                "release_date": "1989-08-30",
+                "tracks": [
+                    { "title": "Mixed Emotions", "featured_artists": [] },
+                    { "title": "Sad Sad Sad", "featured_artists": [] },
+                    { "title": "Hearts for Sale", "featured_artists": [] },
+                    { "title": "Blinded by Love", "featured_artists": [] },
+                    { "title": "Rock and a Hard Place", "featured_artists": [] },
+                    { "title": "Can't Be Seen", "featured_artists": [] },
+                    { "title": "Almost Hear You Sigh", "featured_artists": [] },
+                    { "title": "Continental Drift", "featured_artists": [] },
+                    { "title": "Break the Spell", "featured_artists": [] },
+                    { "title": "Slipping Away", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Voodoo Lounge",
+                "release_date": "1994-07-11",
+                "tracks": [
+                    { "title": "Love Is Strong", "featured_artists": [] },
+                    { "title": "You Got Me Rocking", "featured_artists": [] },
+                    { "title": "I Go Wild", "featured_artists": [] },
+                    { "title": "Saint of Me", "featured_artists": [] },
+                    { "title": "Out of Control", "featured_artists": [] },
+                    { "title": "New Faces", "featured_artists": [] },
+                    { "title": "Moon Is Up", "featured_artists": [] },
+                    { "title": "Angie", "featured_artists": [] },
+                    { "title": "Blinded by Love", "featured_artists": [] },
+                    { "title": "Slipping Away", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Bridges to Babylon",
+                "release_date": "1997-09-29",
+                "tracks": [
+                    { "title": "Flip the Switch", "featured_artists": [] },
+                    { "title": "Anybody Seen My Baby?", "featured_artists": [] },
+                    { "title": "Low Down", "featured_artists": [] },
+                    { "title": "Already Over Me", "featured_artists": [] },
+                    { "title": "Gunface", "featured_artists": [] },
+                    { "title": "You Don't Have to Mean It", "featured_artists": [] },
+                    { "title": "Saint of Me", "featured_artists": [] },
+                    { "title": "Might as Well Get Juiced", "featured_artists": [] },
+                    { "title": "Always Suffering", "featured_artists": [] },
+                    { "title": "Too Tight", "featured_artists": [] },
+                    { "title": "Thief in the Night", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "A Bigger Bang",
+                "release_date": "2005-09-06",
+                "tracks": [
+                    { "title": "Start Me Up", "featured_artists": [] },
+                    { "title": "Rough Justice", "featured_artists": [] },
+                    { "title": "Let Me Down Slow", "featured_artists": [] },
+                    { "title": "Rain Fall Down", "featured_artists": [] },
+                    { "title": "Streets of Love", "featured_artists": [] },
+                    { "title": "Back of My Hand", "featured_artists": [] },
+                    { "title": "Infamy", "featured_artists": [] },
+                    { "title": "On Fire", "featured_artists": [] },
+                    { "title": "Sweet Neo Con", "featured_artists": [] },
+                    { "title": "This Place Is Empty", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Blue & Lonesome",
+                "release_date": "2016-12-02",
+                "tracks": [
+                    { "title": "Just Your Fool", "featured_artists": [] },
+                    { "title": "Commit a Crime", "featured_artists": [] },
+                    { "title": "Blue and Lonesome", "featured_artists": [] },
+                    { "title": "All of Your Love", "featured_artists": [] },
+                    { "title": "I Can't Quit You Baby", "featured_artists": [] },
+                    { "title": "Everybody Knows About My Good Thing", "featured_artists": [] },
+                    { "title": "Love in Vain", "featured_artists": [] },
+                    { "title": "Little Rain", "featured_artists": [] },
+                    { "title": "Just Like I Treat You", "featured_artists": [] },
+                    { "title": "I Gotta Go", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Hackney Diamonds",
+                "release_date": "2023-10-20",
+                "tracks": [
+                    { "title": "Angry", "featured_artists": [] },
+                    { "title": "Get Close", "featured_artists": [] },
+                    { "title": "Depending on You", "featured_artists": [] },
+                    { "title": "Bite My Head Off", "featured_artists": [] },
+                    { "title": "Whole Wide World", "featured_artists": [] },
+                    { "title": "Dreams", "featured_artists": [] },
+                    { "title": "Mess It Up", "featured_artists": [] },
+                    { "title": "Live by the Sword", "featured_artists": [] },
+                    { "title": "Driving Me Too Hard", "featured_artists": [] },
+                    { "title": "Tell Me Straight", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Guns N' Roses",
+        "bio_url": "https://en.wikipedia.org/wiki/Guns_N%27_Roses",
+        "bio_birthdate": "1985-01-01",
+        "bio_summary": "Guns N' Roses is an American hard rock band from Los Angeles formed in 1985. The classic lineup, as signed to Geffen Records in 1986, consisted of vocalist Axl Rose, lead guitarist Slash, rhythm guitarist Izzy Stradlin, bassist Duff McKagan, and drummer Steven Adler.",
+        "img_url": "/assets/Photos/Guns-N-Roses.jpg",
+        "location_city": "Los Angeles",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Appetite for Destruction",
+                "release_date": "1987-07-21",
+                "tracks": [
+                    { "title": "Welcome to the Jungle", "featured_artists": [] },
+                    { "title": "It's So Easy", "featured_artists": [] },
+                    { "title": "Nightrain", "featured_artists": [] },
+                    { "title": "Out Ta Get Me", "featured_artists": [] },
+                    { "title": "Mr. Brownstone", "featured_artists": [] },
+                    { "title": "Paradise City", "featured_artists": [] },
+                    { "title": "My Michelle", "featured_artists": [] },
+                    { "title": "Think About You", "featured_artists": [] },
+                    { "title": "Sweet Child o' Mine", "featured_artists": [] },
+                    { "title": "You're Crazy", "featured_artists": [] },
+                    { "title": "Anything Goes", "featured_artists": [] },
+                    { "title": "Rocket Queen", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "G N' R Lies",
+                "release_date": "1988-11-17",
+                "tracks": [
+                    { "title": "Reckless Life", "featured_artists": [] },
+                    { "title": "Nice Boys", "featured_artists": [] },
+                    { "title": "Move to the City", "featured_artists": [] },
+                    { "title": "Mama Kin", "featured_artists": [] },
+                    { "title": "Patience", "featured_artists": [] },
+                    { "title": "Used to Love Her", "featured_artists": [] },
+                    { "title": "You're Crazy", "featured_artists": [] },
+                    { "title": "One in a Million", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Use Your Illusion I",
+                "release_date": "1991-09-17",
+                "tracks": [
+                    { "title": "Right Next Door to Hell", "featured_artists": [] },
+                    { "title": "Dust in the Wind", "featured_artists": [] },
+                    { "title": "Live and Let Die", "featured_artists": [] },
+                    { "title": "Don't Cry", "featured_artists": [] },
+                    { "title": "November Rain", "featured_artists": [] },
+                    { "title": "The Garden", "featured_artists": [] },
+                    { "title": "Dead Horse", "featured_artists": [] },
+                    { "title": "Bad Obsession", "featured_artists": [] },
+                    { "title": "Double Talkin' Jive", "featured_artists": [] },
+                    { "title": "November Rain", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Use Your Illusion II",
+                "release_date": "1991-09-17",
+                "tracks": [
+                    { "title": "Civil War", "featured_artists": [] },
+                    { "title": "14 Years", "featured_artists": [] },
+                    { "title": "Yesterdays", "featured_artists": [] },
+                    { "title": "Knockin' on Heaven's Door", "featured_artists": [] },
+                    { "title": "Get in the Ring", "featured_artists": [] },
+                    { "title": "Pretty Tied Up", "featured_artists": [] },
+                    { "title": "Locomotive", "featured_artists": [] },
+                    { "title": "So Fine", "featured_artists": [] },
+                    { "title": "Estranged", "featured_artists": [] },
+                    { "title": "Don't Cry", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Spaghetti Incident?",
+                "release_date": "1993-11-23",
+                "tracks": [
+                    { "title": "Since I Don't Have You", "featured_artists": [] },
+                    { "title": "New Rose", "featured_artists": [] },
+                    { "title": "Down on the Farm", "featured_artists": [] },
+                    { "title": "Human Being", "featured_artists": [] },
+                    { "title": "Raw Power", "featured_artists": [] },
+                    { "title": "Ain't It Fun", "featured_artists": [] },
+                    { "title": "Buick Makane", "featured_artists": [] },
+                    { "title": "I Don't Care About You", "featured_artists": [] },
+                    { "title": "Don't Cry", "featured_artists": [] },
+                    { "title": "Forget Me Nots", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Chinese Democracy",
+                "release_date": "2008-11-23",
+                "tracks": [
+                    { "title": "Chinese Democracy", "featured_artists": [] },
+                    { "title": "Shackler's Revenge", "featured_artists": [] },
+                    { "title": "Better", "featured_artists": [] },
+                    { "title": "Street of Dreams", "featured_artists": [] },
+                    { "title": "If the World", "featured_artists": [] },
+                    { "title": "There Was a Time", "featured_artists": [] },
+                    { "title": "Catcher in the Rye", "featured_artists": [] },
+                    { "title": "Scraped", "featured_artists": [] },
+                    { "title": "Riad N' the Bedouins", "featured_artists": [] },
+                    { "title": "Sorry", "featured_artists": [] },
+                    { "title": "I.R.S.", "featured_artists": [] },
+                    { "title": "Madagascar", "featured_artists": [] },
+                    { "title": "This I Love", "featured_artists": [] },
+                    { "title": "Prostitute", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Appetite for Destruction (Deluxe Edition)",
+                "release_date": "2018-06-29",
+                "tracks": [
+                    { "title": "Welcome to the Jungle", "featured_artists": [] },
+                    { "title": "It's So Easy", "featured_artists": [] },
+                    { "title": "Nightrain", "featured_artists": [] },
+                    { "title": "Out Ta Get Me", "featured_artists": [] },
+                    { "title": "Mr. Brownstone", "featured_artists": [] },
+                    { "title": "Paradise City", "featured_artists": [] },
+                    { "title": "My Michelle", "featured_artists": [] },
+                    { "title": "Think About You", "featured_artists": [] },
+                    { "title": "Sweet Child o' Mine", "featured_artists": [] },
+                    { "title": "You're Crazy", "featured_artists": [] },
+                    { "title": "Anything Goes", "featured_artists": [] },
+                    { "title": "Rocket Queen", "featured_artists": [] },
+                    { "title": "Move to the City", "featured_artists": [] },
+                    { "title": "Don't Cry", "featured_artists": [] },
+                    { "title": "One in a Million", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Nirvana",
+        "bio_url": "https://en.wikipedia.org/wiki/Nirvana_(band)",
+        "bio_birthdate": "1987-01-01",
+        "bio_summary": "Nirvana was an American grunge band that was formed in Aberdeen, Washington in 1987. Nirvana disbanded after Kurt Cobain committed suicide in 1994.",
+        "img_url": "/assets/Photos/Nirvana.jpg",
+        "location_city": "Aberdeen",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Bleach",
+                "release_date": "1989-06-15",
+                "tracks": [
+                    { "title": "Blew", "featured_artists": [] },
+                    { "title": "Floyd the Barber", "featured_artists": [] },
+                    { "title": "About a Girl", "featured_artists": [] },
+                    { "title": "School", "featured_artists": [] },
+                    { "title": "Love Buzz", "featured_artists": [] },
+                    { "title": "Paper Cuts", "featured_artists": [] },
+                    { "title": "Negative Creep", "featured_artists": [] },
+                    { "title": "Scoff", "featured_artists": [] },
+                    { "title": "Swap Meet", "featured_artists": [] },
+                    { "title": "Mr. Moustache", "featured_artists": [] },
+                    { "title": "Sifting", "featured_artists": [] },
+                    { "title": "Big Cheese", "featured_artists": [] },
+                    { "title": "Downer", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Nevermind",
+                "release_date": "1991-09-24",
+                "tracks": [
+                    { "title": "Smells Like Teen Spirit", "featured_artists": [] },
+                    { "title": "In Bloom", "featured_artists": [] },
+                    { "title": "Come as You Are", "featured_artists": [] },
+                    { "title": "Breed", "featured_artists": [] },
+                    { "title": "Lithium", "featured_artists": [] },
+                    { "title": "Polly", "featured_artists": [] },
+                    { "title": "Territorial Pissings", "featured_artists": [] },
+                    { "title": "Drain You", "featured_artists": [] },
+                    { "title": "Lounge Act", "featured_artists": [] },
+                    { "title": "Stay Away", "featured_artists": [] },
+                    { "title": "On a Plain", "featured_artists": [] },
+                    { "title": "Something in the Way", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "In Utero",
+                "release_date": "1993-09-21",
+                "tracks": [
+                    { "title": "Serve the Servants", "featured_artists": [] },
+                    { "title": "Scentless Apprentice", "featured_artists": [] },
+                    { "title": "Heart-Shaped Box", "featured_artists": [] },
+                    { "title": "Rape Me", "featured_artists": [] },
+                    { "title": "Frances Farmer Will Have Her Revenge on Seattle", "featured_artists": [] },
+                    { "title": "Dumb", "featured_artists": [] },
+                    { "title": "Very Ape", "featured_artists": [] },
+                    { "title": "Milk It", "featured_artists": [] },
+                    { "title": "Pennyroyal Tea", "featured_artists": [] },
+                    { "title": "Radio Friendly Unit Shifter", "featured_artists": [] },
+                    { "title": "tourette's", "featured_artists": [] },
+                    { "title": "All Apologies", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Who",
+        "bio_url": "https://en.wikipedia.org/wiki/The_Who",
+        "bio_birthdate": "1964-01-01",
+        "bio_summary": "The Who is English hard rock band formed in London, England in 1964. The members are Roger Daltrey (lead singer), Pete Townshend (guitarist), John Entwistle (bassist), and Keith Moon (drums).",
+        "img_url": "/assets/Photos/The_Who.jpg",
+        "location_city": "London",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "My Generation",
+                "release_date": "1965-12-03",
+                "tracks": [
+                    { "title": "My Generation", "featured_artists": [] },
+                    { "title": "I Don't Mind", "featured_artists": [] },
+                    { "title": "The Goods Gone", "featured_artists": [] },
+                    { "title": "Out in the Street", "featured_artists": [] },
+                    { "title": "I Can't Explain", "featured_artists": [] },
+                    { "title": "The Kids Are Alright", "featured_artists": [] },
+                    { "title": "A Legal Matter", "featured_artists": [] },
+                    { "title": "The Ox", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "A Quick One",
+                "release_date": "1966-12-09",
+                "tracks": [
+                    { "title": "Run Run Run", "featured_artists": [] },
+                    { "title": "Boris the Spider", "featured_artists": [] },
+                    { "title": "I Need You", "featured_artists": [] },
+                    { "title": "Whiskey Man", "featured_artists": [] },
+                    { "title": "Heat Wave", "featured_artists": [] },
+                    { "title": "Cobwebs and Strange", "featured_artists": [] },
+                    { "title": "Don't Look Away", "featured_artists": [] },
+                    { "title": "See My Way", "featured_artists": [] },
+                    { "title": "So Sad About Us", "featured_artists": [] },
+                    { "title": "A Quick One, While He's Away", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Who Sell Out",
+                "release_date": "1967-12-15",
+                "tracks": [
+                    { "title": "Armenia City in the Sky", "featured_artists": [] },
+                    { "title": "Heinz Baked Beans", "featured_artists": [] },
+                    { "title": "Mary Anne with the Shaky Hand", "featured_artists": [] },
+                    { "title": "Odorono", "featured_artists": [] },
+                    { "title": "Tattoo", "featured_artists": [] },
+                    { "title": "Our Love Was", "featured_artists": [] },
+                    { "title": "I Can See for Miles", "featured_artists": [] },
+                    { "title": "Quick One, While He's Away", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tommy",
+                "release_date": "1969-05-19",
+                "tracks": [
+                    { "title": "Overture", "featured_artists": [] },
+                    { "title": "It's a Boy", "featured_artists": [] },
+                    { "title": "1921", "featured_artists": [] },
+                    { "title": "Amazing Journey", "featured_artists": [] },
+                    { "title": "Sparks", "featured_artists": [] },
+                    { "title": "Eyesight to the Blind", "featured_artists": [] },
+                    { "title": "Christmas", "featured_artists": [] },
+                    { "title": "Cousin Kevin", "featured_artists": [] },
+                    { "title": "The Acid Queen", "featured_artists": [] },
+                    { "title": "Underture", "featured_artists": [] },
+                    { "title": "Do You Think It's Alright?", "featured_artists": [] },
+                    { "title": "Fiddle About", "featured_artists": [] },
+                    { "title": "Pinball Wizard", "featured_artists": [] },
+                    { "title": "There's a Doctor", "featured_artists": [] },
+                    { "title": "Go to the Mirror!", "featured_artists": [] },
+                    { "title": "Tommy, Can You Hear Me?", "featured_artists": [] },
+                    { "title": "Smash the Mirror", "featured_artists": [] },
+                    { "title": "Sensation", "featured_artists": [] },
+                    { "title": "Miracle Cure", "featured_artists": [] },
+                    { "title": "Sally Simpson", "featured_artists": [] },
+                    { "title": "I'm Free", "featured_artists": [] },
+                    { "title": "Welcome", "featured_artists": [] },
+                    { "title": "Tommy's Holiday Camp", "featured_artists": [] },
+                    { "title": "We're Not Gonna Take It", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Who's Next",
+                "release_date": "1971-08-27",
+                "tracks": [
+                    { "title": "Baba O'Riley", "featured_artists": [] },
+                    { "title": "Bargain", "featured_artists": [] },
+                    { "title": "Love Ain't for Keeping", "featured_artists": [] },
+                    { "title": "My Wife", "featured_artists": [] },
+                    { "title": "The Song Is Over", "featured_artists": [] },
+                    { "title": "Getting in Tune", "featured_artists": [] },
+                    { "title": "Going Mobile", "featured_artists": [] },
+                    { "title": "Behind Blue Eyes", "featured_artists": [] },
+                    { "title": "Won't Get Fooled Again", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Quadrophenia",
+                "release_date": "1973-10-26",
+                "tracks": [
+                    { "title": "I Am the Sea", "featured_artists": [] },
+                    { "title": "The Real Me", "featured_artists": [] },
+                    { "title": "I'm One", "featured_artists": [] },
+                    { "title": "5:15", "featured_artists": [] },
+                    { "title": "Sea and Sand", "featured_artists": [] },
+                    { "title": "Drowned", "featured_artists": [] },
+                    { "title": "Bell Boy", "featured_artists": [] },
+                    { "title": "Doctor Jimmy", "featured_artists": [] },
+                    { "title": "The Rock", "featured_artists": [] },
+                    { "title": "Love, Reign o'er Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Who by Numbers",
+                "release_date": "1975-10-03",
+                "tracks": [
+                    { "title": "Slip Kid", "featured_artists": [] },
+                    { "title": "However Much I Booze", "featured_artists": [] },
+                    { "title": "Squeeze Box", "featured_artists": [] },
+                    { "title": "Dreaming from the Waist", "featured_artists": [] },
+                    { "title": "Imagine a Man", "featured_artists": [] },
+                    { "title": "Success Story", "featured_artists": ["John Entwistle"] },
+                    { "title": "They Are All in Love", "featured_artists": [] },
+                    { "title": "Blue, Red and Grey", "featured_artists": [] },
+                    { "title": "How Many Friends", "featured_artists": [] },
+                    { "title": "In a Hand or a Face", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Who Are You",
+                "release_date": "1978-08-18",
+                "tracks": [
+                    { "title": "New Song", "featured_artists": [] },
+                    { "title": "Had Enough", "featured_artists": [] },
+                    { "title": "905", "featured_artists": [] },
+                    { "title": "Sister Disco", "featured_artists": [] },
+                    { "title": "Music Must Change", "featured_artists": [] },
+                    { "title": "Trick of the Light", "featured_artists": [] },
+                    { "title": "Guitar and Pen", "featured_artists": [] },
+                    { "title": "Love Is Coming Down", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Face Dances",
+                "release_date": "1981-03-05",
+                "tracks": [
+                    { "title": "You Better You Bet", "featured_artists": [] },
+                    { "title": "Don't Let Go the Coat", "featured_artists": [] },
+                    { "title": "Cache Cache", "featured_artists": [] },
+                    { "title": "The Quiet One", "featured_artists": [] },
+                    { "title": "Did You Steal My Money?", "featured_artists": [] },
+                    { "title": "How Can You Do It Alone", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "It's Hard",
+                "release_date": "1982-09-04",
+                "tracks": [
+                    { "title": "Athena", "featured_artists": [] },
+                    { "title": "It's Hard", "featured_artists": [] },
+                    { "title": "Cooks County", "featured_artists": [] },
+                    { "title": "Dangerous", "featured_artists": [] },
+                    { "title": "Eminence Front", "featured_artists": [] },
+                    { "title": "I've Known No War", "featured_artists": [] },
+                    { "title": "One Life's Enough", "featured_artists": [] },
+                    { "title": "One at a Time", "featured_artists": [] },
+                    { "title": "Why Did I Fall for That", "featured_artists": [] },
+                    { "title": "A Man Is a Man", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Endless Wire",
+                "release_date": "2006-10-30",
+                "tracks": [
+                    { "title": "Fragments", "featured_artists": [] },
+                    { "title": "A Man in a Purple Dress", "featured_artists": [] },
+                    { "title": "Mike Post Theme", "featured_artists": [] },
+                    { "title": "In the Ether", "featured_artists": [] },
+                    { "title": "Black Widow's Eyes", "featured_artists": [] },
+                    { "title": "Two Thousand Years", "featured_artists": [] },
+                    { "title": "God Speaks of Marty Robbins", "featured_artists": [] },
+                    { "title": "It's Not Enough", "featured_artists": [] },
+                    { "title": "You Stand by Me", "featured_artists": [] },
+                    { "title": "Sound Round", "featured_artists": [] },
+                    { "title": "Pick Up the Peace", "featured_artists": [] },
+                    { "title": "Unholy Trinity", "featured_artists": [] },
+                    { "title": "Trilby's Piano", "featured_artists": [] },
+                    { "title": "Endless Wire", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Black Sabbath",
+        "bio_url": "https://en.wikipedia.org/wiki/Black_Sabbath",
+        "bio_birthdate": "1968-01-01",
+        "bio_summary": "Black Sabbath are an English rock band, formed in Birmingham in 1968, by guitarist and main songwriter Tony Iommi, bassist and main lyricist Geezer Butler, singer Ozzy Osbourne, and drummer Bill Ward.",
+        "img_url": "/assets/Photos/Sabbath.jpg",
+        "location_city": "Birmingham",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Black Sabbath",
+                "release_date": "1970-02-13",
+                "tracks": [
+                    { "title": "Black Sabbath", "featured_artists": [] },
+                    { "title": "The Wizard", "featured_artists": [] },
+                    { "title": "Behind the Wall of Sleep", "featured_artists": [] },
+                    { "title": "N.I.B.", "featured_artists": [] },
+                    { "title": "Evil Woman", "featured_artists": [] },
+                    { "title": "Sleeping Village", "featured_artists": [] },
+                    { "title": "Warning", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Paranoid",
+                "release_date": "1970-09-18",
+                "tracks": [
+                    { "title": "War Pigs", "featured_artists": [] },
+                    { "title": "Paranoid", "featured_artists": [] },
+                    { "title": "Planet Caravan", "featured_artists": [] },
+                    { "title": "Iron Man", "featured_artists": [] },
+                    { "title": "Electric Funeral", "featured_artists": [] },
+                    { "title": "Hand of Doom", "featured_artists": [] },
+                    { "title": "Rat Salad", "featured_artists": [] },
+                    { "title": "Fairies Wear Boots", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Master of Reality",
+                "release_date": "1971-08-06",
+                "tracks": [
+                    { "title": "Sweet Leaf", "featured_artists": [] },
+                    { "title": "After Forever", "featured_artists": [] },
+                    { "title": "Embryo", "featured_artists": [] },
+                    { "title": "Children of the Grave", "featured_artists": [] },
+                    { "title": "Orchid", "featured_artists": [] },
+                    { "title": "Lord of This World", "featured_artists": [] },
+                    { "title": "Solitude", "featured_artists": [] },
+                    { "title": "Into the Void", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Vol. 4",
+                "release_date": "1972-09-25",
+                "tracks": [
+                    { "title": "Wheels of Confusion", "featured_artists": [] },
+                    { "title": "Tomorrow's Dream", "featured_artists": [] },
+                    { "title": "Changes", "featured_artists": [] },
+                    { "title": "FX", "featured_artists": [] },
+                    { "title": "Supernaut", "featured_artists": [] },
+                    { "title": "Snowblind", "featured_artists": [] },
+                    { "title": "Cornucopia", "featured_artists": [] },
+                    { "title": "Laguna Sunrise", "featured_artists": [] },
+                    { "title": "St. Vitus Dance", "featured_artists": [] },
+                    { "title": "Under the Sun", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Sabbath Bloody Sabbath",
+                "release_date": "1973-12-01",
+                "tracks": [
+                    { "title": "Sabbath Bloody Sabbath", "featured_artists": [] },
+                    { "title": "A National Acrobat", "featured_artists": [] },
+                    { "title": "Fluff", "featured_artists": [] },
+                    { "title": "Sabbra Cadabra", "featured_artists": [] },
+                    { "title": "Killing Yourself to Live", "featured_artists": [] },
+                    { "title": "Who Are You?", "featured_artists": [] },
+                    { "title": "Looking for Today", "featured_artists": [] },
+                    { "title": "Spiral Architect", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Sabotage",
+                "release_date": "1975-07-28",
+                "tracks": [
+                    { "title": "Hole in the Sky", "featured_artists": [] },
+                    { "title": "Don't Start (Too Late)", "featured_artists": [] },
+                    { "title": "Symptom of the Universe", "featured_artists": [] },
+                    { "title": "Megalomania", "featured_artists": [] },
+                    { "title": "The Thrill of It All", "featured_artists": [] },
+                    { "title": "Supertzar", "featured_artists": [] },
+                    { "title": "Am I Going Insane (Radio)", "featured_artists": [] },
+                    { "title": "The Writ", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Technical Ecstasy",
+                "release_date": "1976-09-25",
+                "tracks": [
+                    { "title": "Back Street Kids", "featured_artists": [] },
+                    { "title": "You Won't Change Me", "featured_artists": [] },
+                    { "title": "It's Alright", "featured_artists": [] },
+                    { "title": "Gypsy", "featured_artists": [] },
+                    { "title": "All Moving Parts (Stand Still)", "featured_artists": [] },
+                    { "title": "Rock 'n' Roll Doctor", "featured_artists": [] },
+                    { "title": "She's Gone", "featured_artists": [] },
+                    { "title": "Dirty Women", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Never Say Die!",
+                "release_date": "1978-09-28",
+                "tracks": [
+                    { "title": "Never Say Die", "featured_artists": [] },
+                    { "title": "Johnny Blade", "featured_artists": [] },
+                    { "title": "Junior's Eyes", "featured_artists": [] },
+                    { "title": "A Hard Road", "featured_artists": [] },
+                    { "title": "Shock Wave", "featured_artists": [] },
+                    { "title": "Air Dance", "featured_artists": [] },
+                    { "title": "Over to You", "featured_artists": [] },
+                    { "title": "Breakout", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Heaven and Hell",
+                "release_date": "1980-04-25",
+                "tracks": [
+                    { "title": "Neon Knights", "featured_artists": [] },
+                    { "title": "Children of the Sea", "featured_artists": [] },
+                    { "title": "Lady Evil", "featured_artists": [] },
+                    { "title": "Heaven and Hell", "featured_artists": [] },
+                    { "title": "Wishing Well", "featured_artists": [] },
+                    { "title": "Die Young", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Mob Rules",
+                "release_date": "1981-11-04",
+                "tracks": [
+                    { "title": "Turn Up the Night", "featured_artists": [] },
+                    { "title": "Voodoo", "featured_artists": [] },
+                    { "title": "The Sign of the Southern Cross", "featured_artists": [] },
+                    { "title": "E5150", "featured_artists": [] },
+                    { "title": "Mob Rules", "featured_artists": [] },
+                    { "title": "Country Girl", "featured_artists": [] },
+                    { "title": "Slipping Away", "featured_artists": [] },
+                    { "title": "Falling Off the Edge of the World", "featured_artists": [] },
+                    { "title": "Over and Over", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Born Again",
+                "release_date": "1983-08-07",
+                "tracks": [
+                    { "title": "Trashed", "featured_artists": [] },
+                    { "title": "Stonehenge", "featured_artists": [] },
+                    { "title": "Disturbing the Priest", "featured_artists": [] },
+                    { "title": "The Dark", "featured_artists": [] },
+                    { "title": "Zero the Hero", "featured_artists": [] },
+                    { "title": "Digital Bitch", "featured_artists": [] },
+                    { "title": "Born Again", "featured_artists": [] },
+                    { "title": "Hot Line", "featured_artists": [] },
+                    { "title": "Keep It Warm", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Eternal Idol",
+                "release_date": "1987-11-23",
+                "tracks": [
+                    { "title": "The Shining", "featured_artists": [] },
+                    { "title": "Ancient Warrior", "featured_artists": [] },
+                    { "title": "Hard Life to Love", "featured_artists": [] },
+                    { "title": "Glory Ride", "featured_artists": [] },
+                    { "title": "Born to Lose", "featured_artists": [] },
+                    { "title": "Nightmare", "featured_artists": [] },
+                    { "title": "The Ghost of the Wizard", "featured_artists": [] },
+                    { "title": "The Devil Cried", "featured_artists": [] },
+                    { "title": "Eternal Idol", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Headless Cross",
+                "release_date": "1989-04-21",
+                "tracks": [
+                    { "title": "The Gates of Hell", "featured_artists": [] },
+                    { "title": "Headless Cross", "featured_artists": [] },
+                    { "title": "Devil & Daughter", "featured_artists": [] },
+                    { "title": "When Death Calls", "featured_artists": [] },
+                    { "title": "Kill in the Spirit World", "featured_artists": [] },
+                    { "title": "I", "featured_artists": [] },
+                    { "title": "The Eternal Idol", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Tyr",
+                "release_date": "1990-08-13",
+                "tracks": [
+                    { "title": "Anno Mundi (The Vision)", "featured_artists": [] },
+                    { "title": "The Law Maker", "featured_artists": [] },
+                    { "title": "Jerusalem", "featured_artists": [] },
+                    { "title": "The Sabbath Stones", "featured_artists": [] },
+                    { "title": "The Battle of Tyr", "featured_artists": [] },
+                    { "title": "Born to Lose", "featured_artists": [] },
+                    { "title": "Valhalla", "featured_artists": [] },
+                    { "title": "Eternal Idol", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Cross Purposes",
+                "release_date": "1994-01-31",
+                "tracks": [
+                    { "title": "I Witness", "featured_artists": [] },
+                    { "title": "Cross of Thorns", "featured_artists": [] },
+                    { "title": "Psychophobia", "featured_artists": [] },
+                    { "title": "Virtual Death", "featured_artists": [] },
+                    { "title": "Immaculate Deception", "featured_artists": [] },
+                    { "title": "Time Is Mine", "featured_artists": [] },
+                    { "title": "Sins of the Father", "featured_artists": [] },
+                    { "title": "Eating the Cannibals", "featured_artists": [] },
+                    { "title": "Back to Eden", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Forbidden",
+                "release_date": "1995-06-13",
+                "tracks": [
+                    { "title": "The Illusion of Power", "featured_artists": [] },
+                    { "title": "Get a Grip", "featured_artists": [] },
+                    { "title": "Can't Get Close Enough", "featured_artists": [] },
+                    { "title": "Shaking Off the Chains", "featured_artists": [] },
+                    { "title": "I Won't Cry for You", "featured_artists": [] },
+                    { "title": "Sick and Tired", "featured_artists": [] },
+                    { "title": "Rusty Angels", "featured_artists": [] },
+                    { "title": "Forbidden", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "13",
+                "release_date": "2013-06-10",
+                "tracks": [
+                    { "title": "End of the Beginning", "featured_artists": [] },
+                    { "title": "God Is Dead?", "featured_artists": [] },
+                    { "title": "Loner", "featured_artists": [] },
+                    { "title": "Zeitgeist", "featured_artists": [] },
+                    { "title": "Age of Reason", "featured_artists": [] },
+                    { "title": "Live Forever", "featured_artists": [] },
+                    { "title": "Damaged Soul", "featured_artists": [] },
+                    { "title": "Dear Father", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Seventh Star",
+                "release_date": "1986-01-28",
+                "tracks": [
+                    { "title": "In for the Kill", "featured_artists": [] },
+                    { "title": "No Stranger to Love", "featured_artists": [] },
+                    { "title": "Seventh Star", "featured_artists": [] },
+                    { "title": "Danger Zone", "featured_artists": [] },
+                    { "title": "Heart Like a Wheel", "featured_artists": [] },
+                    { "title": "In Memory", "featured_artists": [] },
+                    { "title": "Time Is Mine", "featured_artists": [] },
+                    { "title": "Sabbath Stones", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The End",
+                "release_date": "2017-02-03",
+                "tracks": [
+                    { "title": "The End of the Beginning", "featured_artists": [] },
+                    { "title": "God Is Dead?", "featured_artists": [] },
+                    { "title": "Loner", "featured_artists": [] },
+                    { "title": "Zeitgeist", "featured_artists": [] },
+                    { "title": "Age of Reason", "featured_artists": [] },
+                    { "title": "Live Forever", "featured_artists": [] },
+                    { "title": "Damaged Soul", "featured_artists": [] },
+                    { "title": "Dear Father", "featured_artists": [] }
+                ]
+            }
+        ]
+    }
+]

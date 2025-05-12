@@ -1,0 +1,64 @@
+[
+    {
+        "name": "Miles Davis",
+        "bio_url": "https://en.wikipedia.org/wiki/Miles_Davis",
+        "bio_birthdate": "1926-05-26",
+        "bio_summary": "Miles Davis was an influential American jazz trumpeter, bandleader, and composer, known for his innovative approaches and timeless recordings.",
+        "img_url": "/assets/jazz/Miles_Davis.jpg",
+        "location_city": "Alton",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Kind of Blue",
+                "release_date": "1959-08-17",
+                "tracks": [
+                    { "title": "So What", "featured_artists": [] },
+                    { "title": "Freddie Freeloader", "featured_artists": [] },
+                    { "title": "Blue in Green", "featured_artists": [] },
+                    { "title": "All Blues", "featured_artists": [] },
+                    { "title": "Flamenco Sketches", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Bitches Brew",
+                "release_date": "1970-03-30",
+                "tracks": [
+                    { "title": "Pharaoh's Dance", "featured_artists": [] },
+                    { "title": "Bitches Brew", "featured_artists": [] },
+                    { "title": "Spanish Key", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "John Coltrane",
+        "bio_url": "https://en.wikipedia.org/wiki/John_Coltrane",
+        "bio_birthdate": "1926-09-23",
+        "bio_summary": "John Coltrane was a pioneering American jazz saxophonist and composer whose work in modal and free jazz changed the genre forever.",
+        "img_url": "/assets/jazz/John_Coltrane.jpg",
+        "location_city": "Hamlet, North Carolina",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "A Love Supreme",
+                "release_date": "1965-02-01",
+                "tracks": [
+                    { "title": "Acknowledgement", "featured_artists": [] },
+                    { "title": "Resolution", "featured_artists": [] },
+                    { "title": "Pursuance", "featured_artists": [] },
+                    { "title": "Psalm", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Giant Steps",
+                "release_date": "1960-01-27",
+                "tracks": [
+                    { "title": "Giant Steps", "featured_artists": [] },
+                    { "title": "Cousin Mary", "featured_artists": [] },
+                    { "title": "Naima", "featured_artists": [] },
+                    { "title": "Mr. P.C.", "featured_artists": [] }
+                ]
+            }
+        ]
+    }
+]

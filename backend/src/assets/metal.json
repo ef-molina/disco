@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Metallica",
+      "bio_url": "https://en.wikipedia.org/wiki/Metallica",
+      "bio_birthdate": "1981-10-28",
+      "bio_summary": "Metallica is an American heavy metal band formed in 1981, known for their aggressive sound, intricate compositions, and influential albums.",
+      "img_url": "/assets/metal/Metallica.jpg",
+      "location_city": "Los Angeles",
+      "discography": [
+        {
+          "title": "Master of Puppets",
+          "release_date": "1986-03-03",
+          "img": "../assets/metal/Master_of_puppets.jpg",
+          "tracks": [
+            { "title": "Battery", "featured_artists": [] },
+            { "title": "Master of Puppets", "featured_artists": [] },
+            { "title": "The Thing That Should Not Be", "featured_artists": [] }
+          ]
+        },
+        {
+          "title": "...And Justice for All",
+          "release_date": "1988-08-25",
+          "img": "../assets/metal/And_Justice_for_All.jpg",
+          "tracks": [
+            { "title": "Blackened", "featured_artists": [] },
+            { "title": "…And Justice for All", "featured_artists": [] },
+            { "title": "One", "featured_artists": [] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iron Maiden",
+      "bio_url": "https://en.wikipedia.org/wiki/Iron_Maiden",
+      "bio_birthdate": "1975-12-25",
+      "bio_summary": "Iron Maiden is a British heavy metal band known for their elaborate stage shows, epic compositions, and enduring influence on the metal genre.",
+      "img_url": "/assets/metal/Iron_Maiden.webp",
+      "location_city": "London",
+      "discography": [
+        {
+          "title": "The Number of the Beast",
+          "release_date": "1982-03-22",
+          "img": "../assets/metal/Number_of_Beast.jpg",
+          "tracks": [
+            { "title": "Invaders", "featured_artists": [] },
+            { "title": "Children of the Damned", "featured_artists": [] },
+            { "title": "The Number of the Beast", "featured_artists": [] }
+          ]
+        },
+        {
+          "title": "Powerslave",
+          "release_date": "1984-09-03",
+          "img": "../assets/metal/Powerslave.jpg",
+          "tracks": [
+            { "title": "Aces High", "featured_artists": [] },
+            { "title": "2 Minutes to Midnight", "featured_artists": [] },
+            { "title": "Rime of the Ancient Mariner", "featured_artists": [] }
+          ]
+        }
+      ]
+    }
+  ]
+  

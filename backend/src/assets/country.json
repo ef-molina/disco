@@ -1,0 +1,657 @@
+[
+    {
+        "name": "Merle Haggard",
+        "bio_url": "https://en.wikipedia.org/wiki/Merle_Haggard",
+        "bio_birthdate": "1937-04-06",
+        "bio_summary": "Merle Haggard's story, like his music, was an American epic, filled with improbability, struggle, sin, and redemption. Born in California in a boxcar, he had a tough early life, spending time in and out of institutions. His music blended these hard experiences with themes of outlaws, redemption, and freedom.",
+        "img_url": "/assets/Photos/Merle_Haggard.jpg",
+        "location_city": "Bakersfield",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Swinging Doors",
+                "release_date": "1966-10-01",
+                "tracks": [
+                    { "title": "Swinging Doors", "featured_artists": [] },
+                    { "title": "I Threw Away the Rose", "featured_artists": [] },
+                    { "title": "The Bottle Let Me Down", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Mama Tried",
+                "release_date": "1968-04-01",
+                "tracks": [
+                    { "title": "Mama Tried", "featured_artists": [] },
+                    { "title": "I Can't Be Myself", "featured_artists": [] },
+                    { "title": "Little Ole Wine Drinker Me", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Okie from Muskogee",
+                "release_date": "1969-09-01",
+                "tracks": [
+                    { "title": "Okie from Muskogee", "featured_artists": [] },
+                    { "title": "Mama Tried", "featured_artists": [] },
+                    { "title": "Workin' Man Blues", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hank Williams",
+        "bio_url": "https://en.wikipedia.org/wiki/Hank_Williams",
+        "bio_birthdate": "1923-09-17",
+        "bio_summary": "Hank Williams' influence spanned far beyond his brief career, with his plainspoken tales of heartbreak, love, and drinking laying the groundwork for many future country stars. Despite a tumultuous life marked by alcoholism and early death, his music lives on as the backbone of classic country.",
+        "img_url": "/assets/Photos/Hank_Williams.jpg",
+        "location_city": "Georgiana",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Hank Williams Sings",
+                "release_date": "1951-11-09",
+                "tracks": [
+                    { "title": "Calling You", "featured_artists": [] },
+                    { "title": "Move It on Over", "featured_artists": [] },
+                    { "title": "I Saw the Light", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Moanin' the Blues",
+                "release_date": "1952",
+                "tracks": [
+                    { "title": "Lovesick Blues", "featured_artists": [] },
+                    { "title": "Moanin' the Blues", "featured_artists": [] },
+                    { "title": "I'm So Lonesome I Could Cry", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Johnny Cash",
+        "bio_url": "https://en.wikipedia.org/wiki/Johnny_Cash",
+        "bio_birthdate": "1932-02-26",
+        "bio_summary": "Johnny Cash, the 'Man in Black', became a legend in country music with his deep voice and rebellious spirit. His songs, like 'Folsom Prison Blues,' captured his raw authenticity. His influence also transcended country into rock and folk, and his partnership with June Carter Cash made them a beloved musical duo.",
+        "img_url": "/assets/Photos/Johnny_Cash.jpg",
+        "location_city": "Kingsland",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Johnny Cash with His Hot and Blue Guitar!",
+                "release_date": "1957-10-11",
+                "tracks": [
+                    { "title": "Rock Island Line", "featured_artists": [] },
+                    { "title": "(I Heard That) Lonesome Whistle", "featured_artists": [] },
+                    { "title": "Country Boy", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Fabulous Johnny Cash",
+                "release_date": "1958-11-03",
+                "tracks": [
+                    { "title": "Run Softly, Blue River", "featured_artists": [] },
+                    { "title": "Frankie's Man, Johnny", "featured_artists": [] },
+                    { "title": "That's All Over", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Hymns by Johnny Cash",
+                "release_date": "1959-03-02",
+                "tracks": [
+                    { "title": "It Was Jesus", "featured_artists": [] },
+                    { "title": "I Saw a Man", "featured_artists": [] },
+                    { "title": "Are All the Children In", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Songs of Our Soil",
+                "release_date": "1959-09-01",
+                "tracks": [
+                    { "title": "Drink to Me", "featured_artists": [] },
+                    { "title": "Five Feet High and Rising", "featured_artists": [] },
+                    { "title": "The Man on the Hill", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Now, There Was a Song!",
+                "release_date": "1960-12-01",
+                "tracks": [
+                    { "title": "Seasons of My Heart", "featured_artists": [] },
+                    { "title": "I Feel Better All Over", "featured_artists": [] },
+                    { "title": "I Couldn't Keep from Crying", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Loretta Lynn",
+        "bio_url": "https://en.wikipedia.org/wiki/Loretta_Lynn",
+        "bio_birthdate": "1932-04-14",
+        "bio_summary": "Loretta Lynn, a coal miner's daughter from Kentucky, became the queen of country music. Her songs about working-class women, love, and life struggles earned her recognition as one of the most influential women in the genre.",
+        "img_url": "/assets/Photos/Loretta_Lynn.jpg",
+        "location_city": "Butcher Hollow",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Loretta Lynn Sings",
+                "release_date": "1963",
+                "tracks": [
+                    { "title": "Success", "featured_artists": [] },
+                    { "title": "The Minute You're Gone", "featured_artists": [] },
+                    { "title": "The Other Woman", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Before I'm Over You",
+                "release_date": "1964",
+                "tracks": [
+                    { "title": "Singing the Blues", "featured_artists": [] },
+                    { "title": "Before I'm Over You", "featured_artists": [] },
+                    { "title": "You Don't Have to Be a Baby to Cry", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Songs from My Heart....",
+                "release_date": "1965",
+                "tracks": [
+                    { "title": "Happy Birthday", "featured_artists": [] },
+                    { "title": "When Lonely Hits Your Heart", "featured_artists": [] },
+                    { "title": "You've Made Me What I Am", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Blue Kentucky Girl",
+                "release_date": "1965",
+                "tracks": [
+                    { "title": "Blue Kentucky Girl", "featured_artists": [] },
+                    { "title": "Then and Only Then", "featured_artists": [] },
+                    { "title": "I Still Miss Someone", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Mr. and Mrs. Used to Be",
+                "release_date": "1965",
+                "tracks": [
+                    { "title": "Mr. and Mrs. Used to Be", "featured_artists": ["Ernest Tubb"] },
+                    { "title": "I'll Just Call You Darling", "featured_artists": ["Ernest Tubb"] },
+                    { "title": "I Reached for the Wine", "featured_artists": ["Ernest Tubb"] }
+                ]
+            },
+            {
+                "title": "Hymns",
+                "release_date": "1965",
+                "tracks": [
+                    { "title": "Everybody Wants to Go to Heaven", "featured_artists": [] },
+                    { "title": "Where No One Stands Alone", "featured_artists": [] },
+                    { "title": "When They Ring Those Golden Bells", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "I Like 'Em Country",
+                "release_date": "1966",
+                "tracks": [
+                    { "title": "Two Mules Pull This Wagon", "featured_artists": [] },
+                    { "title": "It's Been So Long, Darling", "featured_artists": [] },
+                    { "title": "Sometimes You Just Can't Win", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "You Ain't Woman Enough",
+                "release_date": "1966",
+                "tracks": [
+                    { "title": "You Ain't Woman Enough", "featured_artists": [] },
+                    { "title": "Put It Off Until Tomorrow", "featured_artists": [] },
+                    { "title": "These Boots Are Made for Walkin'", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Country Christmas",
+                "release_date": "1966",
+                "tracks": [
+                    { "title": "Country Christmas", "featured_artists": [] },
+                    { "title": "Away in a Manger", "featured_artists": [] },
+                    { "title": "Santa Claus Is Coming to Town", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Don't Come Home a Drinkin' (With Lovin' on Your Mind)",
+                "release_date": "1967",
+                "tracks": [
+                    { "title": "Don't Come Home a Drinkin' (With Lovin' on Your Mind)", "featured_artists": [] },
+                    { "title": "I Really Don't Want to Know", "featured_artists": [] },
+                    { "title": "Tomorrow Never Comes", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Singin' Again",
+                "release_date": "1967",
+                "tracks": [
+                    { "title": "Sweet Thang", "featured_artists": ["Ernest Tubb"] },
+                    { "title": "We'll Never Change", "featured_artists": ["Ernest Tubb"] },
+                    { "title": "Let's Stop Right Where We Are", "featured_artists": ["Ernest Tubb"] }
+                ]
+            },
+            {
+                "title": "Singin' with Feelin'",
+                "release_date": "1967",
+                "tracks": [
+                    { "title": "This Haunted House", "featured_artists": [] },
+                    { "title": "There's a Built-In Trouble Maker in Every Man", "featured_artists": [] },
+                    { "title": "A Man I Hardly Know", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Who Says God Is Dead!",
+                "release_date": "1968",
+                "tracks": [
+                    { "title": "Who Says God Is Dead!", "featured_artists": [] },
+                    { "title": "I Believe", "featured_artists": [] },
+                    { "title": "Standing Room Only", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Fist City",
+                "release_date": "1968",
+                "tracks": [
+                    { "title": "Fist City", "featured_artists": [] },
+                    { "title": "Jackson Ain't a Very Big Town", "featured_artists": [] },
+                    { "title": "You Didn't Like My Lovin'", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Your Squaw Is on the Warpath",
+                "release_date": "1969",
+                "tracks": [
+                    { "title": "Your Squaw Is on the Warpath", "featured_artists": [] },
+                    { "title": "Living My Lifetime for You", "featured_artists": [] },
+                    { "title": "Sneakin' In", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "If We Put Our Heads Together",
+                "release_date": "1969",
+                "tracks": [
+                    { "title": "Let's Put Our World Back Together", "featured_artists": ["Ernest Tubb"] },
+                    { "title": "Who's Gonna Take the Garbage Out", "featured_artists": ["Ernest Tubb"] },
+                    { "title": "Holding on to Nothin'", "featured_artists": ["Ernest Tubb"] }
+                ]
+            },
+            {
+                "title": "Woman of the World/To Make a Man",
+                "release_date": "1970",
+                "tracks": [
+                    { "title": "Woman of the World", "featured_artists": [] },
+                    { "title": "To Make a Man", "featured_artists": [] },
+                    { "title": "This Old House", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "I Wanna Be Free",
+                "release_date": "1970",
+                "tracks": [
+                    { "title": "I Wanna Be Free", "featured_artists": [] },
+                    { "title": "My Heart Has a Mind of Its Own", "featured_artists": [] },
+                    { "title": "We Had All the Good Things", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Entertainer",
+                "release_date": "1971",
+                "tracks": [
+                    { "title": "One's on the Way", "featured_artists": [] },
+                    { "title": "You'll Lose a Good Thing", "featured_artists": [] },
+                    { "title": "Thanks a Lot", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Loretta Lynn Country Christmas",
+                "release_date": "1974",
+                "tracks": [
+                    { "title": "Silver Bells", "featured_artists": [] },
+                    { "title": "Christmas Without Daddy", "featured_artists": [] },
+                    { "title": "Blue Christmas", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Carter Family",
+        "bio_url": "https://en.wikipedia.org/wiki/The_Carter_Family",
+        "bio_birthdate": "1927-01-01",
+        "bio_summary": "The Carter Family, with their heartfelt harmonies and simple, yet powerful, music, helped shape modern country music. Their folk-style songs like 'Keep on the Sunny Side' became the foundation for the genre’s sound.",
+        "img_url": "/assets/Photos/The_Carter_Family.jpg",
+        "location_city": "Maces Springs",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "label": "Bluebird Records",
+                "tracks": [
+                    { "title": "Anchored in Love", "featured_artists": [] },
+                    { "title": "I'll Be All Smiles Tonight", "featured_artists": [] },
+                    { "title": "Keep on the Sunny Side", "featured_artists": [] }
+                ]
+            },
+            {
+                "label": "Montgomery Ward Records",
+                "tracks": [
+                    { "title": "Lonesome Pine Special", "featured_artists": [] },
+                    { "title": "Two Sweethearts", "featured_artists": [] },
+                    { "title": "Where We'll Never Grow Old", "featured_artists": [] }
+                ]
+            },
+            {
+                "label": "Decca Records",
+                "tracks": [
+                    { "title": "Coal Miner Blues", "featured_artists": [] },
+                    { "title": "Hello Stranger", "featured_artists": [] },
+                    { "title": "My Dixie Darling", "featured_artists": [] }
+                ]
+            },
+            {
+                "label": "Victor Records",
+                "tracks": [
+                    { "title": "Bury Me Beneath the Weeping Willow", "featured_artists": [] },
+                    { "title": "Foggy Mountain Top", "featured_artists": [] },
+                    { "title": "Gold Watch and Chain", "featured_artists": [] }
+                ]
+            },
+            {
+                "label": "Vocalion Records",
+                "tracks": [
+                    { "title": "Broken Hearted Love", "featured_artists": [] },
+                    { "title": "Can the Circle Be Unbroken", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Willie Nelson",
+        "bio_url": "https://en.wikipedia.org/wiki/Willie_Nelson",
+        "bio_birthdate": "1933-04-29",
+        "bio_summary": "Willie Nelson, the Red Headed Stranger, is one of country’s greatest crossover artists. Known for his distinctive voice, he’s scored hits like 'On the Road Again' and 'Always on My Mind.' He’s lived the outlaw life that many only sing about, becoming an icon for his authenticity and longevity in the music industry.",
+        "img_url": "/assets/Photos/Willie_Nelson.jpg",
+        "location_city": "Abbott",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "And Then I Wrote",
+                "release_date": "1962-11-01",
+                "tracks": [
+                    { "title": "Undo the Right", "featured_artists": [] },
+                    { "title": "The Face of a Fighter", "featured_artists": [] },
+                    { "title": "So Much to Do", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Here's Willie Nelson",
+                "release_date": "1963-02-01",
+                "tracks": [
+                    { "title": "I Never Cared for You", "featured_artists": [] },
+                    { "title": "The Part Where I Cry", "featured_artists": [] },
+                    { "title": "The Ghost", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Make Way for Willie Nelson",
+                "release_date": "1964-05-01",
+                "tracks": [
+                    { "title": "One in a Row", "featured_artists": [] },
+                    { "title": "I Feel Sorry for Him", "featured_artists": [] },
+                    { "title": "Make Way for a Better Man", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Seven Year Itch",
+                "release_date": "1967-10-01",
+                "tracks": [
+                    { "title": "Things to Remember", "featured_artists": [] },
+                    { "title": "The Winding Stream", "featured_artists": [] },
+                    { "title": "I Know I'm Losing You", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Waylon Jennings",
+        "bio_url": "https://en.wikipedia.org/wiki/Waylon_Jennings",
+        "bio_birthdate": "1937-06-15",
+        "bio_summary": "Waylon Jennings was a pioneer of the Outlaw Country movement. His style broke away from the polished Nashville sound, favoring a raw, stripped-back approach. His rebellious spirit was emblematic of the Outlaw Country genre, and his legacy continues to shape country music today.",
+        "img_url": "/assets/Photos/Waylon_Jennings.jpg",
+        "location_city": "Littlefield",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Waylon Jennings and the Waylors",
+                "release_date": "1964-01-01",
+                "tracks": [
+                    { "title": "Love of the Common People", "featured_artists": [] },
+                    { "title": "The Chokin' Kind", "featured_artists": [] },
+                    { "title": "Don’t Think Twice, It’s Alright", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Singer of Songs",
+                "release_date": "1966-05-01",
+                "tracks": [
+                    { "title": "The Chokin' Kind", "featured_artists": [] },
+                    { "title": "Trouble in Mind", "featured_artists": [] },
+                    { "title": "Hummingbird", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Nashville Rebel",
+                "release_date": "1966-07-01",
+                "tracks": [
+                    { "title": "You Can Have Her", "featured_artists": [] },
+                    { "title": "The Real Me", "featured_artists": [] },
+                    { "title": "Dream Baby", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Waylon Jennings (self-titled)",
+                "release_date": "1970-01-01",
+                "tracks": [
+                    { "title": "Only Daddy That'll Walk the Line", "featured_artists": [] },
+                    { "title": "The Eagle", "featured_artists": [] },
+                    { "title": "I'm a Ramblin' Man", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Dolly Parton",
+        "bio_url": "https://en.wikipedia.org/wiki/Dolly_Parton",
+        "bio_birthdate": "1946-01-19",
+        "bio_summary": "Dolly Parton is a global icon whose career spans both country music and entertainment. Known for her hit songs like 'Jolene' and 'I Will Always Love You,' Parton’s influence extends far beyond country music into pop and philanthropy, making her one of the most beloved figures in music.",
+        "img_url": "/assets/Photos/Dolly_Parton.jpg",
+        "location_city": "Sevierville",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Hello, I'm Dolly",
+                "release_date": "1967",
+                "tracks": [
+                    { "title": "Dumb Blonde", "featured_artists": [] },
+                    { "title": "Your Ole Handy Man", "featured_artists": [] },
+                    { "title": "I Don't Want to Throw Rice", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Just Because I'm a Woman",
+                "release_date": "1968",
+                "tracks": [
+                    { "title": "You're Gonna Be Sorry", "featured_artists": [] },
+                    { "title": "I Wish I Felt This Way at Home", "featured_artists": [] },
+                    { "title": "False Eyelashes", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "In the Good Old Days (When Times Were Bad)",
+                "release_date": "1969",
+                "tracks": [
+                    { "title": "Don't Let It Trouble Your Mind", "featured_artists": [] },
+                    { "title": "He's a Go Getter", "featured_artists": [] },
+                    { "title": "In the Good Old Days (When Times Were Bad)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "My Blue Ridge Mountain Boy",
+                "release_date": "1969",
+                "tracks": [
+                    { "title": "In the Ghetto", "featured_artists": [] },
+                    { "title": "Games People Play", "featured_artists": [] },
+                    { "title": "'Til Death Do Us Part", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Fairest of Them All",
+                "release_date": "1970",
+                "tracks": [
+                    { "title": "Daddy Come and Get Me", "featured_artists": [] },
+                    { "title": "Chas", "featured_artists": [] },
+                    { "title": "When Possession Gets Too Strong", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "George Jones",
+        "bio_url": "https://en.wikipedia.org/wiki/George_Jones",
+        "bio_birthdate": "1931-09-12",
+        "bio_summary": "Known as country’s greatest vocalist, George Jones could transform any song with his deep voice and impeccable phrasing. His powerful renditions of heartbreak and devotion became staples of the genre. Despite a tumultuous life marked by addiction, Jones’ legacy as a singer endures.",
+        "img_url": "/assets/Photos/George_Jones.jpg",
+        "location_city": "Saratoga",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Grand Tour",
+                "release_date": "1974-01-01",
+                "tracks": [
+                    { "title": "The Grand Tour", "featured_artists": [] },
+                    { "title": "He Stopped Loving Her Today", "featured_artists": [] },
+                    { "title": "If Drinkin' Don't Kill Me (Her Memory Will)", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "I Am What I Am",
+                "release_date": "1980-01-01",
+                "tracks": [
+                    { "title": "I Am What I Am", "featured_artists": [] },
+                    { "title": "The Door", "featured_artists": [] },
+                    { "title": "She's My Rock", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "In a Gospel Way",
+                "release_date": "1974-02-01",
+                "tracks": [
+                    { "title": "My God Is Real", "featured_artists": [] },
+                    { "title": "I'm Gonna Walk Them Golden Stairs", "featured_artists": [] },
+                    { "title": "The Church Stood Its Ground", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Nothing Ever Hurt Me (Half as Bad as Losing You)",
+                "release_date": "1973-01-01",
+                "tracks": [
+                    { "title": "Nothing Ever Hurt Me (Half as Bad as Losing You)", "featured_artists": [] },
+                    { "title": "She'll Grow On You", "featured_artists": [] },
+                    { "title": "Take Me", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Garth Brooks",
+        "bio_url": "https://en.wikipedia.org/wiki/Garth_Brooks",
+        "bio_birthdate": "1962-02-07",
+        "bio_summary": "Garth Brooks revolutionized country music in the '90s with his pop-influenced sound. Though his crossover appeal ruffled traditionalists, he became the best-selling solo artist of all time. His energy and ability to connect with audiences has made him an enduring figure in country music.",
+        "img_url": "/assets/Photos/Garth_Brooks.jpg",
+        "location_city": "Tulsa",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "Garth Brooks",
+                "release_date": "1989-04-12",
+                "tracks": [
+                    { "title": "Much Too Young (To Feel This Damn Old)", "featured_artists": [] },
+                    { "title": "If Tomorrow Never Comes", "featured_artists": [] },
+                    { "title": "The Dance", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "No Fences",
+                "release_date": "1990-08-27",
+                "tracks": [
+                    { "title": "The Thunder Rolls", "featured_artists": [] },
+                    { "title": "New Way to Fly", "featured_artists": [] },
+                    { "title": "Two of a Kind, Workin' on a Full House", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Ropin' the Wind",
+                "release_date": "1991-09-02",
+                "tracks": [
+                    { "title": "The River", "featured_artists": [] },
+                    { "title": "Rodeo", "featured_artists": [] },
+                    { "title": "Shameless", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "The Chase",
+                "release_date": "1992-09-14",
+                "tracks": [
+                    { "title": "We Bury the Hatchet", "featured_artists": [] },
+                    { "title": "Callin' Baton Rouge", "featured_artists": [] },
+                    { "title": "Ain't Goin' Down ('Til the Sun Comes Up)", "featured_artists": [] }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "George Strait",
+        "bio_url": "https://en.wikipedia.org/wiki/George_Strait",
+        "bio_birthdate": "1952-05-18",
+        "bio_summary": "George Strait is widely considered the King of Country, with a career spanning over four decades. Known for his smooth voice and timeless songs, he has amassed countless hits such as 'Amarillo by Morning,' 'Check Yes or No,' and 'I Cross My Heart.' Strait's influence on modern country music is immeasurable, and his ability to remain relevant over the years has solidified his legendary status in the genre.",
+        "img_url": "/assets/Photos/George_Strait.jpg",
+        "location_city": "Poteet",
+        "location_neighborhood": null,
+        "discography": [
+            {
+                "title": "George Strait",
+                "release_date": "1981-05-01",
+                "tracks": [
+                    { "title": "Unwound", "featured_artists": [] },
+                    { "title": "Blame It On Mexico", "featured_artists": [] },
+                    { "title": "If You're Thinking You Want a Stranger", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Strait from the Heart",
+                "release_date": "1982-03-01",
+                "tracks": [
+                    { "title": "Fool Hearted Memory", "featured_artists": [] },
+                    { "title": "Let's Fall to Pieces Together", "featured_artists": [] },
+                    { "title": "Heartbroke", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Right or Wrong",
+                "release_date": "1983-05-02",
+                "tracks": [
+                    { "title": "You're Dancin' This Dance All Wrong", "featured_artists": [] },
+                    { "title": "Right or Wrong", "featured_artists": [] },
+                    { "title": "The Cowboy Rides Away", "featured_artists": [] }
+                ]
+            },
+            {
+                "title": "Does Fort Worth Ever Cross Your Mind",
+                "release_date": "1984-02-01",
+                "tracks": [
+                    { "title": "Does Fort Worth Ever Cross Your Mind", "featured_artists": [] },
+                    { "title": "If You're Thinking You Want a Stranger", "featured_artists": [] },
+                    { "title": "I'm Not That Good at Goodbye", "featured_artists": [] }
+                ]
+            }
+        ]
+    }
+]
